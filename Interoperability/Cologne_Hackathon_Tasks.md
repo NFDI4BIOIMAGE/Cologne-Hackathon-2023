@@ -12,7 +12,7 @@
 #### ***<center><p style="color:red"><ins>3.	OMERO / zarr</ins></p></center>***
 #### ***<center>4.	3D Slicer, Neuroglancer</center>***
 
-For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Thanks to @tstoeter for providing this list (formatting + few points @andreaschrader). Please adapt this document accordingly in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
+For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Thanks to @tstoeter for providing this initial task list (formatting + few points @andreaschrader). Please adapt this document in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
 
 Different team members can work on different tasks from your list.  
 
