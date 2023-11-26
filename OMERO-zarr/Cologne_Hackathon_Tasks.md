@@ -6,13 +6,13 @@
 
 ## <center>- T A S K    L I S T S -</center>
 
-**<center>List of tasks for hacking for each of the 4 topics:</center>**  
+### <center>List of tasks for hacking for the 4 topics:</center>
 #### <center><p style="color:blue">1. Interoperability OMERO-ARC (OMERO-BIDS, ARC-BIDS)</p></center>
 #### **<center><p style="color:green"><ins>2.	REMBI / Mapping</ins></p></center>** 
 #### ***<center><p style="color:red"><ins>3.	OMERO / zarr</ins></p></center>***
 #### ***<center>4.	3D Slicer, Neuroglancer</center>***
 
-For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Please adapt this document accordingly in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
+For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Thanks to @tstoeter for providing this list (formatting + few points @andreaschrader). Please adapt this document accordingly in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
 
 Different team members can work on different tasks from your list.  
 
@@ -28,7 +28,7 @@ One task for all: Decide until the end of the Hackathon which parts of your work
 <br>
 <br>
 
-Task usually build on top of another, but some can be worked on independently
+Tasks usually build on top of another, but some can be worked on independently
 
 <h4 style="color:blue;">
     BIDS/ARC<!-- 
@@ -60,7 +60,7 @@ Bring/take your own data set and put it into ARC / BIDS / zarr manually or using
     OME<!-- 
 --><span style="color:red;"><b><ins><i>RO</i></b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
---><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span>
+--><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span>
 </h4>
 
 The next level is to bring your newly structured dataset into OMERO.  
@@ -70,18 +70,18 @@ The next level is to bring your newly structured dataset into OMERO.
 - Get OMERO running on your own system (Docker) or your institutional instance.
 - Which OMERO setup is necessary, i.e. which plugins and additional tools are required?
 - Which part of the dataset can we directly see inside OMERO, which not? Any ideas for support?
-- Again all steps should be documented
+- Again, all steps should be documented
 - Try adhering to REMBI for the metadata.
 - Which steps are necessary to achieve automatic import?
 - Identify missing UI features in OMERO for (meta)data presentation or import step. How can the UI support more?
 - Maybe easier or already done above: Go the reverse way, i.e. do all above steps for export out of OMERO into structure
-- Even further level: Start writing a script for automatic import/export maybe more or less tailored to your specific example, later generalize from there – align this with Christoph’s work who is working on OMERO-ARC export: https://github.com/cmohl2013/omero-cli-transfer/tree/arc.  
+- Even further level: Start writing a script for automatic import/export maybe more or less tailored to your specific example, later generalize from there – align this with Christoph’s work who is working on [OMERO-ARC export](https://github.com/cmohl2013/omero-cli-transfer/tree/arc).  
 
 ##### **Goals**  
 
 - Provide documentation of the current state of the art and the steps done in the selected tasks.
 - Create/add public use cases / examples.
-- Get development going for ARC/OMERO interoperability for the de.NBI BioHackathon topic (https://www.denbi.de/de-nbi-events/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data)
+- Get development going for ARC/OMERO interoperability for the [OMERO-ARC de.NBI BioHackathon project](https://www.denbi.de/de-nbi-events/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data)
 
 <h4 style="color:red;">
     <b><ins><i>OMERO/zarr</i></ins></b><!-- 
