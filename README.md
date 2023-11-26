@@ -17,6 +17,7 @@ This directory contains pdf versions of files shared before, at or after the Hac
 ## Topics
 
 While preparing this Hackathon, we identified from a preparatory meeting with several participants these topics for the Cologne Hackathon.  
+
 These might be slightly adapted during the Hackathon but were the basis for the planning period:
 
 ### [Interoperability](./Interoperability/)
@@ -27,14 +28,19 @@ These might be slightly adapted during the Hackathon but were the basis for the 
 
 ### [3D Slicer / Neuroglancer](./3DSlicer_Neuroglancer/)
 
-### Use Cases
+
+## Use Cases
 
 Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./UseCases/README.md).
 
+
 ## Contributions
 
-### 🚧 
-Optimal contributions during the Hackathon need to be decided on [here](CONTRIBUTING.md).  
+<br />
+
+🚧 **Optimal contributions during the Hackathon need to be decided on [here](CONTRIBUTING.md).** 🚧  
+
+ <br />
 
 🙌 Thank you for any contribution to the **NFDI4Bioimage - TA3-Hackaton - UoC-2023** repository!!!  
 
@@ -48,4 +54,4 @@ Suggestion: alphabetical order (surname):
 
 |name|GitHub|ORCID|ROR|  
 |---|---|---|---|  
-|Andrea Schrader|[@andreaschrader](https://github.com/andreaschrader)|https://orcid.org/0000-0002-3879-7057|https://ror.org/034waa237, https://ror.org/00rcxh774|   
+|Andrea Schrader|[@andreaschrader](https://github.com/andreaschrader)|https://orcid.org/0000-0002-3879-7057|https://ror.org/034waa237<br><br>https://ror.org/00rcxh774|   

@@ -33,9 +33,9 @@ Task usually build on top of another, but some can be worked on independently
 <h4 style="color:blue;">
     BIDS/ARC<!-- 
 --><span style="color:black;">/</span><!-- 
---><span style="color:red;"><strong>zarr</strong></span><!-- 
+--><span style="color:red;"><b>zarr</b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
---><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span>
+--><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span>
 </h4>
 
 Bring/take your own data set and put it into ARC / BIDS / zarr manually or using existing tools  
@@ -58,7 +58,7 @@ Bring/take your own data set and put it into ARC / BIDS / zarr manually or using
 
 <h4 style="color:blue;">
     OME<!-- 
---><span style="color:red;"><strong>RO</strong></span><!-- 
+--><span style="color:red;"><b>RO</b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
 --><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span>
 </h4>
@@ -84,7 +84,7 @@ The next level is to bring your newly structured dataset into OMERO.
 - Get development going for ARC/OMERO interoperability for the de.NBI BioHackathon topic (https://www.denbi.de/de-nbi-events/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data)
 
 <h4 style="color:red;">
-    <strong>OMERO/zarr</strong><!-- 
+    <b>OMERO/zarr</b><!-- 
 --><span style="color:black;"> + <i><strong>Neuroglancer</strong></i> (+ </span><!-- 
 --><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span><!-- 
 --><span style="color:black;">)</span>
