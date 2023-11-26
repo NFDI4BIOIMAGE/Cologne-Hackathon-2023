@@ -9,7 +9,7 @@
 **<center>List of tasks for hacking for each of the 4 topics:</center>**  
 #### <center><p style="color:blue">1. Interoperability OMERO-ARC (OMERO-BIDS, ARC-BIDS)</p></center>
 #### **<center><p style="color:green"><ins>2.	REMBI / Mapping</ins></p></center>** 
-#### **<center><p style="color:red">3.	OMERO / zarr</p></center>**
+#### ***<center><p style="color:red"><ins>3.	OMERO / zarr</ins></p></center>***
 #### ***<center>4.	3D Slicer, Neuroglancer</center>***
 
 For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Please adapt this document accordingly in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
@@ -33,9 +33,9 @@ Task usually build on top of another, but some can be worked on independently
 <h4 style="color:blue;">
     BIDS/ARC<!-- 
 --><span style="color:black;">/</span><!-- 
---><span style="color:red;"><strong>zarr</strong></span><!-- 
+--><span style="color:red;"><b><ins><i>zarr</i></b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
---><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span>
+--><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span>
 </h4>
 
 Bring/take your own data set and put it into ARC / BIDS / zarr manually or using existing tools  
@@ -58,7 +58,7 @@ Bring/take your own data set and put it into ARC / BIDS / zarr manually or using
 
 <h4 style="color:blue;">
     OME<!-- 
---><span style="color:red;"><strong>RO</strong></span><!-- 
+--><span style="color:red;"><b><ins><i>RO</i></b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
 --><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span>
 </h4>
@@ -84,9 +84,9 @@ The next level is to bring your newly structured dataset into OMERO.
 - Get development going for ARC/OMERO interoperability for the de.NBI BioHackathon topic (https://www.denbi.de/de-nbi-events/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data)
 
 <h4 style="color:red;">
-    <strong>OMERO/zarr</strong><!-- 
---><span style="color:black;"> + <i><strong>Neuroglancer</strong></i> (+ </span><!-- 
---><span style="color:green;"><strong><ins>REMBI/Mapping</ins></strong></span><!-- 
+    <b><ins><i>OMERO/zarr</i></ins></b><!-- 
+--><span style="color:black;"> + <i><b>Neuroglancer</b></i> (+ </span><!-- 
+--><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span><!-- 
 --><span style="color:black;">)</span>
 </h4>
 
