@@ -7,11 +7,11 @@ Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3
 ⚠️  ***Please note: This repo is only for documentation and not for data!***  ⚠️
 
 
-## Shared_pdfs
+## Shared_Pdfs
 
 This directory contains pdf versions of files shared before, at or after the Hackathon:
 - Schedule
-- Tasklist to be adjusted for the different topics at the Hackathon (see markdown versions in the respective topic's directories).
+- Task list to be adjusted for the different topics at the Hackathon (see markdown versions in the respective topic's directories).
 
 
 ## Topics
@@ -31,7 +31,7 @@ These might be slightly adapted during the Hackathon but were the basis for the 
 
 ## Use Cases
 
-Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./UseCases/README.md).
+Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./Use_Cases/README.md).
 
 
 ## Contributions
