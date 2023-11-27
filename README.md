@@ -56,5 +56,6 @@ Suggestion: alphabetical order (surname):
 |---|---|---|---|  
 |Andrea Schrader|[@andreaschrader](https://github.com/andreaschrader)|https://orcid.org/0000-0002-3879-7057|https://ror.org/034waa237<br><br>https://ror.org/00rcxh774|   
 |Josh Moore|[@joshmoore](https://github.com/joshmoore)|https://orcid.org/0000-0003-4028-811X|[https://ror.org/034waa237](https://ror.org/05tpnw772)|
-|Christoph Möhl|[@cmohl2013](https://github.com/cmohl2013)|https://orcid.org/0000-0002-0829-5101||   
+|Christoph Möhl|[@cmohl2013](https://github.com/cmohl2013)|https://orcid.org/0000-0002-0829-5101||
+|Niraj Kandpal|[@Nirkan](https://github.com/Nirkan)|https://orcid.org/0009-0007-5101-4786||
 
