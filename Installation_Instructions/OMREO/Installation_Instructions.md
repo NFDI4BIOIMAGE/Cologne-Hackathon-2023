@@ -9,9 +9,9 @@ You can use this file to provide useful links on installation or other backgroun
 
 ### Install Docker using snap 
 
-Link : https://snapcraft.io/install/docker/ubuntu
+Link : https://snapcraft.io/install/docker/ubuntu  <br />
 
-sudo apt update
+sudo apt update <br />
 sudo apt install snapd
 sudo snap install docker
 
@@ -26,6 +26,6 @@ sudo docker compose up -d
 sudo docker compose logs -f
 
 
-Click on : (http://localhost:4080/)
+Click on : http://localhost:4080/
 user: root
 password : omero
