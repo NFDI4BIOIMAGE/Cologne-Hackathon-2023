@@ -9,7 +9,7 @@ You can use this file to provide useful links on installation or other backgroun
 
 ### Install Docker using snap 
 
-Link : (https://snapcraft.io/install/docker/ubuntu)
+Link : https://snapcraft.io/install/docker/ubuntu
 
 sudo apt update
 sudo apt install snapd
