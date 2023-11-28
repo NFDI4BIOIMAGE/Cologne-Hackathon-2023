@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3-Hackaton - UoC-2023** (in short: **Cologne Hackathon**)  
+Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**)  
 
 ⚠️  ***Please note: This repo is only for documentation and not for data!***  ⚠️
 
@@ -42,13 +42,13 @@ Use Cases can be described in this directory or in the respective topic's direct
 
  <br />
 
-🙌 Thank you for any contribution to the **NFDI4Bioimage - TA3-Hackaton - UoC-2023** repository!!!  
+🙌 Thank you for any contribution to the **NFDI4Bioimage - TA3-Hackathon - UoC-2023** repository!!!  
 
 When contributing, please consider that (parts of) this repository might be used by people with various background and intentions including teaching in the future. Therefore, it is appreciated if you can provide ***a brief non-specialist targeted introduction / summary*** preceding your content.  
 
 
 ## Contributors
-🤝 Participants contributing to the **NFDI4Bioimage - TA3-Hackaton - UoC-2023** can provide their name, GitHub handle, ORCID iD and ROR here - if you like.  
+🤝 Participants contributing to the **NFDI4Bioimage - TA3-Hackathon - UoC-2023** can provide their name, GitHub handle, ORCID iD and ROR here - if you like.  
 
 Suggestion: alphabetical order (surname):  
 
