@@ -2,26 +2,24 @@
 
 :construction: Under construction! :construction:
 
-
-- create an ARC (either in the HUB with a template or locally e.g. using the ARC commander (`arc init`)
-- sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
-- add at least one building block using Swate
-- Grow-an-ARC - example for filling the isa.investigation file using ARCcommander v0.5.0
-- A simple microscopy ARC in the making and used as a template for Grow-an-ARC
-- hint to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar as [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
-- A nice example: [Michele's ARC](https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve)
-
-
 ## DataPLANT HUB (GitLab)
 
 Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=gitlab-fr&tab_id=ie6dwnHi6Uc) for access to the DataPLANT HUB!  
 
-- create an ARC (either in the HUB with a template or locally e.g. using the ARC commander (`arc init`)
+- For installation instructions, please see below.
+
+Here you can start:
+- create an ARC (either in the HUB with a template or locally e.g. using the [ARC commander]() (`arc init`)
 - sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
-- add at least one building block using Swate
-- Grow-an-ARC - example for filling the isa.investigation file using ARCcommander v0.5.0
-- A simple microscopy ARC in the making and used as a template for Grow-an-ARC
+- add at least one building block using [Swate](https://github.com/nfdi4plants/Swate) or [Swate alpha](https://swate-alpha.nfdi4plants.org/).
+- [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) - example for filling the isa.investigation file using ARCcommander v0.5.0 - WIP
+- A [simple microscopy ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) in the making and used as a template for Grow-an-ARC - WIP
 - A nice example: [Michele's ARC](https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve)
+
+## ARCcommander
+
+Respository: https://github.com/nfdi4plants/ARCCommander
+Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ArcCommanderManual/index.html
 
 ## Installing the suggested **(preview) version of the ARCcommander**
 
@@ -87,16 +85,19 @@ tbc
 
 
 ## ARCitect
-not yet recommended
+ARCitect is not yet recommended but a good starting point to familiarize with the ARC.
 
+Repository: https://github.com/nfdi4plants/ARCitect
+Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ARCitect-Manual/index.html
 
 ## Swate
 
-
+Repository: https://github.com/nfdi4plants/Swate
+Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/SwateManual/index.html
 
 ## Swate alpha
 
-https://swate-alpha.nfdi4plants.org/
+A Swate version for the browser: https://swate-alpha.nfdi4plants.org/
 
 
 ## ARC specification
@@ -104,4 +105,4 @@ https://swate-alpha.nfdi4plants.org/
 Last but not least: Link to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar to [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
 
 ## ARCtrl
-Link to [ARCtrl: ](https://github.com/nfdi4plants/ARCtrl)
+Repository: [ARCtrl: ](https://github.com/nfdi4plants/ARCtrl)
