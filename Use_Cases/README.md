@@ -27,3 +27,5 @@ The omero-links only work in the Cologne campus network (including eduroam), see
 
 You can import this project in your own Omero server by [omero-cli-transfer](https://github.com/ome/omero-cli-transfer/releases) using this tarball: [file, 700MB](https://uni-koeln.sciebo.de/s/uoVthYauZ45f0Tn)
 
+### Corresponding pseudo-ARC folder structure, csv-tables to import KVPs...
+https://github.com/cecad-imaging/omero-arc-testdata
