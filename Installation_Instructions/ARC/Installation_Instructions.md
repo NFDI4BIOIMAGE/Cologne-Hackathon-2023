@@ -2,25 +2,26 @@
 
 :construction: Under construction! :construction:
 
-Notes to consider when providing installation instruction and other helpful links
-- point to the DataPLANT KnowledgeBase
-- git
-- git-lfs
-- ARCcommander - suggest preview2 for v1.0.0
-(- ARCitect - not yet recommended)
-- Swate
-- Swate alpha
-- register at HUB
-- create an ARC (either in the HUB with a template or locally)
+
+- create an ARC (either in the HUB with a template or locally e.g. using the ARC commander (`arc init`)
 - sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
 - add at least one building block using Swate
 - Grow-an-ARC - example for filling the isa.investigation file using ARCcommander v0.5.0
 - A simple microscopy ARC in the making and used as a template for Grow-an-ARC
-- hint to ARC specification - "New version (!), now also similar as Grow-an-ARC providing examples along with how they understand an ARC."
-- hint to ARCtrl Python version under development
+- hint to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar as [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
+- A nice example: [Michele's ARC](https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve)
+
 
 ## DataPLANT HUB (GitLab)
-Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=gitlab-fr&tab_id=ie6dwnHi6Uc) for access to the DataPLANT HUB!
+
+Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=gitlab-fr&tab_id=ie6dwnHi6Uc) for access to the DataPLANT HUB!  
+
+- create an ARC (either in the HUB with a template or locally e.g. using the ARC commander (`arc init`)
+- sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
+- add at least one building block using Swate
+- Grow-an-ARC - example for filling the isa.investigation file using ARCcommander v0.5.0
+- A simple microscopy ARC in the making and used as a template for Grow-an-ARC
+- A nice example: [Michele's ARC](https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve)
 
 ## Installing the suggested **(preview) version of the ARCcommander**
 
@@ -28,15 +29,15 @@ Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions
 **git**  
 **git-lfs**  
 
-Installing a (preview) version of the ARCcommander for experienced users (just execute the code block in 3. And check the name of the version you want to install) and with more detailed comments for beginners:
+Installing the preview2 for v1.0.0 of the ARCcommander for experienced users (just execute the code block in 3. And check the name of the version you want to install) and with more detailed comments for beginners:
 
-Add the link https://github.com/nfdi4plants/ARCCommander/releases
+At the link https://github.com/nfdi4plants/ARCCommander/releases, select and download the version you wan to install.
 
 Remove the old ARC commander version if not in `/usr/local/bin/` and not present somewhere else on the system.
 
 You can also visit the [DataPLANT KnowledgeBase](https://nfdi4plants.org/nfdi4plants.knowledgebase). As it might repeatedly re-structured, some links might be dead after a while provided below. In such a case, the content, likely, will just have been moved within the KnowledgeBase.
 
-### Tested for macOS 14.1.1 with Intel chip:
+### Tested for macOS:
 
 1.	Download the x64 version from [here](https://github.com/nfdi4plants/ARCCommander/releases) into the Download directory: arc_osx-x64 
 You have to adjust accordingly the second line in point 3 below in case the name name of the downloaded file (here `arc_osx-x64`) differs. You can delete the second line in 3. If the name is `arc` already!
@@ -86,7 +87,7 @@ tbc
 
 
 ## ARCitect
-
+not yet recommended
 
 
 ## Swate
@@ -95,10 +96,12 @@ tbc
 
 ## Swate alpha
 
+https://swate-alpha.nfdi4plants.org/
 
 
 ## ARC specification
 
+Last but not least: Link to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar to [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
 
-
-## ARC control
+## ARCtrl
+Link to [ARCtrl: ](https://github.com/nfdi4plants/ARCtrl)
