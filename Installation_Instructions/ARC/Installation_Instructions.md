@@ -105,4 +105,4 @@ A Swate version for the browser: https://swate-alpha.nfdi4plants.org/
 Last but not least: Link to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar to [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
 
 ## ARCtrl
-Repository: [ARCtrl: ](https://github.com/nfdi4plants/ARCtrl)
+Repository: https://github.com/nfdi4plants/ARCtrl
