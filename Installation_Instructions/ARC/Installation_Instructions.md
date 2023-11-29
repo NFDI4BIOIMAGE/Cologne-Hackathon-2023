@@ -8,7 +8,7 @@ Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions
 
 - For installation instructions, please see below.
 
-Here you can start:
+Here you can start to dive into the ARCiverse:
 - create an ARC (either in the HUB with a template or locally e.g. using the [ARC commander]() (`arc init`)
 - sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
 - add at least one building block using [Swate](https://github.com/nfdi4plants/Swate) or [Swate alpha](https://swate-alpha.nfdi4plants.org/).
