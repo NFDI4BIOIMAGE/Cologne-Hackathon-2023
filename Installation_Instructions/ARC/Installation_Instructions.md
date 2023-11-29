@@ -51,7 +51,8 @@ mv ./arc /usr/local/bin/
 
 4. Test installation
 
-execute in the terminal in any directory without the `arc` file.  
+Execute in the terminal in any directory without the `arc` file:   
+`arc --version`   
 
 ### Tested for Windows 10:
 
@@ -80,9 +81,24 @@ Optional: Check the DataPLANT KnowledgeBase for [installation instructions](http
 
 
 ### Test current installation instructions for Linux:
-tbc   
 
-:construction: Under construction! :construction:
+1.	Download the Linux version from [here](https://github.com/nfdi4plants/ARCCommander/releases): arc_linux-x64 
+
+2.	Open the Terminal
+
+3.	Execute in the terminal (copy each line or in block and execute):
+   
+```
+cd Downloads
+mv arc_osx-x64 arc
+chmod a+x ./arc
+mv arc $HOME/bin/
+```
+
+4. Test installation
+
+Execute in the terminal in any directory without the `arc` file:   
+`arc --version`   
 
 ## ARCitect
 ARCitect is not yet recommended but a good starting point to familiarize with the ARC.
