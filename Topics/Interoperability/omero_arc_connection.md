@@ -30,8 +30,9 @@ Technically, this is very difficult to implement. Merge-conflicts might be shows
 
 - An image file does not know itself, how many images it contains. Therefore, changing content of image files after they are created will in many cases cause big problems in OMERO.
   
-  - Read-only files?
+  - Read-only files or folders specified in some config?
   - Create new identities in OMERO?
-
+  - `Raw data file` headers specify files which may not be modified?
+  
 
 
