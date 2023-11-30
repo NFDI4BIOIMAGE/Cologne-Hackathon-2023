@@ -29,3 +29,17 @@ You can import this project in your own Omero server by [omero-cli-transfer](htt
 
 ### Corresponding pseudo-ARC folder structure, csv-tables to import KVPs...
 https://github.com/cecad-imaging/omero-arc-testdata
+
+
+## CLSM stacks
+
+Here you can find @andreaschrader's ARC in the making:
+https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks
+
+Please note, Swate annotation is not completed and is WIP during this Hackathon.
+
+## Spatial Transcriptomics
+
+Here you can find a nice ARC created by @MicheleBortol:
+https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve
+
