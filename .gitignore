@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # macOS
 .DS_Store
+
+#Others
+Prep_stage/
