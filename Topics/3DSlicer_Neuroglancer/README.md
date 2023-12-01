@@ -130,9 +130,9 @@ Please note, if you prefer using the GerbiCloud or your file size is beyond the 
 ## Outlook
 
 * Next steps are to get a production ready installation
-** Automate starting the Neuroglancer web server for any image ID
-** Improve shaders for 16bit and mutli channel images and include sliders (documented in tutorial)
-** Add an "Open in Neuroglancer" button or context menu to images in OMERO
-** Test the reverse proxy approach, are logins and cookies preserved?
-** Compile a separate OMERO plugin for the Neuroglancer integration
+* Automate starting the Neuroglancer web server for any image ID
+* Improve shaders for 16bit and mutli channel images and include sliders (documented in tutorial)
+* Add an "Open in Neuroglancer" button or context menu to images in OMERO
+* Test the reverse proxy approach, are logins and cookies preserved?
+* Compile a separate OMERO plugin for the Neuroglancer integration
 
