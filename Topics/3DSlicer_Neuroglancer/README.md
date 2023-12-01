@@ -25,6 +25,7 @@ https://mybinder.org/v2/gh/Slicer/SlicerNotebooks/master?filepath=SlicerWeb.ipyn
 
 ## Installing and configuring OMERO
 
+* We install the OMERO server and web interface using Docker
 * `git clone https://github.com/ome/docker-example-omero`
 * follow instructions in README
 
@@ -108,14 +109,17 @@ print(viewer)
 ## Results and image of the workflow session
 
 * We sucessfully could connect OMERO with Neuroglancer and show a proof of concept
+
+![A zarr dataset from OMERO shown in Neuroglancer](images/Screenshot_2023-11-30_17-15-43.png)
+
 * Technical challenges were all related to access images in omero from external web
-** Login necessary and OMERO cookies not available to Neuroglancer
-** Solution was to grant public access to all routes (NOT RECOMMENDED in production!)
-** HTTP/HTTPS, when using an online version of Neuroglancer with HTTPS, providing an HTTP URL of your local omero-web installation, this unsafe access is blocked
-** Solution was to run OMERO and Neuroglancer both locally and using only HTTP
-** CORS needs to be enabled on OMERO site, when running Neuroglancer and OMERO from different web servers
-** Solution in future can be to run both behind the same webserver, e.g. an nginx reverse proxy each with their own route
-** Another solution would be to build an omero-web plugin for Neuroglancer, possibly right away into omero-web-zarr or as a separate plugin
+* Login necessary and OMERO cookies not available to Neuroglancer
+* Solution was to grant public access to all routes (NOT RECOMMENDED in production!)
+* HTTP/HTTPS, when using an online version of Neuroglancer with HTTPS, providing an HTTP URL of your local omero-web installation, this unsafe access is blocked
+* Solution was to run OMERO and Neuroglancer both locally and using only HTTP
+* CORS needs to be enabled on OMERO site, when running Neuroglancer and OMERO from different web servers
+* Solution in future can be to run both behind the same webserver, e.g. an nginx reverse proxy each with their own route
+* Another solution would be to build an omero-web plugin for Neuroglancer, possibly right away into omero-web-zarr or as a separate plugin
 
 
 ## [Report](./Report/)
