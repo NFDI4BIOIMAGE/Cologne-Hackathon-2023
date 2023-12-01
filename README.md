@@ -20,13 +20,13 @@ While preparing this Hackathon, we identified from a preparatory meeting with se
 
 These might be slightly adapted during the Hackathon but were the basis for the planning period:
 
-### [Interoperability](./Interoperability/)
+### [Interoperability](./Topics/Interoperability/)
 
-### [REMBI / Mapping](./REMBI-Mapping/)
+### [REMBI / Mapping](./Topics/REMBI-Mapping/)
 
-### [OMERO / zarr](./OMERO-zarr/)
+### [OMERO / zarr](./Topics/OMERO-zarr/)
 
-### [3D Slicer / Neuroglancer](./3DSlicer_Neuroglancer/)
+### [3D Slicer / Neuroglancer](./Topics/3DSlicer_Neuroglancer/)
 
 
 ## Use Cases
