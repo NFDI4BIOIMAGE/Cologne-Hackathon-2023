@@ -9,8 +9,8 @@ Worked on by Julia Thönnißen and Torsten Stöter
 * Can we have better 3D volume visualization accessible from OMERO?
 
 * 3D Slicer integration with OMERO is an external project funded by UoC
- - generally more powerful and better volume visualization
- - bringing slicer to the web is more tricky
+    * generally more powerful and better volume visualization
+    * bringing slicer to the web is more tricky
 https://discourse.slicer.org/t/how-to-run-slicer-on-the-cloud-and-access-in-a-web-browser/16401
 https://discourse.slicer.org/t/run-slicer-in-your-web-browser-as-a-jupyter-notebook-or-as-a-full-application/11569
 https://mybinder.org/v2/gh/Slicer/SlicerNotebooks/master?filepath=SlicerWeb.ipynb
