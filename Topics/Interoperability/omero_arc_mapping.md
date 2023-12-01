@@ -1,7 +1,4 @@
-## OMERO <-> ARC mapping
-
-30.11.23_Afternoon discussion
-
+# OMERO <-> ARC mapping
 
 ## General thoughts
 
@@ -49,6 +46,32 @@
   - For every image there might be multiple channels (e.g. RGB). Maybe data fragment selector in ISA could point to channel instead of file?
 
   - Regions of Interest are marked areas on a file or channel. They are stored as a list of coordinates. This might be the line we draw for storing the metadata.
+
+## Container mapping
+
+In general, we can't know specific separation rules for when to further split up OMERO containers into ARC objects beyond the general rules described below. But maybe this could be enhanced with some additional annotation (optional) on OMERO.
+
+### Project-Dataset
+
+  - This is probably the more easier of the two
+
+  - `Project` maps to `Study` (1to1)
+
+  - `Datasets` maps to `Assays` (NtoN)
+
+  - `Images` are `Rows` (NtoN) (According to the rules defined [above](#images))
+
+### Screen-Plate-Well
+
+  - `Screen` maps to `Study` (1to1)
+
+  - `Plates` map to an `Assay` (Nto1)
+
+  - `Wells` map to `Materials` in the process Graph (NtoN) (Exact location in ARC tbd)
+
+  - `Well location` is mapped to a `Parameter` of the process ()
+
+  - `Images` are `Rows` (NtoN), being measurement outputs of the `Well`
 
 
 
