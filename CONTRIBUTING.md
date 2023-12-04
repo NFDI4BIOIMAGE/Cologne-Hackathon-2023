@@ -1,8 +1,6 @@
 # Contributing
 
-🚧 Under construction 🚧
-
-Optimal repository contributions during the Hackathon need to be decided on.  
+Optimal repository contributions during the Hackathon need to be decided on.
 
 Suggestion:
 - Protect the main branch.  
