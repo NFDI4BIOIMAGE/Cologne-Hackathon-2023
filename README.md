@@ -58,4 +58,5 @@ Suggestion: alphabetical order (surname):
 |Christoph Möhl|[@cmohl2013](https://github.com/cmohl2013)|https://orcid.org/0000-0002-0829-5101||
 |Josh Moore|[@joshmoore](https://github.com/joshmoore)|https://orcid.org/0000-0003-4028-811X|[https://ror.org/05tpnw772](https://ror.org/05tpnw772)|
 |Andrea Schrader|[@andreaschrader](https://github.com/andreaschrader)|https://orcid.org/0000-0002-3879-7057|https://ror.org/034waa237<br><br>https://ror.org/00rcxh774|   
+|Julia Thönnißen|[@JThoennissen](https://github.com/JThoennissen)|[https://orcid.org/0000-0002-5467-871X](https://orcid.org/0000-0002-5467-871X)||
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
