@@ -12,101 +12,62 @@
 #### ***<center><p style="color:red"><ins>3.	OMERO / zarr</ins></p></center>***
 #### ***<center>4.	3D Slicer, Neuroglancer</center>***
 
-For each of the topics, please use and adapt as much as possible from the tasks in this document and extend these where required. Thanks to @tstoeter for providing this initial task list (formatting + few points @andreaschrader). Please adapt this document in the respective part of the GitHub directory to create your tasks for the Hackathon and an optional outlook.  
-
-Different team members can work on different tasks from your list.  
-
-Please make sure that everybody in your team has a tasks to contribute to and document progress.  
-
-One task for all: Decide until the end of the Hackathon which parts of your work can be set public and which, if any, have to stay private and let us know.  
-
-**Mandatory: Documentation**  
-
-🙌 Thank you!
-
-<br>
-<br>
-<br>
-
-Tasks usually build on top of another, but some can be worked on independently
 
 <h4 style="color:blue;">
-    BIDS/ARC<!-- 
---><span style="color:black;">/</span><!-- 
---><span style="color:red;"><b><ins><i>zarr</i></b></span><!-- 
---><span style="color:black;"> + </span><!-- 
---><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span>
-</h4>
-
-Bring/take your own data set and put it into ARC / BIDS / zarr manually or using existing tools  
-
-##### **Tasks**  
-
-- Read docs and specs, get tools running and installed  
-- Document the steps from status quo of dataset to structured final result  
-- Where were problems, uncertainties, questions? Could these be resolved? How?  
-- Try implementing REMBI during this procedure  
-
-
-##### **Goals**  
-
-- Everyone gets much more acquainted with the concepts and tools.  
-- This can serve as hands-on examples for teaching later:  
-  - Provide documentation of the current state of the art and the steps done in the selected tasks.
-- We get more sample data for development and testing:  
-  - Create/add public use cases / examples.
-
-<h4 style="color:blue;">
-    OME<!-- 
+    ARC / OME<!-- 
 --><span style="color:red;"><b><ins><i>RO</i></b></span><!-- 
 --><span style="color:black;"> + </span><!-- 
 --><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span>
 </h4>
 
-The next level is to bring your newly structured dataset into OMERO.  
+**WIP**
 
-##### **Tasks**  
+##### Outline of the project
 
-- Get OMERO running on your own system (Docker) or your institutional instance.
-- Which OMERO setup is necessary, i.e. which plugins and additional tools are required?
-- Which part of the dataset can we directly see inside OMERO, which not? Any ideas for support?
-- Again, all steps should be documented
-- Try adhering to REMBI for the metadata.
-- Which steps are necessary to achieve automatic import?
-- Identify missing UI features in OMERO for (meta)data presentation or import step. How can the UI support more?
+![REMBI_image](./images/REMBI_Mapping.jpeg)
+
+##### **Questions**  
+  
+- Should REMBI go into an ARC?
+- Can we map ARC metadata to a REMBI template?
+- Can we cherrypick the metadata of the ARC to extract the REMBI aligned metadata?
+- Try to find out which metadata is required when submitting to an imaging repository that expect users to use REMBI?
+
+##### Outcome
+
+- Everyone got much more acquainted with the concepts and tools
+  - guidance for OMERO, learned about REMBI template used @CAi, navigated in an ARC, Explored possibilities in Swate and discussed about the use of templates and appropriate ontology.  
+  - Still some installations are required.
+
+- Started documentation of the current state of the art and the steps done for this topic at the Cologne Hackathon.
+- Collected possible issues for OMERO-ARC users:
+  - How to import images/stacks in OMERO
+  - Organization of data in OMERO (project/dataset compared to tags vs. key-value-pairs) for easier mapping to and from ARC.
+- "for Christoph": How to handle "tags" in OMERO -> selection of metadata (subsets) for an ARC
+- Possible combination of workflows and runs triggered from an ARC with OMERO and tools consuming input data from OMERO, retrieving output data and exporting this again into an ARC. Does this make sense?
+
+Started bringing a dataset from the [example ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) into OMERO.  
+
+##### Outlook
+- Using Peter's current "Import KV from csv" (https://github.com/cecad-imaging/omero-arc-testdata/tree/main) in OMERO to import the key-value pairs from an ARC-style isa.investigation.xlsx
 - Maybe easier or already done above: Go the reverse way, i.e. do all above steps for export out of OMERO into structure
-- Even further level: Start writing a script for automatic import/export maybe more or less tailored to your specific example, later generalize from there – align this with Christoph’s work who is working on [OMERO-ARC export](https://github.com/cmohl2013/omero-cli-transfer/tree/arc).  
+  - Use the [OMERO-ARC exporter](https://github.com/cmohl2013/omero-cli-transfer/tree/arc)
 
-##### **Goals**  
 
-- Provide documentation of the current state of the art and the steps done in the selected tasks.
-- Create/add public use cases / examples.
-- Get development going for ARC/OMERO interoperability for the [OMERO-ARC de.NBI BioHackathon project](https://www.denbi.de/de-nbi-events/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data)
+tbc
 
-<h4 style="color:red;">
-    <b><ins><i>OMERO/zarr</i></ins></b><!-- 
---><span style="color:black;"> + <i><b>Neuroglancer</b></i> (+ </span><!-- 
---><span style="color:green;"><b><ins>REMBI/Mapping</ins></b></span><!-- 
---><span style="color:black;">)</span>
-</h4>
-
-Integrate Neuroglancer with OMERO (Slicer mostly covered by external partner)  
 
 ##### **Tasks**  
 
-- Get Neuroglancer running on its own and do some 3D visualization of your or example dataset
-- What are the requirements for it to work? Server/client setup, file format, browser, …
-- Get OMERO running on your own system (Docker) or your institutional instance
-- Use omero-web-zarr to export zarr from OMERO, get it working. OMERO will provide a zarr-URL.
-- Can we load this zarr-URL directly in Neuroglancer? If not how can we bridge (or transfer) from OMERO to Neuroglancer?
-- Add a button or context menu to OMERO for loading in Neuroglancer. See examples and build on omereo-web-zarr plugin.
-- If things go very well compile an OMERO plugin for this or commit changes to omero-web-zarr
-- Do we want to store results from visualization back into OMERO? If so where and how?
-- Which metadata (according to REMBI) needs to be added (OMERO key-value pairs/to ARCs) when using Neuroglancer (zarr).
-- Again document everything necessary for reproducing our results to make it usable for teaching
+- Get OMERO running on the institutional instance.
 
-##### **Goals**  
+- Which part of the dataset can we directly see inside OMERO, which not? Any ideas for support? 
+  - No directory structure
+  - xml files need to be added as attachment
+    - This is because any non-bioformats compatible file needs to be added as an attachment.
 
-- Getting better 3D visualization in OMERO.
-- Provide documentation of the steps needed for this.
-- Create a public use case / example.
+- Try adhering to REMBI for the metadata.
+  - Filling a REMBI template based on CAi experience for the [imaging ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks).
+
+- Which steps are necessary to achieve automatic import?
+    - Outlines strategies for mapping of microscopy related metadata (including REMBI alined metadata) between ARC and OMERO.
