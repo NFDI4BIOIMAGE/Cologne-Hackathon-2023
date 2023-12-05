@@ -62,3 +62,4 @@ Suggestion: alphabetical order (surname):
 |Julia Thönnißen|[@JThoennissen](https://github.com/JThoennissen)|[https://orcid.org/0000-0002-5467-871X](https://orcid.org/0000-0002-5467-871X)||
 |Monica Valencia-Schneider||[https://orcid.org/0000-0003-3430-2683](https://orcid.org/0000-0003-3430-2683)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
+|Torsten Stöter|[@tstoeter](https://github.com/tstoeter)||[https://ror.org/01zwmgk08](https://ror.org/01zwmgk08)|
