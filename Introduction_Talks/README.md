@@ -1,13 +1,11 @@
 # Introductory talks
 
-If you prefer using the GerbiCloud or your file size is beyond the GitHub limit for this repository, your introductory talks can also be placed in this directory: https://cloud.gerbi-gmb.de/s/FAoqDYwKi4MTBcy
-
-:warning: This directory might be publicly accessible (read mode) if we set this repository to public and everybody with this link can see the content of this directory.
-
+## Opening
+- [Torsten Stöter - TA3-Co-lead NFDI4Bioimage](./opening-ta3-cologne-hackathon.pdf)
 ## Talks
-- OMERO (+ZARR) - Josh Moore
-- Annotated Research Contex (ARC) - Heinrich Lukas Weil
-- BIDS - Julia Thönnißen
-- 3D Slicer, Neuroglancer - Torsten Stöter
+- [OMERO (+ZARR) - Josh Moore - TA1-Co-lead NFDI4Bioimage](./intro-OMERO-zarr.pdf)
+- [Annotated Research Contex (ARC) - Heinrich Lukas Weil - DataPLANT](./BioimagingHackathon_2023_ARC.pdf)
+- [BIDS - Julia Thönnißen](./BIDS.pdf)
+- [3D Slicer, Neuroglancer - Torsten Stöter - TA3-Co-lead NFDI4Bioimage](./intro-3d-slicer-neuroglancer.pdf)
 - REMBI - Vanessa Fuchs, Tom Boissonnet
 
