@@ -38,7 +38,7 @@ Use Cases can be described in this directory or in the respective topic's direct
 
 <br />
 
-🚧 **Optimal contributions during the Hackathon need to be decided on [here](CONTRIBUTING.md).** 🚧  
+🚧 **Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).** 🚧  
 
  <br />
 
