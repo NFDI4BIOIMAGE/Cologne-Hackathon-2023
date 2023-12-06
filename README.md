@@ -4,9 +4,6 @@
 
 Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**)  
 
-⚠️  ***Please note: This repo is only for documentation and not for data!***  ⚠️
-
-
 ## Shared_Pdfs
 
 This directory contains pdf versions of files shared before, at or after the Hackathon:
@@ -31,7 +28,7 @@ These might be slightly adapted during the Hackathon but were the basis for the 
 
 ## Use Cases
 
-Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./Use_Cases/README.md).
+Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./Use_Cases.md).
 
 
 ## Contributions
