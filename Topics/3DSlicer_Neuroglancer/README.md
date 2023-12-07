@@ -108,7 +108,7 @@ print(viewer)
 
 ## Results and image of the workflow session
 
-* We sucessfully could connect OMERO with Neuroglancer and show a proof of concept
+* We successfully could connect OMERO with Neuroglancer and show a proof of concept
 
 ![A zarr dataset from OMERO shown in Neuroglancer](images/Screenshot_2023-11-30_17-15-43.png)
 
@@ -124,18 +124,13 @@ print(viewer)
 
 ## [Report](./Report/)
 
-Please note, if you prefer using the GerbiCloud or your file size is beyond the GitHub limit for this repository, your final report can also be placed in this directory: https://cloud.gerbi-gmb.de/s/FAoqDYwKi4MTBcy
-
-[Here](https://docs.google.com/presentation/d/1IdXq3YQe4353zJJnBvxBr7GwvG0_j1lj9sEx0Cbs7Rs/edit?usp=sharing) is the template for the talk.
-
-:warning: This directory might be publicly accessible (read mode) if we set this repository to public and everybody with this link can see the content of this directory.
 
 
 ## Outlook
 
 * Next steps are to get a production ready installation
 * Automate starting the Neuroglancer web server for any image ID
-* Improve shaders for 16bit and mutli channel images and include sliders (documented in tutorial)
+* Improve shaders for 16bit and multi channel images and include sliders (documented in tutorial)
 * Add an "Open in Neuroglancer" button or context menu to images in OMERO
 * Test the reverse proxy approach, are logins and cookies preserved?
 * Compile a separate OMERO plugin for the Neuroglancer integration
