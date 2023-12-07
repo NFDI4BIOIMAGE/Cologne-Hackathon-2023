@@ -4,11 +4,70 @@
 
 Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**)  
 
+## Overview
+```
+.  
+├── CONTRIBUTING.md  
+├── CollectiveNotes.md  
+├── Installation_Instructions  
+│   ├── ARC  
+│   │   └── Installation_Instructions.md  
+│   └── OMERO  
+│       └── Installation_Instructions.md  
+├── Introduction_Talks  
+│   ├── BIDS.pdf  
+│   ├── BioimagingHackathon_2023_ARC.pdf  
+│   ├── BioimagingHackathon_2023_ARC.pptx  
+│   ├── README.md  
+│   ├── intro-3d-slicer-neuroglancer.pdf  
+│   ├── intro-OMERO-zarr.pdf  
+│   ├── intro-OMERO-zarr.pptx  
+│   └── opening-ta3-cologne-hackathon.pdf  
+├── LICENSE  
+├── README.md  
+├── Topics  
+│   ├── 3DSlicer_Neuroglancer  
+│   │   ├── README.md  
+│   │   ├── Report  
+│   │   └── images  
+│   │       ├── 3Dslicer_Neuroglancer.jpeg  
+│   │       ├── Screenshot 2023-12-01 115118.png  
+│   │       ├── Screenshot at 2023-11-30 17-24-16.png  
+│   │       └── Screenshot_2023-11-30_17-15-43.png  
+│   ├── Cologne_Hackathon_Tasks.md  
+│   ├── Interoperability  
+│   │   ├── README.md  
+│   │   ├── Report  
+│   │   │   └── OMERO-ARC-Exporter-WorkFlow-Introduction.pdf  
+│   │   ├── images  
+│   │   │   └── Interoperability.jpeg  
+│   │   ├── omero_arc_connection.md  
+│   │   ├── omero_arc_exporter.md  
+│   │   └── omero_arc_mapping.md  
+│   ├── OMERO-zarr  
+│   │   ├── README.md  
+│   │   └── images  
+│   │       └── OMERO_zarr.jpeg  
+│   └── REMBI-Mapping  
+│       ├── Cologne_Hackathon_Tasks.md  
+│       ├── README.md  
+│       ├── REMBI-template_CAi_VF.xlsx. 
+│       ├── REMBI-template_CAi_VF_AS.xlsx  
+│       ├── Report  
+│       └── images  
+│           └── REMBI_Mapping.jpeg  
+├── Use_Cases.md  
+└── shared_pdfs  
+    ├── Cologne_Hackathon_Schedule.pdf  
+    └── Cologne_Hackathon_Tasks.pdf  
+```
+06-12-2023
+
 ## Shared_Pdfs
 
 This directory contains pdf versions of files shared before, at or after the Hackathon:
 - Schedule
-- Task list to be adjusted for the different topics at the Hackathon (see markdown versions in the respective topic's directories).
+- Task list to be adjusted for the different topics at the Hackathon (see markdown versions in the Topics directories).
 
 
 ## Topics
@@ -32,8 +91,6 @@ Use Cases can be described in this directory or in the respective topic's direct
 
 
 ## Contributions
-
-<br />
 
 **Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).**
 
@@ -63,8 +120,11 @@ Suggestion: alphabetical order (surname):
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
 
 ## Acknowledgement
+🚧 Under construction. 🚧
 
 ## Funding
+🚧 First content added. 🚧
+
 ### NFDI4Bioimage
 Funded by the German Research Foundation
 (DFG) within the framework of the NFDI – project numbers: 501864659.
