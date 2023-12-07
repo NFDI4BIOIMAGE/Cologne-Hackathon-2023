@@ -13,7 +13,7 @@ This directory contains pdf versions of files shared before, at or after the Hac
 
 ## Topics
 
-While preparing this Hackathon, we identified from a preparatory meeting with several participants these topics for the Cologne Hackathon.  
+While preparing this Hackathon, we identified from a preparatory meeting with several participants these potential topics for the Cologne Hackathon.  
 
 These might be slightly adapted during the Hackathon but were the basis for the planning period:
 
@@ -35,7 +35,7 @@ Use Cases can be described in this directory or in the respective topic's direct
 
 <br />
 
-🚧 **Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).** 🚧  
+**Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).**
 
  <br />
 
