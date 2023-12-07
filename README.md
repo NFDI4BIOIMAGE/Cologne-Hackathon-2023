@@ -138,7 +138,3 @@ EXC-2048/1 – project number 390686111.
 
 #### CECAD
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388.
-
-### Contributors (Talk, Content)
-#### DataPLANT
-Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 442077441.
