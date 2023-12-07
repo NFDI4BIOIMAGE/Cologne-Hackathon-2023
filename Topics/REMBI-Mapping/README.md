@@ -33,7 +33,7 @@ First connections of REMBI with ARC and OMERO.
   - Filling a REMBI template based on CAi experience for the [imaging ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks).
 
 - Which steps are necessary to achieve automatic import?
-    - Outlines strategies for mapping of microscopy related metadata (including REMBI alined metadata) between ARC and OMERO.
+    - Outline strategies for mapping of microscopy related metadata (including REMBI alined metadata) between ARC and OMERO.
 
 ### **Questions**  
   
@@ -42,7 +42,7 @@ First connections of REMBI with ARC and OMERO.
 - Can we cherrypick the metadata of the ARC to extract the REMBI aligned metadata?
 - Try to find out which metadata is required when submitting to an imaging repository that expect users to use REMBI?
 
-### Outcome
+### Progress
 
 - Everyone got much more acquainted with the concepts and tools
   - guidance for OMERO, learned about REMBI template used @CAi, navigated in an ARC, Explored possibilities in Swate and discussed about the use of templates and appropriate ontology.  
