@@ -124,7 +124,7 @@ Suggestion: alphabetical order (surname):
 
 The organizors acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
 
-## Funding
+## Funding - for this Hackathon
 🚧 First content added. 🚧
 
 ### NFDI4Bioimage
