@@ -119,22 +119,27 @@ Suggestion: alphabetical order (surname):
 |Heinrich Lukas Weil|[@HLWeil](https://github.com/HLWeil)|[https://orcid.org/0000-0003-1945-6342](https://orcid.org/0000-0003-1945-6342)|[https://ror.org/01qrts582](https://ror.org/01qrts582)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
 
+## Organizors
+Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Monica Vakencia-Schneider, Peter Zentis (alphabetical order)
+
 ## Acknowledgement
 🚧 Under construction. 🚧
 
-The organizors acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
+The organizers would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this Hackathon happen. 
+
+For the OMERO-ARC topic we are thankful for the collaboratioin with DataPLANT. We acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
+
+We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a guest, also providing the introductory talk on ARC.
 
 ## Funding - for this Hackathon
 🚧 First content added. 🚧
 
 ### NFDI4Bioimage
-Funded by the German Research Foundation
-(DFG) within the framework of the NFDI – project numbers: 501864659.
+Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 501864659.
 
 ### Other Organizors
 #### CEPLAS
-Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy –
-EXC-2048/1 – project number 390686111.
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy – EXC-2048/1 – project number 390686111.
 
 #### CECAD
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388.
