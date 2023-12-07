@@ -4,6 +4,31 @@
 
 Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**)  
 
+## Topics
+
+While preparing this Hackathon, we identified from a preparatory meeting with several participants these potential topics for the Cologne Hackathon.  
+
+These might be slightly adapted during the Hackathon but were the basis for the planning period:
+
+### [Interoperability](./Topics/Interoperability/)
+
+### [REMBI / Mapping](./Topics/REMBI-Mapping/)
+
+### [OMERO / zarr](./Topics/OMERO-zarr/)
+
+### [3D Slicer / Neuroglancer](./Topics/3DSlicer_Neuroglancer/)
+
+
+## Use Cases
+
+Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./Use_Cases.md).
+
+## Shared_Pdfs
+
+This directory contains pdf versions of files shared before, at or after the Hackathon:
+- Schedule
+- Task list to be adjusted for the different topics at the Hackathon (see markdown versions in the Topics directories).
+
 ## Overview
 ```
 .  
@@ -63,33 +88,6 @@ Repository for documentation during the Cologne Hackathon: **NFDI4Bioimage - TA3
 ```
 06-12-2023
 
-## Shared_Pdfs
-
-This directory contains pdf versions of files shared before, at or after the Hackathon:
-- Schedule
-- Task list to be adjusted for the different topics at the Hackathon (see markdown versions in the Topics directories).
-
-
-## Topics
-
-While preparing this Hackathon, we identified from a preparatory meeting with several participants these potential topics for the Cologne Hackathon.  
-
-These might be slightly adapted during the Hackathon but were the basis for the planning period:
-
-### [Interoperability](./Topics/Interoperability/)
-
-### [REMBI / Mapping](./Topics/REMBI-Mapping/)
-
-### [OMERO / zarr](./Topics/OMERO-zarr/)
-
-### [3D Slicer / Neuroglancer](./Topics/3DSlicer_Neuroglancer/)
-
-
-## Use Cases
-
-Use Cases can be described in this directory or in the respective topic's directories. Please list Use Cases / examples of application [here](./Use_Cases.md).
-
-
 ## Contributions
 
 **Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).**
@@ -137,7 +135,7 @@ We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a
 ### NFDI4Bioimage
 Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 501864659.
 
-### Other Organizors
+### Other Organisations
 #### CEPLAS
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy – EXC-2048/1 – project number 390686111.
 

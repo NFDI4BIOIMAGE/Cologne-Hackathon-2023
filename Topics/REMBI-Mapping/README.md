@@ -59,8 +59,9 @@ Started bringing a dataset from the [example ARC](https://git.nfdi4plants.org/na
 
 ## [Report](./Report/)
 
+The final report at the last day of the hackathon for the Interoperability topic can be found [here](./Report/FinalReport_REMBI_Mapping.pdf).
 
 ## Outlook
-- Using Tom's/Peter's current "Import KV from csv" (https://github.com/cecad-imaging/omero-arc-testdata/tree/main) in OMERO to import the key-value pairs from an ARC-style isa.investigation.xlsx
+- Using Tom's ["Import KV from csv" ](https://github.com/German-BioImaging/omero-scripts/blob/xtnd_support_kvpairs/omero/annotation_scripts/) in OMERO to import the key-value pairs from csv files extracted from an ARC-style isa.investigation.xlsx with Peter's [script](https://github.com/cecad-imaging/omero-arc-testdata/blob/main/scripts/isaToKVP.py)
 - Maybe easier or already done above: Go the reverse way, i.e. do all above steps for export out of OMERO into structure
   - Use the [OMERO-ARC exporter](https://github.com/cmohl2013/omero-cli-transfer/tree/arc)
