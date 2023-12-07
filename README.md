@@ -31,62 +31,69 @@ This directory contains pdf versions of files shared before, at or after the Hac
 
 ## Overview
 ```
-.  
-├── CONTRIBUTING.md  
-├── CollectiveNotes.md  
-├── Installation_Instructions  
-│   ├── ARC  
-│   │   └── Installation_Instructions.md  
-│   └── OMERO  
-│       └── Installation_Instructions.md  
-├── Introduction_Talks  
-│   ├── BIDS.pdf  
-│   ├── BioimagingHackathon_2023_ARC.pdf  
-│   ├── BioimagingHackathon_2023_ARC.pptx  
-│   ├── README.md  
-│   ├── intro-3d-slicer-neuroglancer.pdf  
-│   ├── intro-OMERO-zarr.pdf  
-│   ├── intro-OMERO-zarr.pptx  
-│   └── opening-ta3-cologne-hackathon.pdf  
-├── LICENSE  
-├── README.md  
-├── Topics  
-│   ├── 3DSlicer_Neuroglancer  
-│   │   ├── README.md  
-│   │   ├── Report  
-│   │   └── images  
-│   │       ├── 3Dslicer_Neuroglancer.jpeg  
-│   │       ├── Screenshot 2023-12-01 115118.png  
-│   │       ├── Screenshot at 2023-11-30 17-24-16.png  
-│   │       └── Screenshot_2023-11-30_17-15-43.png  
-│   ├── Cologne_Hackathon_Tasks.md  
-│   ├── Interoperability  
-│   │   ├── README.md  
-│   │   ├── Report  
-│   │   │   └── OMERO-ARC-Exporter-WorkFlow-Introduction.pdf  
-│   │   ├── images  
-│   │   │   └── Interoperability.jpeg  
-│   │   ├── omero_arc_connection.md  
-│   │   ├── omero_arc_exporter.md  
-│   │   └── omero_arc_mapping.md  
-│   ├── OMERO-zarr  
-│   │   ├── README.md  
-│   │   └── images  
-│   │       └── OMERO_zarr.jpeg  
-│   └── REMBI-Mapping  
-│       ├── Cologne_Hackathon_Tasks.md  
-│       ├── README.md  
-│       ├── REMBI-template_CAi_VF.xlsx. 
-│       ├── REMBI-template_CAi_VF_AS.xlsx  
-│       ├── Report  
-│       └── images  
-│           └── REMBI_Mapping.jpeg  
-├── Use_Cases.md  
-└── shared_pdfs  
-    ├── Cologne_Hackathon_Schedule.pdf  
+.
+├── CONTRIBUTING.md
+├── CollectiveNotes.md
+├── Installation_Instructions
+│   ├── ARC
+│   │   └── Installation_Instructions.md
+│   └── OMERO
+│       └── Installation_Instructions.md
+├── Introduction_Talks
+│   ├── BIDS.pdf
+│   ├── BioimagingHackathon_2023_ARC.pdf
+│   ├── BioimagingHackathon_2023_ARC.pptx
+│   ├── README.md
+│   ├── intro-3d-slicer-neuroglancer.pdf
+│   ├── intro-OMERO-zarr.pdf
+│   ├── intro-OMERO-zarr.pptx
+│   └── opening-ta3-cologne-hackathon.pdf
+├── LICENSE
+├── README.md
+├── Topics
+│   ├── 3DSlicer_Neuroglancer
+│   │   ├── README.md
+│   │   ├── Report
+│   │   │   ├── FinalReport_3DSlicer_Neuroglancer.pdf
+│   │   │   └── FinalReport_3DSlicer_Neuroglancer.pptx
+│   │   └── images
+│   │       ├── 3Dslicer_Neuroglancer.jpeg
+│   │       ├── Screenshot 2023-12-01 115118.png
+│   │       ├── Screenshot at 2023-11-30 17-24-16.png
+│   │       └── Screenshot_2023-11-30_17-15-43.png
+│   ├── Cologne_Hackathon_Tasks.md
+│   ├── Interoperability
+│   │   ├── OMERO-ARC-Exporter-WorkFlow-Introduction.pdf
+│   │   ├── Omero-ARC-topic-'use-cases'.pdf
+│   │   ├── Omero-ARC-topic-'use-cases'.pptx
+│   │   ├── README.md
+│   │   ├── Report
+│   │   │   ├── FinalReport_Interoperability.pdf
+│   │   │   └── FinalReport_Interoperability.pptx
+│   │   ├── images
+│   │   │   └── Interoperability.jpeg
+│   │   ├── omero_arc_connection.md
+│   │   ├── omero_arc_exporter.md
+│   │   └── omero_arc_mapping.md
+│   ├── OMERO-zarr
+│   │   ├── README.md
+│   │   └── images
+│   │       └── OMERO_zarr.jpeg
+│   └── REMBI-Mapping
+│       ├── README.md
+│       ├── REMBI-template_CAi_VF.xlsx
+│       ├── REMBI-template_CAi_VF_AS.xlsx
+│       ├── Report
+│       │   ├── FinalReport_REMBI_Mapping.pdf
+│       │   └── FinalReport_REMBI_Mapping.pptx
+│       └── images
+│           └── REMBI_Mapping.jpeg
+├── Use_Cases.md
+└── shared_pdfs
+    ├── Cologne_Hackathon_Schedule.pdf
     └── Cologne_Hackathon_Tasks.pdf  
 ```
-06-12-2023
+07-12-2023
 
 ## Contributions
 
