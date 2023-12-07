@@ -135,7 +135,7 @@ We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a
 ### NFDI4Bioimage
 Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 501864659.
 
-### Other Organizors
+### Other Organisations
 #### CEPLAS
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy – EXC-2048/1 – project number 390686111.
 
