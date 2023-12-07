@@ -122,6 +122,8 @@ Suggestion: alphabetical order (surname):
 ## Acknowledgement
 🚧 Under construction. 🚧
 
+The organizors acknowledge Timo Mühlhaus in discussions during planning for OMERO-ARC topics and Kevin Schneider in preparatory meetings on the OMERO-ARC topic (both: DataPLANT).
+
 ## Funding
 🚧 First content added. 🚧
 
@@ -129,12 +131,14 @@ Suggestion: alphabetical order (surname):
 Funded by the German Research Foundation
 (DFG) within the framework of the NFDI – project numbers: 501864659.
 
-### CEPLAS
+### Other Organizors
+#### CEPLAS
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy –
 EXC-2048/1 – project number 390686111.
 
-### CECAD
+#### CECAD
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388.
 
-### DataPLANT
+### Contributors (Talk, Content)
+#### DataPLANT
 Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 442077441.
