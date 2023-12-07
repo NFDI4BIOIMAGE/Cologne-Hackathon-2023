@@ -124,7 +124,7 @@ print(viewer)
 
 ## [Report](./Report/)
 
-
+The final report at the last day of the hackathon for the Neuroglancer topic can be found [here](./Report/FinalReport_3DSlicer_Neuroglancer.pdf).
 
 ## Outlook
 

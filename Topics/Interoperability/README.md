@@ -6,3 +6,7 @@
 
 ## Results and image of the workflow session
 Temporary link to the ARC-OMERO-IDR mapping table: https://docs.google.com/spreadsheets/d/1GWWFeN3_Q8ErTMR47StJmMOazkQKmnjwLsNSpqk70YQ/edit?usp=sharing
+
+## Final report
+
+The final report at the last day of the hackathon for the Interoperability topic can be found [here](./Report/FinalReport_Interoperability.pdf).
