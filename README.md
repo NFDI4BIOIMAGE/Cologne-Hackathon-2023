@@ -122,7 +122,7 @@ Suggestion: alphabetical order (surname):
 ## Acknowledgement
 🚧 Under construction. 🚧
 
-The organizors acknowledge Timo Mühlhaus in discussions during planning for OMERO-ARC topics and Kevin Schneider in preparatory meetings on the OMERO-ARC topic (both: DataPLANT).
+The organizors acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
 
 ## Funding
 🚧 First content added. 🚧
