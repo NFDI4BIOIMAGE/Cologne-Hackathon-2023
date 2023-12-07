@@ -59,6 +59,7 @@ Started bringing a dataset from the [example ARC](https://git.nfdi4plants.org/na
 
 ## [Report](./Report/)
 
+The final report at the last day of the hackathon for the Interoperability topic can be found [here](./Report/FinalReport_REMBI_Mapping.pdf).
 
 ## Outlook
 - Using Tom's/Peter's current "Import KV from csv" (https://github.com/cecad-imaging/omero-arc-testdata/tree/main) in OMERO to import the key-value pairs from an ARC-style isa.investigation.xlsx
