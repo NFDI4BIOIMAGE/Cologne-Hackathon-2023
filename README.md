@@ -62,3 +62,19 @@ Suggestion: alphabetical order (surname):
 |Heinrich Lukas Weil|[@HLWeil](https://github.com/HLWeil)|[https://orcid.org/0000-0003-1945-6342](https://orcid.org/0000-0003-1945-6342)|[https://ror.org/01qrts582](https://ror.org/01qrts582)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
 
+## Acknowledgement
+
+## Funding
+### NFDI4Bioimage
+Funded by the German Research Foundation
+(DFG) within the framework of the NFDI – project numbers: 501864659.
+
+### CEPLAS
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) within Germany’s Excellence Strategy –
+EXC-2048/1 – project number 390686111.
+
+### CECAD
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388.
+
+### DataPLANT
+Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 442077441.
