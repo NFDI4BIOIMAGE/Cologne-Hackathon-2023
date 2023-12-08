@@ -7,5 +7,5 @@
 - [Annotated Research Contex (ARC) - Heinrich Lukas Weil - DataPLANT](./BioimagingHackathon_2023_ARC.pdf)
 - [BIDS - Julia Thönnißen](./BIDS.pdf)
 - [3D Slicer, Neuroglancer - Torsten Stöter - TA3-Co-lead NFDI4Bioimage](./intro-3d-slicer-neuroglancer.pdf)
-- REMBI - Vanessa Fuchs, Tom Boissonnet
+- [REMBI - Vanessa Fuchs, Tom Boissonnet](2023-11-29_TA3-Hackathon_REMBI.pdf)
 
