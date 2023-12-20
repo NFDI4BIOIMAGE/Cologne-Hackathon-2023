@@ -125,7 +125,7 @@ Suggestion: alphabetical order (surname):
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
 
 ## Organizers
-Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Monica Vakencia-Schneider, Peter Zentis (alphabetical order)
+Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Monica Valencia-Schneider, Peter Zentis (alphabetical order)
 
 ## Acknowledgement
 🚧 Under construction. 🚧
