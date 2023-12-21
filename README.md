@@ -128,16 +128,18 @@ Suggestion: alphabetical order (surname):
 Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Monica Valencia-Schneider, Peter Zentis (alphabetical order)
 
 ## Acknowledgement
-🚧 Under construction. 🚧
 
 We would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this Hackathon happen. 
 
-For the OMERO-ARC topic we are thankful for the collaboratioin with DataPLANT. We acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
+For the OMERO-ARC topic, we are thankful for the collaboration with DataPLANT. We acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
 
 We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a guest, also providing the introductory talk on ARC.
 
+Moreover, we thank the RRZK (Daniel Wickeroth) for presenting and explaining the [CAVE](https://rrzk.uni-koeln.de/en/hpc-projects/visualization/cave) to the hackathon participants!
+
 ## Funding - for this Hackathon
-🚧 First content added. 🚧
+(funding for the event and enabling for organization and participation)
+🚧 To be finalized. 🚧
 
 ### NFDI4Bioimage
 Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 501864659.
