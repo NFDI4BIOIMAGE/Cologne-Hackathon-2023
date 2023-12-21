@@ -139,7 +139,6 @@ Moreover, we thank the RRZK (Daniel Wickeroth) for presenting and explaining the
 
 ## Funding - for this Hackathon
 (funding for the event and enabling for organization and participation)
-🚧 To be finalized. 🚧
 
 ### NFDI4Bioimage
 Funded by the German Research Foundation (DFG) within the framework of the NFDI – project numbers: 501864659.
@@ -152,4 +151,4 @@ Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) 
 Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388.
 
 #### CRC TRR341
-
+Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – Project-ID 456082119.
