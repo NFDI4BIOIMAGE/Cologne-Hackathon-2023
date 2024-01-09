@@ -120,7 +120,7 @@ Suggestion: alphabetical order (surname):
 |Andrea Schrader|[@andreaschrader](https://github.com/andreaschrader)|https://orcid.org/0000-0002-3879-7057|https://ror.org/034waa237<br><br>https://ror.org/00rcxh774| 
 |Torsten Stöter|[@tstoeter](https://github.com/tstoeter)||[https://ror.org/01zwmgk08](https://ror.org/01zwmgk08)| 
 |Julia Thönnißen|[@JThoennissen](https://github.com/JThoennissen)|[https://orcid.org/0000-0002-5467-871X](https://orcid.org/0000-0002-5467-871X)|| 
-|Monica Valencia-Schneider||[https://orcid.org/0000-0003-3430-2683](https://orcid.org/0000-0003-3430-2683)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
+|Monica Valencia-Schneider|@mvals|[https://orcid.org/0000-0003-3430-2683](https://orcid.org/0000-0003-3430-2683)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
 |Heinrich Lukas Weil|[@HLWeil](https://github.com/HLWeil)|[https://orcid.org/0000-0003-1945-6342](https://orcid.org/0000-0003-1945-6342)|[https://ror.org/01qrts582](https://ror.org/01qrts582)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
 
