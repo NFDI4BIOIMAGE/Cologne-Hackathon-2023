@@ -1,0 +1,30 @@
+.zenodo.json file is under construction (10.01.2024).
+{
+    "access_right": "open",
+    "creators": [
+        {
+            "affiliation": "Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany",
+            "name": "Schrader, Andrea",
+            "orcid": "0000-0002-3879-7057"
+            tbc
+        }
+    ],
+    "description": "",
+    "doi": "",
+    "keywords": [
+        "",
+        ""
+    ],
+    "license": "CC-BY-4.0",
+    "notes": "If you use content of this repository, please cite it using these metadata.",
+    "publication_date": "",
+    "references": [
+        "",
+        "" 
+    ],
+    "resource_type": "other",
+    "title": "",
+    "upload_type": "other",
+    "version": ""
+}
+tbc
