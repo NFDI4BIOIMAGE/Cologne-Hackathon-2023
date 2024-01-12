@@ -1,4 +1,4 @@
-CITATION.cff file is under construction (10.01.2024)
+CITATION.cff file is under construction (12.01.2024)
 cff-version: 1.2.0
 message: "If you use content of this repository, please cite it using these metadata."
 repository: "https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023"
@@ -66,7 +66,7 @@ authors:
     family-names: Möhl
     given-names: Christoph
     orcid: " 	https://orcid.org/0000-0002-0829-5101"
-  - affiliation: German BioImaging – Gesellschaft für Mikroskopie und Bildanalyse
+  - affiliation: German BioImaging - Gesellschaft für Mikroskopie und Bildanalyse
     alias: joshmoore
     city: Constance 
     country: DE
@@ -136,7 +136,7 @@ authors:
     family-names: Zentis
     given-names: Peter
     orcid: "https://orcid.org/0000-0002-6999-132X"
-date-released: ""
+date-released: "2023-12-07"
 identifiers:
   - description: "This is the collection of archived snapshots of all versions of the repository NFDI4BIOIMAGE/Cologne-Hackathon-2023 in the Zenodo Sandbox Instance"
     type: doi
@@ -154,7 +154,7 @@ keywords:
   - DataPLANT
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
-version: tbc
+version: 
 references:
   - authors:
       - name: ""
