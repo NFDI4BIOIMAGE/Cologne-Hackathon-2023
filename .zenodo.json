@@ -1,12 +1,88 @@
 .zenodo.json file is under construction (12.01.2024).
 {
     "access_right": "open",
+    "communities": [
+        {
+            "identifier": "Nationale Forschungsdateninfrastruktur (NFDI)"
+        }
+    ],
     "creators": [
         {
+            "affiliation": "Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany",
+            "name": "Abdrabbou, Mohamed M.",
+            "orcid": "0000-0003-2778-7483"
+        }, {
+            "affiliation": "Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany",
+            "name": "Babaki, Mehrnaz",
+            "orcid": "0000-0003-3099-618X"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Boissonnet, Tom",
+            "orcid": "0000-0002-3328-9467"
+        }, {
+            "affiliation": "Single-cell Open Lab, German Cancer Research Center (DKFZ), Heidelberg, Germany",
+            "name": "Bortolomeazzi, Michele",
+            "orcid": "0000-0001-5805-5774"
+        }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Dahms, Eik",
+            "orcid": "0000-0002-7452-1146"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Fuchs, Vanessa",
+            "orcid": ""
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
+            "name": "Hövels, Moritz",
+            "orcid": ""
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
+            "name": "Kandpal, Niraj",
+            "orcid": "0009-0007-5101-4786"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Möhl, Christoph",
+            "orcid": "0000-0002-0829-5101"
+        }, {
+            "affiliation": "German BioImaging—Society for Microscopy and Image Analysis e.V., Constance, Germany",
+            "name": "Moore, Joshua A.",
+            "orcid": "0000-0003-4028-811X"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Schauss, Astrid",
+            "orcid": "0000-0002-6658-2192"
+        }, {
+            "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
+            "name": "Schneider, Kevin",
+            "orcid": "0000-0002-2198-5262"
+        }, {
             "affiliation": "Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany",
             "name": "Schrader, Andrea",
             "orcid": "0000-0002-3879-7057"
-            tbc
+        }, {
+            "affiliation": "Leibniz Institute for Neurobiology (LIN), Magdeburg, Germany",
+            "name": "Stöter, Torsten",
+            "orcid": ""
+        }, {
+            "affiliation": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany",
+            "name": "Thönnißen, Julia",
+            "orcid": "0000-0002-5467-871X"
+        }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Valencia-Schneider, Mónica E.",
+            "orcid": "0000-0003-3430-2683"
+        }, {
+            "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
+            "name": "Weil, Heinrich L.",
+            "orcid": "0000-0003-1945-6342"
+        }, {
+            "affiliation": "Muenster Imaging Network, University of Muenster, Muenster, Germany",
+            "name": "Wendt, Jens",
+            "orcid": "0009-0002-1826-7099"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Zentis, Peter",
+            "orcid": "0000-0002-6999-132X"
         }
     ],
     "description": "",

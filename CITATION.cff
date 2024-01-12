@@ -3,20 +3,20 @@ cff-version: 1.2.0
 message: "If you use content of this repository, please cite it using these metadata."
 repository: "https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023"
 authors:
-  - affiliation: 
+  - affiliation: Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany
     alias: MM-abdrabbou
     city: Osnabrück
     country: DE
     family-names: Abdrabbou
-    given-names: Mohamed
+    given-names: Mohamed M.
     orcid: "https://orcid.org/0000-0003-2778-7483"
   - affiliation: Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany
-    alias: 
+    alias: mmb24
     city: Cologne
     country: DE
     family-names: Babaki
     given-names: Mehrnaz
-    orcid: "" 
+    orcid: "0000-0003-3099-618X" 
   - affiliation: Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany 
     alias: Tom-TBT
     city: Düsseldorf
@@ -24,7 +24,7 @@ authors:
     family-names: Boissonnet
     given-names: Tom
     orcid: "https://orcid.org/0000-0002-3328-9467"
-  - affiliation: 
+  - affiliation: Single-cell Open Lab, German Cancer Research Center (DKFZ), Heidelberg, Germany
     alias: MicheleBortol 
     city: Heidelberg
     country: DE
@@ -59,19 +59,19 @@ authors:
     family-names: Kandpal
     given-names: Niraj
     orcid: "https://orcid.org/0009-0007-5101-4786"
-  - affiliation: Möhl Data Services, Bonn, Germany
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany
     alias: cmohl2013
     city: Bonn
     country: DE
     family-names: Möhl
     given-names: Christoph
-    orcid: " 	https://orcid.org/0000-0002-0829-5101"
-  - affiliation: German BioImaging - Gesellschaft für Mikroskopie und Bildanalyse
+    orcid: "https://orcid.org/0000-0002-0829-5101"
+  - affiliation: German BioImaging—Society for Microscopy and Image Analysis e.V., Constance, Germany
     alias: joshmoore
     city: Constance 
     country: DE
     family-names: Moore
-    given-names: Josh
+    given-names: Joshua A.
     orcid: "https://orcid.org/0000-0003-4028-811X"
   - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany
     alias: AstridSchauss
@@ -101,7 +101,7 @@ authors:
     family-names: Stöter 
     given-names: Torsten
     orcid: "" 
-  - affiliation: 
+  - affiliation: Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany 
     alias: JThoennissen
     city: Jülich
     country: DE
