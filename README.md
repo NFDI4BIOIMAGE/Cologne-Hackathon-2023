@@ -152,13 +152,13 @@ The interoperability and REMBI topic served as preparatory work for a project at
 
 ## Contributions
 
-**Optimal contributions during the Hackathon are suggested [here](CONTRIBUTING.md).**
+**Optimal contributions during the Hackathon was suggested [here](CONTRIBUTING.md).**
 
  <br />
 
 🙌 Thank you for any contribution to the **NFDI4Bioimage - TA3-Hackathon - UoC-2023** repository!!!  
 
-When contributing, please consider that (parts of) this repository might be used by people with various background and intentions including teaching in the future. Therefore, it is appreciated if you can provide ***a brief non-specialist targeted introduction / summary*** preceding your content.  
+When contributing, participants were asked to consider that (parts of) this repository might be used by people with various background and intentions including teaching in the future. Therefore, it is appreciated if  ***a brief non-specialist targeted introduction / summary*** was provided preceding the respective content or is added after the hackathon to complete these sections.  
 
 
 ## Contributors in alphabetical order
