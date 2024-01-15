@@ -42,7 +42,8 @@ authors:
     city: Düsseldorf
     country: DE
     family-names: Fuchs
-    given-names: Vanessa
+    given-names: Vanessa A. F.
+    orcid: "https://orcid.org/0000-0002-4101-6987"
   - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany
     city: Cologne
     country: DE
