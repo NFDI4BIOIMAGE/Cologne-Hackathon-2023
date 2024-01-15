@@ -1,9 +1,8 @@
-.zenodo.json file is under construction (12.01.2024).
 {
     "access_right": "open",
     "communities": [
         {
-            "identifier": "Nationale Forschungsdateninfrastruktur (NFDI)"
+            "identifier": "NFDI4BIOIMAGE"
         }
     ],
     "creators": [
@@ -73,7 +72,7 @@
             "orcid": "0000-0003-3430-2683"
         }, {
             "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
-            "name": "Weil, Heinrich L.",
+            "name": "Weil, H. Lukas",
             "orcid": "0000-0003-1945-6342"
         }, {
             "affiliation": "Muenster Imaging Network, University of Muenster, Muenster, Germany",
@@ -85,22 +84,33 @@
             "orcid": "0000-0002-6999-132X"
         }
     ],
-    "description": "",
+    "description": "This is the repository for documentation during the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (in short: Cologne Hackathon). Potential topics were identified in a preparatory meeting and covered with introductory talks. In a joint discussion and workflow as well as roadmap session, graphical workflows were created and tasks were defined. Eventually intensive work on the topics 'Interoperability', 'REMBI / Mapping', 'OMERO / zarr', '3D Slicer / Neuroglancer' was conducted in groups and final reports summarized the outcome of this initial hackathon which also bridged from NFDI4Bioimage to DataPLANT on the topic of OMERO-ARC interoperability. From the beginning, there was a focus on documentation and including use cases. The interoperability and REMBI topic served as preparatory work for a project at the 2nd de.NBI BioHackathon in Bielefeld: 'Towards OMERO and ARC interoperability for RDM-compliant bio-image data'. For the OMERO-ARC topic, we are thankful for the collaboration with DataPLANT (funded by the German Research Foundation (DFG) within the framework of the NFDI - project numbers: 442077441). We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a guest, also providing the introductory talk on ARC. Furthermore, we acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT). Funding allowing this event including enabling for organization, participation and finalizing this repository including the Zenodo submission: NFDI4Bioimage, funded by the German Research Foundation (DFG) within the framework of the NFDI-project numbers: 501864659; CEPLAS, Cluster of Excellence on Plant Sciences, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy, EXC-2048/1'; CECAD, Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388; CRC TRR341, Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project-ID 456082119.",
     "doi": "",
     "keywords": [
-        "",
-        ""
+        "OMERO",
+        "ARC",
+        "Neuroglancer",
+        "zarr",
+        "REMBI",
+        "metadata",
+        "use cases",
+        "multimodal data",
+        "hackathon",
+        "NFDI4Bioimage",
+        "DataPLANT",
+        "CECAD",
+        "CEPLAS",
+        "CRC-TRR341"
     ],
     "license": "CC-BY-4.0",
     "notes": "If you use content of this repository, please cite it using these metadata.",
     "publication_date": "",
     "references": [
-        "",
-        "" 
+        "First Reference",
+        "Second Reference" 
     ],
     "resource_type": "other",
-    "title": "",
+    "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)",
     "upload_type": "other",
-    "version": ""
+    "version": "0.9.0"
 }
-tbc
