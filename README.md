@@ -1,18 +1,18 @@
 # 👋 Cologne-Hackathon-2023
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
 
 This is the repository for documentation during the first **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**).  
 
-In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided. For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (BHG repo) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content (file tree).
+In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided. For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (BHG repo) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content (file tree).  
 
 ## Setting the Stage
 
 The first **NFDI4Bioimage - TA3-Hackathon** at CECAD at the University of Cologne was opened by Astrid Schauss, moderated by Andrea Schrader and the [TA3 opening presentation](./Introduction_Talks/opening-ta3-cologne-hackathon.pdf) was provided by Torsten Stöter.  
 
-## Potential topics 
+## Potential topics  
 
-While preparing this Hackathon, we identified these potential topics for the Cologne Hackathon from a preparatory meeting with several participants:
+While preparing this Hackathon, we identified these potential topics for the Cologne Hackathon from a preparatory meeting with several participants:  
 
 - [Interoperability OMERO-ARC (OMERO-BIDS, ARC-BIDS)](./Topics/Interoperability/)
 - [REMBI / Mapping](./Topics/REMBI-Mapping/)
@@ -21,7 +21,8 @@ While preparing this Hackathon, we identified these potential topics for the Col
 
 ## Spot on the Topics
 
-These and related topics were covered with introductory talks:
+These and related topics were covered with introductory talks:  
+
 - [OMERO and zarr (Joshua A. Moore)](./Introduction_Talks/intro-OMERO-zarr.pdf)
 - [Annotated Research Context (ARC) (H. Lukas Weil)](./Introduction_Talks/BioimagingHackathon_2023_ARC.pdf)
 - [Brain Imaging Data Structure (BIDS) (Julia Thönnißen)](./Introduction_Talks/BIDS.pdf)
@@ -32,25 +33,27 @@ These and related topics were covered with introductory talks:
 
 ### Workflow and roadmap session(s)
 
-In a workflow and roadmap session, graphical workflows were created, tasks were defined and the topics were selected. 
+In a workflow and roadmap session, graphical workflows were created, tasks were defined and the topics were selected.  
 
-Beforehand, a [task list](./shared_pdfs/Cologne_Hackathon_Tasks.pdf) was created used as an inspiration and optionally to be adjusted for the different topics at the Hackathon (see [markdown version](./Topics/Cologne_Hackathon_Tasks.md) in the Topics directory).
+Beforehand, a [task list](./shared_pdfs/Cologne_Hackathon_Tasks.pdf) was created used as an inspiration and optionally to be adjusted for the different topics at the Hackathon (see [markdown version](./Topics/Cologne_Hackathon_Tasks.md) in the Topics directory).  
 
 ### Topic selection on-site
 
-Following the initial intense discussions and task identification some adjustments to the potential topics were made and the final topics on-site were selected:
+Following the initial intense discussions and task identification some adjustments to the potential topics were made and the final topics on-site were selected:  
 
-The interoperability topic focussed on **OMERO-ARC Interoperability**.
+The interoperability topic focussed on **OMERO-ARC Interoperability**.  
 
-3D Slicer and Neuroglancer are both covered in NFDI4Bioimage TA3 but only the **Neuroglancer** topic was eventually covered in this hackathon.
+3D Slicer and Neuroglancer are both covered in NFDI4Bioimage TA3 but only the **Neuroglancer** topic was eventually covered in this hackathon.  
 
-The OMERO / zarr topic was represented as a topic in the Neuroglancer topic but not followed as an individual topic at this hackathon.
+The OMERO / zarr topic was represented as a topic in the Neuroglancer topic but not followed as an individual topic at this hackathon.  
 
-The **REMBI** topic focusses on OMERO and ARC implementation concepts and on creating an example on-site.
+The **REMBI** topic focusses on OMERO and ARC implementation concepts and on creating an example on-site.  
 
 ## Hacking - Documentation
 
-Eventually intensive work on the topics 'Interoperability', 'REMBI / Mapping', 'OMERO / zarr', '3D Slicer / Neuroglancer' was conducted in groups and final reports summarized the outcome of this initial hackathon which also bridged from NFDI4Bioimage to DataPLANT on the topic of OMERO-ARC interoperability. From the beginning, there was a focus on documentation and including use cases. The interoperability and REMBI topic served as preparatory work for a project at the 2nd de.NBI BioHackathon in Bielefeld: 'Towards OMERO and ARC interoperability for RDM-compliant bio-image data'. 
+Eventually, intensive work on the topics 'Interoperability', 'REMBI / Mapping', '3D Slicer / Neuroglancer (+OMEROzarr)' was conducted in groups.  
+
+From the beginning, there was a focus on documentation and including use cases. The interoperability and REMBI topic served as preparatory work for a project at the 2nd de.NBI BioHackathon in Bielefeld: 'Towards OMERO and ARC interoperability for RDM-compliant bio-image data'.  
 
 ## Use Cases
 
@@ -58,7 +61,28 @@ A file for collecting [Use Cases](./Use_Cases.md) was created and filled from di
 
 ## Shine!
 
+The final reports summarized the outcome of the three groups.  
+(Those presenting the work of the respective groups are provided in brackets.)  
+
+- [Interoperability (H. Lukas Weil)](./Topics/Interoperability/Report/FinalReport_Interoperability.pdf)
+- [REMBI / Mapping (Andrea Schrader, Tom Boissonnet)](./Topics/REMBI-Mapping/Report/FinalReport_REMBI_Mapping.pdf)
+- [3D Slicer / Neuroglancer (+OMEROzarr) (Torsten Stöter)](./Topics/3DSlicer_Neuroglancer/Report/FinalReport_3DSlicer_Neuroglancer.pdf)
+
 ## 42?
+
+We concluded with a discussion of all participants on where we found already answers and what needs to be solved in the future.  
+
+## Closing the Hackathon
+
+After closing the Hackathon from the organizational side (Andrea Schrader), Torsten Stöter summarized its content and Astrid Schauss, who hosted the hackathon at CECAD with the Cologne team, closed this hackathon that also bridged from NFDI4Bioimage to DataPLANT on the topic of OMERO-ARC interoperability.  
+
+The interoperability and REMBI topic served as preparatory work for a project at the 2nd de.NBI BioHackathon Germany in Bielefeld: ['Towards OMERO and ARC interoperability for RDM-compliant bio-image data'](https://www.denbi.de/de-nbi-events-archive/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data). The respective repository for this hackathon project is growing [here](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC).  
+
+<br/>
+
+---
+---
+
 
 ## Overview of the content in this repository
 
@@ -160,7 +184,7 @@ Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Moni
 
 ## Acknowledgement
 
-We would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this Hackathon happen. 
+We would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this Hackathon happen.  
 
 For the OMERO-ARC topic, we are thankful for the collaboration with DataPLANT. We acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
 
