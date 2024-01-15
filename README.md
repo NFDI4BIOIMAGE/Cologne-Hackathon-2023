@@ -39,7 +39,7 @@ Beforehand, a [task list](./shared_pdfs/Cologne_Hackathon_Tasks.pdf) was created
 
 ### Topic selection on-site
 
-Following the initial intense discussions and task identification some adjustments to the potential topics were made and the final topics on-site were selected:  
+Following the initial intense discussions and task identification, some adjustments to the potential topics were made and the final topics on-site were selected:  
 
 The interoperability topic focussed on **OMERO-ARC Interoperability**.  
 
@@ -152,7 +152,7 @@ The interoperability and REMBI topic served as preparatory work for a project at
 
 ## Contributions
 
-**Optimal contributions during the Hackathon was suggested [here](CONTRIBUTING.md).**
+**Optimal contribution during the Hackathon was suggested [here](CONTRIBUTING.md).**
 
  <br />
 
