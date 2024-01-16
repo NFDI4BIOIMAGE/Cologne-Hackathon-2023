@@ -6,7 +6,7 @@ This is the repository for documentation during the first **NFDI4Bioimage - TA3-
 
 Prior to the hackathon, some supportive installation informations including links targeted to the participants were shared for [OMERO](./Installation/OMERO/) (here only for Linux) and [ARC](./Installation/ARC/)-related installations.
 
-In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided. For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (e.g. [here](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content (file tree).  
+In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided. For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (e.g. [here](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content ([file tree](README.md#overview-of-the-content-in-this-repository)).  
 
 ## Setting the Stage
 
