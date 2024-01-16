@@ -92,12 +92,11 @@ The interoperability and REMBI topic served as preparatory work for a project at
 .
 ├── CITATION.cff
 ├── CONTRIBUTING.md
-├── CollectiveNotes.md
-├── Installation_Instructions
+├── Installation
 │   ├── ARC
-│   │   └── Installation_Instructions.md
+│   │   └── README.md
 │   └── OMERO
-│       └── Installation_Instructions.md
+│       └── README.md
 ├── Introduction_Talks
 │   ├── 2023-11-29_TA3-Hackathon_REMBI.pdf
 │   ├── BIDS.pdf
@@ -150,7 +149,7 @@ The interoperability and REMBI topic served as preparatory work for a project at
     ├── Cologne_Hackathon_Schedule.pdf
     └── Cologne_Hackathon_Tasks.pdf
 ```
-15-01-2024
+16-01-2024
 
 ## Contributions
 
