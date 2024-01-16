@@ -2,14 +2,18 @@
 
 ## DataPLANT HUB (GitLab)
 
-Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=gitlab-fr&tab_id=ie6dwnHi6Uc) for access to the DataPLANT HUB!  
+Please [**sign up**](https://auth.nfdi4plants.org/realms/dataplant/login-actions/registration?client_id=gitlab-fr&tab_id=4ePYMBSqVBU) for access to the DataPLANT HUB! As this link might change over time, follow the link to the DataHUB from the [DataPLANT website](https://nfdi4plants.org/) in case the **sign up** link provided above it is not active anymore  
 
 - For installation instructions, please see below.
 
-Here you can start to dive into the ARCiverse:
-- create an ARC (either in the HUB with a template or locally e.g. using the [ARC commander]() (`arc init`)
+Here you can start to dive into the ARCiverse:  
+
+> In case these links change in the future, please search yourself through the [DataPLANT Knowledge Base](https://nfdi4plants.org/nfdi4plants.knowledgebase/index.html) for the respective information.  
+
+
+- create an ARC (either in the HUB with a template or locally e.g. using the [ARC commander](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ArcCommanderManual/arc_initialization.html) (`arc init`)
 - sync once an ARC with the HUB - do not worry about failing pipelines - arc validation is under constructions
-- add at least one building block using [Swate](https://github.com/nfdi4plants/Swate) or [Swate alpha](https://swate-alpha.nfdi4plants.org/).
+- add at least one building block using [Swate](https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/SwateManual/index.html) (here is the link to the [Swate repo](https://github.com/nfdi4plants/Swate)) or [Swate alpha](https://swate-alpha.nfdi4plants.org/).
 - [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) - example for filling the isa.investigation file using ARCcommander v0.5.0 - WIP
 - A [simple microscopy ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) in the making and used as a template for Grow-an-ARC - WIP
 - A nice example: [Michele's ARC](https://git.nfdi4plants.org/michele.bortolomeazzi/mben_resolve)
@@ -25,13 +29,13 @@ Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ArcComman
 **git**  
 **git-lfs**  
 
+Please note, the installation as described below was tested before the hackathon end of November 2023. There might be changes thereafter.
+
 Installing the preview2 for v1.0.0 of the ARCcommander for experienced users (just execute the code block in 3. And check the name of the version you want to install) and with more detailed comments for beginners:
 
-At the link https://github.com/nfdi4plants/ARCCommander/releases, select and download the version you wan to install.
+Please select and download here: https://github.com/nfdi4plants/ARCCommander/releases the version you want to install.
 
-Remove the old ARC commander version if not in `/usr/local/bin/` and not present somewhere else on the system.
-
-You can also visit the [DataPLANT KnowledgeBase](https://nfdi4plants.org/nfdi4plants.knowledgebase). As it might repeatedly re-structured, some links might be dead after a while provided below. In such a case, the content, likely, will just have been moved within the KnowledgeBase.
+Remove the old ARC commander version if not in `/usr/local/bin/` but anywhere else on the system.
 
 ### Tested for macOS:
 
@@ -60,7 +64,7 @@ Execute in the terminal in any directory without the `arc` file:
 
 2.	Move this file into a directory of your choice (not an ARC), if you have already another version installed, place this file in the same directory. If both have the same name, replace the previous file with the new file.
 
-3.	In the file explorer, go into the directory in which you placed the arc download and type “cmd” in the field showing the file path.
+3.	In the file explorer, go into the directory in which you placed the download and type “cmd” in the field showing the file path.
 
 4.	The command prompt opens inside this directory  
 
@@ -101,7 +105,7 @@ Execute in the terminal in any directory without the `arc` file:
 `arc --version`   
 
 ## ARCitect
-ARCitect is not yet recommended but a good starting point to familiarize with the ARC.
+ARCitect is not yet recommended (at the time point of the hackathon) but a good starting point to familiarize with the ARC.
 
 Repository: https://github.com/nfdi4plants/ARCitect   
 Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/ARCitect-Manual/index.html  
@@ -115,10 +119,13 @@ Knowledge Base: https://nfdi4plants.org/nfdi4plants.knowledgebase/docs/SwateManu
 
 A Swate version for the browser: https://swate-alpha.nfdi4plants.org/   
 
+## Additional links for specialists / the hackathon
 
-## ARC specification
-
+### ARC specification
 Last but not least: Link to [ARC specification](https://github.com/nfdi4plants/ARC-specification) - "New version (!), now also similar to [Grow-an-ARC](https://git.nfdi4plants.org/andreaschrader/Grow-an-ARC_Example) <-> [map-by-seq_CLSM-stacks](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) providing examples along with how they understand an ARC."
 
-## ARCtrl
-Repository: https://github.com/nfdi4plants/ARCtrl   
+### ARCtrl
+Repository: https://github.com/nfdi4plants/ARCtrl  
+
+### ARC validate
+Repository: https://github.com/nfdi4plants/arc-validate  

@@ -15,7 +15,7 @@ First, here are some resources useful for newbies to OMERO:
    
 3) Number three is an extensive set of [introductory videos to OMERO](https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU) also highlighted in the introduction of Christian Schmidt.
 
-Likely there is way more material matching to the different needs of users which can not all be covered here. Appologies for the non-OMERO users that this sections is only added after the Hackathon by a person coming from the ARC side of the OMERO-ARCiversum. Therefore, please feel free to add more which is valuable for newbies to OMERO :smile:
+Likely, there is way more material matching to the different needs of users which can not all be covered here. Appologies for the non-OMERO users that this sections is only added after the Hackathon by a person coming from the ARC side of the OMERO-ARCiversum. Therefore, please feel free to add more which is valuable for newbies to OMERO :smile:
 
 <br/>
 
