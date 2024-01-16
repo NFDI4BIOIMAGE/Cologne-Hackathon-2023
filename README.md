@@ -87,7 +87,6 @@ The interoperability and REMBI topic served as preparatory work for a project at
 ---
 ---
 
-
 ## Overview of the content in this repository
 
 ```
@@ -152,6 +151,11 @@ The interoperability and REMBI topic served as preparatory work for a project at
     └── Cologne_Hackathon_Tasks.pdf
 ```
 16-01-2024
+
+<br/>
+
+---
+---
 
 ## Contributions
 
