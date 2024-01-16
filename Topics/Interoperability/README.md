@@ -3,11 +3,16 @@
 ## Brief non-specialist targeted introduction / summary
 tbc
 
-## Results and image of the workflow session
+## Results, conceptual work and progress
 
 ### Results from the **workflow session**:  
 
 ![Workflow Session](./images/Interoperability.jpeg)
+
+Please note, "Bielefeld" links to the upcoming [OMERO-ARC de.NBI Hackathon project](https://www.denbi.de/de-nbi-events-archive/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data) in Bielefeld.  
+
+IDR:  
+K.V. pairs:  
 
 ### [OMERO-ARC-Exporter-WorkFlow-Introduction.pdf](./OMERO-ARC-Exporter-WorkFlow-Introduction.pdf)
 
