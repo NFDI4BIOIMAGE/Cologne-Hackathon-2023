@@ -2,6 +2,9 @@
 
 Worked on by Julia Thönnißen and Torsten Stöter 
 
+## Image of the workflow session
+
+![Workflow_session](./images/3Dslicer_Neuroglancer.jpeg)
 
 ## Introduction / Summary
 
@@ -10,24 +13,24 @@ Worked on by Julia Thönnißen and Torsten Stöter
 
 * 3D Slicer integration with OMERO is an external project funded by UoC
     * generally more powerful and better volume visualization
-    * bringing slicer to the web is more tricky
-https://discourse.slicer.org/t/how-to-run-slicer-on-the-cloud-and-access-in-a-web-browser/16401
-https://discourse.slicer.org/t/run-slicer-in-your-web-browser-as-a-jupyter-notebook-or-as-a-full-application/11569
-https://mybinder.org/v2/gh/Slicer/SlicerNotebooks/master?filepath=SlicerWeb.ipynb
+    * bringing slicer to the web is more tricky  
+https://discourse.slicer.org/t/how-to-run-slicer-on-the-cloud-and-access-in-a-web-browser/16401  
+https://discourse.slicer.org/t/run-slicer-in-your-web-browser-as-a-jupyter-notebook-or-as-a-full-application/11569  
+https://mybinder.org/v2/gh/Slicer/SlicerNotebooks/master?filepath=SlicerWeb.ipynb  
 
-* Neuroglancer on the other hand is already a web based visualization tool for very large volume data
-* Before and at the Hackathon we looked at bringing images from OMERO in zarr format to Neuroglancer for visualization
-* This seemed simpler and doable within a few days of a Hackathon
+* Neuroglancer on the other hand is already a web based visualization tool for very large volume data.
+* Before and at the Hackathon we looked at bringing images from OMERO in zarr format to Neuroglancer for visualization.
+* This seemed simpler and doable within a few days of a Hackathon.
 
 * Prerequisites: Current Debian machine (11 or 12) with Git, Python, Docker installed
-* To avoid issued with CORS and HTTP/HTTPS everything is to run on local machine
+* To avoid issued with CORS and HTTP/HTTPS everything is to run on a local machine
 
 
 ## Installing and configuring OMERO
 
-* We install the OMERO server and web interface using Docker
+* We install the OMERO server and web interface using Docker.
 * `git clone https://github.com/ome/docker-example-omero`
-* follow instructions in README
+* follow instructions in README.
 
 ```bash
 cd docker-example-omero/
@@ -38,11 +41,11 @@ docker compose logs -f
 
 * Testing via login to `http://localhost:4080` using credentials `root` / `omero`
 
-* Upload some sample images to OMERO via e.g. Insight
-** 8 bit channels worked well
-** 16 bit signed channels did not work out of the box
-** the rendering shader in Neuroglancer will need adaption for this
-* Install omero-web-zarr inside with omero-web Docker container, following instruction at https://pypi.org/project/omero-web-zarr/
+* Upload some sample images to OMERO via e.g. Insight  
+** 8 bit channels worked well.  
+** 16 bit signed channels did not work out of the box.  
+** The rendering shader in Neuroglancer will need adaption for this.  
+* Install omero-web-zarr inside with omero-web Docker container, following instruction at https://pypi.org/project/omero-web-zarr/  
 
 ```bash
 docker exec -u 0 -it <omero-web container id> bash
@@ -50,10 +53,10 @@ source /opt/omero/web/venv3/bin/activate
 pip install omero-web-zarr
 ```
 
-* Commit changes to Docker image and omero-web to new version in `docker-compose.yml`
-* Make images in OMERO publically accessible, so that login on Neuroglancer site is not necessary to fetch the images
+* Commit changes to Docker image and omero-web to new version in `docker-compose.yml`.
+* Make images in OMERO publically accessible, so that a login on Neuroglancer site is not necessary to fetch the images.
 * Also allow for CORS (Cross Origin Resource Sharing), so that accessing another website from the current one is not blocked
-* Based on https://docs.openmicroscopy.org/omero/5.4.0/sysadmins/public.html add the following lines in `docker-compose.yml` under omero-web ENVIRONMENT
+* Based on https://docs.openmicroscopy.org/omero/5.4.0/sysadmins/public.html, add the following lines in `docker-compose.yml` under omero-web ENVIRONMENT:
 
 ```yaml
 CONFIG_omero_web_public_enabled: true
@@ -85,8 +88,8 @@ cd neuroglancer/python/examples
 python -i example.py
 ```
 
-* For testing run Neuroglancer in the browser from the provided URL printed at the Python prompt
-* For our zarr export URL of image ID=63 this script runs the Neuroglancer server (adapted from Neuroglancer tutorial below)
+* For testing, run Neuroglancer in the browser from the provided URL printed at the Python prompt.
+* For our zarr export URL of image ID=63, this script runs the Neuroglancer server (adapted from Neuroglancer tutorial below).
 
 ```python
 import neuroglancer
@@ -106,9 +109,9 @@ print(viewer)
 * Neuroglancer tutorial: https://connectomics.readthedocs.io/en/latest/external/neuroglancer.html
 
 
-## Results and image of the workflow session
+## Results
 
-* We successfully could connect OMERO with Neuroglancer and show a proof of concept
+* We successfully could connect OMERO with Neuroglancer and show a proof of concept.
 
 ![A zarr dataset from OMERO shown in Neuroglancer](images/Screenshot_2023-11-30_17-15-43.png)
 
