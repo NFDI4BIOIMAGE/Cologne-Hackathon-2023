@@ -6,7 +6,9 @@ This is the repository for documentation during the first **NFDI4Bioimage - TA3-
 
 Prior to the hackathon, some supportive installation informations including links targeted to the participants were shared for [OMERO](./Installation/OMERO/) (here only for Linux) and [ARC](./Installation/ARC/)-related installations.
 
-In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided. For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (e.g. [here](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content ([file tree](README.md#overview-of-the-content-in-this-repository)).  
+In the following, a brief report about the event following the [schedule](./shared_pdfs/Cologne_Hackathon_Schedule.pdf) is provided.  
+
+For in depth content, please see the individual talks, topics and follow-up work on OMERO-ARC interoperability (e.g. [here](https://github.com/NFDI4BIOIMAGE/BHG2023-OMERO-ARC)) and subsequent publications. In the end of this README, the contributors, respective links, organizers and funding statements can be founds. In between, you can find an overview of the repository content ([file tree](README.md#overview-of-the-content-in-this-repository)).  
 
 ## Setting the Stage
 
@@ -37,7 +39,7 @@ These and related topics were covered with introductory talks:
 
 In a workflow and roadmap session, graphical workflows were created, tasks were defined and the topics were selected.  
 
-Beforehand, a [task list](./shared_pdfs/Cologne_Hackathon_Tasks.pdf) was created used as an inspiration and optionally to be adjusted for the different topics at the Hackathon (see [markdown version](./Topics/Cologne_Hackathon_Tasks.md) in the Topics directory).  
+Beforehand, a [task list](./shared_pdfs/Cologne_Hackathon_Tasks.pdf) was created used as an inspiration and optionally to be adjusted for the different topics at the Hackathon (see [markdown version](./Topics/Cologne_Hackathon_Tasks.md) in the 'Topics' directory).  
 
 ### Topic selection on-site
 
@@ -59,7 +61,7 @@ From the beginning, there was a focus on documentation and including use cases. 
 
 ## Use Cases
 
-A file for collecting [Use Cases](./Use_Cases.md) was created and filled from different topics.
+A file for collecting [Use Cases](./Use_Cases.md) was created and filled.
 
 ## Shine!
 
@@ -185,7 +187,7 @@ Eik Dahms, Niraj Kandpal, Astrid Schauss, Andrea Schrader, Torsten Stöter, Moni
 
 ## Acknowledgement
 
-We would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this Hackathon happen.  
+We would like to acknowledge the support from the NFDI4Bioimage, in particular TA3, TA1 and TA5 and in particular all participants to make this hackathon happen.  
 
 For the OMERO-ARC topic, we are thankful for the collaboration with DataPLANT. We acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT).
 
