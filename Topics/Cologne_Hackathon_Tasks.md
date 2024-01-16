@@ -2,7 +2,7 @@
 
 ***<p style="text-align: center;">29.11.- 01.12.2023</p>*** 
 
-**<p style="text-align: center;">Location: CECAD, Joseph-Stelzmann-Str.26, 50931 Cologne</p>**  
+**<p style="text-align: center;">Location: CECAD, Joseph-Stelzmann-Str. 26, 50931 Cologne</p>**  
 
 ## <center>- T A S K    L I S T S -</center>
 
@@ -43,7 +43,7 @@ Bring/take your own data set and put it into ARC / BIDS / zarr manually or using
 ##### **Tasks**  
 
 - Read docs and specs, get tools running and installed  
-- Document the steps from status quo of dataset to structured final result  
+- Document the steps from status quo of a dataset to a structured final result  
 - Where were problems, uncertainties, questions? Could these be resolved? How?  
 - Try implementing REMBI during this procedure  
 
@@ -70,12 +70,12 @@ The next level is to bring your newly structured dataset into OMERO.
 - Get OMERO running on your own system (Docker) or your institutional instance.
 - Which OMERO setup is necessary, i.e. which plugins and additional tools are required?
 - Which part of the dataset can we directly see inside OMERO, which not? Any ideas for support?
-- Again, all steps should be documented
+- Again, all steps should be documented.
 - Try adhering to REMBI for the metadata.
 - Which steps are necessary to achieve automatic import?
 - Identify missing UI features in OMERO for (meta)data presentation or import step. How can the UI support more?
 - Maybe easier or already done above: Go the reverse way, i.e. do all above steps for export out of OMERO into structure
-- Even further level: Start writing a script for automatic import/export maybe more or less tailored to your specific example, later generalize from there – align this with Christoph’s work who is working on [OMERO-ARC export](https://github.com/cmohl2013/omero-cli-transfer/tree/arc).  
+- Even further level: Start writing a script for automatic import/export maybe more or less tailored to your specific example, later generalize from there – align this with Christoph’s work who is working on [OMERO-ARC export](https://github.com/cmohl2013/omero-arc).  
 
 ##### **Goals**  
 
@@ -94,16 +94,16 @@ Integrate Neuroglancer with OMERO (Slicer mostly covered by external partner)
 
 ##### **Tasks**  
 
-- Get Neuroglancer running on its own and do some 3D visualization of your or example dataset
+- Get Neuroglancer running on its own and do some 3D visualization of your own or an example dataset.
 - What are the requirements for it to work? Server/client setup, file format, browser, …
-- Get OMERO running on your own system (Docker) or your institutional instance
+- Get OMERO running on your own system (Docker) or your institutional instance.
 - Use omero-web-zarr to export zarr from OMERO, get it working. OMERO will provide a zarr-URL.
-- Can we load this zarr-URL directly in Neuroglancer? If not how can we bridge (or transfer) from OMERO to Neuroglancer?
-- Add a button or context menu to OMERO for loading in Neuroglancer. See examples and build on omereo-web-zarr plugin.
-- If things go very well compile an OMERO plugin for this or commit changes to omero-web-zarr
-- Do we want to store results from visualization back into OMERO? If so where and how?
+- Can we load this zarr-URL directly in Neuroglancer? If not, how can we bridge (or transfer) from OMERO to Neuroglancer?
+- Add a button or context menu to OMERO for loading in Neuroglancer. See examples and build on omero-web-zarr plugin.
+- If things go very well compile an OMERO plugin for this or commit changes to omero-web-zarr.
+- Do we want to store results from visualization back into OMERO? If so, where and how?
 - Which metadata (according to REMBI) needs to be added (OMERO key-value pairs/to ARCs) when using Neuroglancer (zarr).
-- Again document everything necessary for reproducing our results to make it usable for teaching
+- Again document everything necessary for reproducing our results to make it usable for teaching.
 
 ##### **Goals**  
 
