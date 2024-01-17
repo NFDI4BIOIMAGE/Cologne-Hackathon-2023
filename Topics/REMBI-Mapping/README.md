@@ -30,8 +30,8 @@ First connections of REMBI with ARC and OMERO.
     - This is because any non-bioformats compatible file needs to be added as an attachment.
 
 - Try adhering to REMBI for the metadata.
-  - Filling a REMBI template based on [CAi](https://www.cai.hhu.de/) experience for the [imaging ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) created by [CEPLAS](https://www.ceplas.eu) Data Science and Management (@andreaschrader).  
-  - Respective plant-specific metadata has been selected before by @andreaschrader for the plant science ARC from ontologies using the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool, the linked data server [Ontobee](https://ontobee.org/) as outlined [here](https://doi.org/10.3389/fpls.2023.1279694).  
+  - Filling a REMBI template based on [CAi](https://www.cai.hhu.de/) experience (@VAFuchs, @Tom-TBT) for the [imaging ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) created by [CEPLAS](https://www.ceplas.eu) Data Science and Management (@andreaschrader).  
+  - Respective plant-specific metadata has been selected before for the plant science ARC from ontologies using the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool, the linked data server [Ontobee](https://ontobee.org/) as outlined [here](https://doi.org/10.3389/fpls.2023.1279694).  
   - The CAi team at HHU Düsseldorf and the respective CAi procedure furthermore suggests the following ressources when selecting for REMBI metadata: [Selection rules for the right onotology](https://doi.org/10.1371/journal.pcbi.1004743), an [annotator tool](https://bioportal.bioontology.org/annotator) and the [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols4/index).
 
 - Which steps are necessary to achieve automatic import?
@@ -65,7 +65,7 @@ The final report at the last day of the hackathon for the Interoperability topic
 
 ## Outlook
 
-- Using Tom's ["Import KV from csv" ](https://github.com/German-BioImaging/omero-scripts/blob/xtnd_support_kvpairs/omero/annotation_scripts/) in OMERO to import the key-value pairs from csv files extracted from an ARC-style isa.investigation.xlsx with Peter's isaToKVP script [script](https://github.com/cecad-imaging/omero-arc-testdata/blob/main/scripts/isaToKVP.py)  
+- Using @Tom-TBT's ["Import KV from csv" ](https://github.com/German-BioImaging/omero-scripts/blob/xtnd_support_kvpairs/omero/annotation_scripts/) in OMERO to import the key-value pairs from csv files extracted from an ARC-style isa.investigation.xlsx with @pzentis's isaToKVP script [script](https://github.com/cecad-imaging/omero-arc-testdata/blob/main/scripts/isaToKVP.py)  
   
 - Go the reverse way, i.e. do all above steps for export out of OMERO into structure
   - Use the [OMERO-ARC exporter](https://github.com/cmohl2013/omero-cli-transfer/tree/arc)
