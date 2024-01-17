@@ -1,0 +1,347 @@
+cff-version: 1.2.0
+message: "If you use content of this repository, please cite it using these metadata. Please note, authors are in alphabetical order!"
+repository: "https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023"
+authors:
+  - affiliation: Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany
+    alias: MM-abdrabbou
+    city: Osnabrück
+    country: DE
+    family-names: Abdrabbou
+    given-names: Mohamed M.
+    orcid: "https://orcid.org/0000-0003-2778-7483"
+  - affiliation: Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany
+    alias: mmb24
+    city: Cologne
+    country: DE
+    family-names: Babaki
+    given-names: Mehrnaz
+    orcid: "https://orcid.org/0000-0003-3099-618X" 
+  - affiliation: Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany 
+    alias: Tom-TBT
+    city: Düsseldorf
+    country: DE
+    family-names: Boissonnet
+    given-names: Tom
+    orcid: "https://orcid.org/0000-0002-3328-9467"
+  - affiliation: Single-cell Open Lab, German Cancer Research Center (DKFZ), Heidelberg, Germany
+    alias: MicheleBortol 
+    city: Heidelberg
+    country: DE
+    family-names: Bortolomeazzi
+    given-names: Michele
+    orcid: "https://orcid.org/0000-0001-5805-5774"
+  - affiliation: Regional Computer Center (RRZK), University of Cologne, Cologne, Germany
+    alias: eik-dahms
+    city: Cologne
+    country: DE
+    family-names: Dahms
+    given-names: Eik
+    orcid: "https://orcid.org/0000-0002-7452-1146"
+  - affiliation: Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany
+    alias: VAFuchs
+    city: Düsseldorf
+    country: DE
+    family-names: Fuchs
+    given-names: Vanessa A. F.
+    orcid: "https://orcid.org/0000-0002-4101-6987"
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany
+    city: Cologne
+    country: DE
+    family-names: Hövels
+    given-names: Moritz
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany
+    alias: Nirkan
+    city: Cologne
+    country: DE
+    family-names: Kandpal
+    given-names: Niraj
+    orcid: "https://orcid.org/0009-0007-5101-4786"
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany
+    alias: cmohl2013
+    city: Bonn
+    country: DE
+    family-names: Möhl
+    given-names: Christoph
+    orcid: "https://orcid.org/0000-0002-0829-5101"
+  - affiliation: German BioImaging—Society for Microscopy and Image Analysis e.V., Constance, Germany
+    alias: joshmoore
+    city: Constance 
+    country: DE
+    family-names: Moore
+    given-names: Joshua A.
+    orcid: "https://orcid.org/0000-0003-4028-811X"
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany
+    alias: AstridSchauss
+    city: Cologne
+    country: DE
+    family-names: Schauss
+    given-names: Astrid
+    orcid: "https://orcid.org/0000-0002-6658-2192"
+  - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
+    alias: kMutagene 
+    city: Kaiserslautern 
+    country: DE
+    family-names: Schneider
+    given-names: Kevin
+    orcid: "https://orcid.org/0000-0002-2198-5262" 
+  - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
+    alias: andreaschrader
+    city: Cologne
+    country: DE
+    family-names: Schrader
+    given-names: Andrea
+    orcid: "https://orcid.org/0000-0002-3879-7057"
+  - affiliation: Leibniz Institute for Neurobiology (LIN), Magdeburg, Germany
+    alias: tstoeter
+    city: Magdeburg
+    country: DE
+    family-names: Stöter 
+    given-names: Torsten
+  - affiliation: Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany 
+    alias: JThoennissen
+    city: Jülich
+    country: DE
+    family-names: Thönnißen
+    given-names: Julia
+    orcid: "https://orcid.org/0000-0002-5467-871X"
+  - affiliation: Regional Computer Center (RRZK), University of Cologne, Cologne, Germany
+    alias: mvals
+    city: Cologne
+    country: DE
+    family-names: Valencia-Schneider 
+    given-names:  Monica E.
+    orcid: "https://orcid.org/0000-0003-3430-2683"
+  - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
+    alias: HLWeil
+    city: Kaiserslautern 
+    country: DE
+    family-names: Weil
+    given-names: H. Lukas
+    orcid: "https://orcid.org/0000-0003-1945-6342"
+  - affiliation: Muenster Imaging Network, University of Muenster, Muenster, Germany
+    alias: JensWendt
+    city: Muenster
+    country: DE
+    family-names: Wendt
+    given-names: Jens
+    orcid: "https://orcid.org/0009-0002-1826-7099"
+  - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany
+    alias: pzentis
+    city: Cologne
+    country: DE
+    family-names: Zentis
+    given-names: Peter
+    orcid: "https://orcid.org/0000-0002-6999-132X"
+date-released: "2023-12-07"
+keywords:
+  - OMERO
+  - ARC
+  - Neuroglancer
+  - zarr
+  - REMBI
+  - metadata
+  - use cases
+  - multimodal data
+  - hackathon
+  - NFDI4Bioimage
+  - DataPLANT
+  - CECAD
+  - CEPLAS
+  - CRC-TRR341
+license: CC-BY-4.0
+title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
+version: 0.9.0
+references:
+  - authors:
+      - family-names: Baker
+        given-names: Steve
+      - name: "tree contributors"
+    date-accessed: "2023-12-07"
+    license: GPL-2.0
+    repository: "https://github.com/Old-Man-Programmer/tree"
+    scope: "Used to create the file tree in the README provided as an overview of the repository."
+    title: tree
+    type: software
+    url: "https://oldmanprogrammer.net/source.php?dir=projects/tree"
+    version: v2.1.1
+    year: 2023
+
+  - authors:
+      - family-name: Dumschott
+
+  - authors:
+      - family-names: Sarkans
+        given-names: Ugis
+      - family-names: Chiu
+        given-names: Wah
+      - family-names: Collinson
+        given-names: Lucy
+      - family-names: Darrow
+        given-names: Michele C.
+      - family-names: Ellenberg
+        given-names: Jan
+      - family-names: Grunwald
+        given-names: David
+      - family-names: Hériché
+        given-names: Jean-Karim
+      - family-names: Iudin
+        given-names: Andrii
+      - family-names: Martins
+        given-names: Gabriel G.
+      - family-names: Meehan
+        given-names: Terry
+      - family-names: Narayan
+        given-names: Kedar
+      - family-names: Patwardhan
+        given-names: Ardan
+      - family-names: Russell
+        given-names: Matthew Robert Geoffrey
+      - family-names: Saibil
+        given-names: Helen R.
+      - family-names: Strambio-De-Castillia
+        given-names: Caterina
+      - family-names: Swedlow
+        given-names: Jason R.
+      - family-names: Tischer
+        given-names: Christian
+      - family-names: Uhlmann
+        given-names: Virginie
+      - family-names: Verkade
+        given-names: Paul
+      - family-names: Barlow
+        given-names: Mary
+      - family-names: Bayraktar
+        given-names: Omer
+      - family-names: Birney
+        given-names: Ewan
+      - family-names: Catavitello
+        given-names: Cesare
+      - family-names: Cawthorne
+        given-names: Christopher
+      - family-names: Wagner-Conrad
+        given-names: Stephan
+      - family-names: Duke
+        given-names: Elizabeth
+      - family-names: Paul-Gilloteaux
+        given-names: Perrine
+      - family-names: Gustin
+        given-names: Emmanuel
+      - family-names: Harkiolaki
+        given-names: Maria
+      - family-names: Kankaanpää
+        given-names: Pasi
+      - family-names: Lemberger
+        given-names: Thomas
+      - family-names: McEntyre
+        given-names: Jo
+      - family-names: Moore
+        given-names: Josh
+      - family-names: Nicholls
+        given-names: Andrew W.
+      - family-names: Onami
+        given-names: Shuichi
+      - family-names: Parkinson
+        given-names: Helen
+      - family-names: Parsons
+        given-names: Maddy
+      - family-names: Romanchikova
+        given-names: Marina
+      - family-names: Sofroniew
+        given-names: Nicholas
+      - family-names: Swoger
+        given-names: Jim
+      - family-names: Utz
+        given-names: Nadine
+      - family-names: Voortman
+        given-names: Lenard M.
+      - family-names: Wong
+        given-names: Frances
+      - family-names: Zhang
+        given-names: Peijun
+      - family-names: Kleywegt
+        given-names: Gerard J.
+      - family-names: Brazma
+        given-names: Alvis
+    date-published: "2021-05-21"
+    doi: 10.1038/s41592
+    end: 1422
+    issue: 12
+    journal: Nature Methods
+    scope: "Used for the 'REMBI - Mapping' part. Templates from CAi were based on this publication as well as filling one of these templates on site and conceptual discussions on mapping touched the publication's content."
+    start: 1418
+    title: "REMBI: Recommended Metadata for Biological Images-enabling reuse of microscopy data in biology"
+    type: article
+    url: "https://doi.org/10.1038/s41592-021-01166-8"
+    volume: 18
+  - authors:
+        - affiliation: Netherlands eScience Center
+          family-names: Spaaks
+          given-names: Jurriaan H.
+          orcid: 0000-0002-7064-4069
+        - affiliation: Netherlands eScience Center
+          family-names: Klaver
+          given-names: Tom
+        - affiliation: Netherlands eScience Center
+          family-names: Verhoeven
+          given-names: Stefan
+          orcid: 0000-0002-5821-2060
+        - affiliation: "Humboldt-Universit\xE4t zu Berlin"
+          family-names: Druskat
+          given-names: Stephan
+          orcid: 0000-0003-4925-7248
+        - affiliation: University of Oslo
+          family-names: Leoncio Netto
+          given-names: Waldir
+    date-released: '2021-09-22'
+    doi: 10.5281/zenodo.5521767
+    keywords:
+      - bibliography
+      - BibTeX
+      - cff
+      - citation
+      - CITATION.cff
+      - CodeMeta
+      - EndNote
+      - RIS
+      - Citation File Format
+    license:
+      - apache-2.0
+    repository: "https://github.com/citation-file-format/cffconvert"
+    scope: "cffconvert was used to test if the CITATION.cff file would be valid prior to adding the references. As the tool does currently not convert references, the .zenodo.json file of this repository was created without it."
+    title: cffconvert
+    type: software
+    version: 2.0.0
+  - authors:
+      - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
+        family-names: Xiang
+        given-names: Zuoshuang
+      - affiliation: Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+        family-names: Mungall
+        given-names: Chris
+      - affiliation: Science Commons, Vambridge, MA, USA
+        family-names: Ruttenberg
+        given-names: Alan
+      - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
+        family-names: He
+        given-names: Yongqun
+    collection-title: "Proceedings of the 2nd International Conference on Biomedical Ontologies (ICBO)"
+    collection-type: proceedings
+    conference:
+      city: Buffalo
+      country: USA
+      date-end: "2011-07-30"
+      date-start: "2011-07-28"
+      name: "2nd International Conference on Biomedical Ontologies (ICBO)"
+      region: NY
+    end: 281
+    keywords:
+      - Ontobee
+      - ontology visualization
+      - Semantic Web
+    license: CC-BY-3.0
+    scope: "Used Ontobee before the hackathon for the ARC and during the hackathon for selecting ontology terms for filling a REMBI on-site with the respective ARC."
+    start: 279
+    title: "Ontobee: A Linked Data Server and Browser for Ontology Terms"
+    type: conference-paper
+    url: "https://ontobee.org/, http://ceur-ws.org/Vol-833/paper48.pdf"
+    year: 2011

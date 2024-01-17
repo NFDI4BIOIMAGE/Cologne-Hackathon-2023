@@ -1,0 +1,137 @@
+{
+    "access_right": "open",
+    "communities": [
+        {
+            "identifier": "NFDI4BIOIMAGE"
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany",
+            "name": "Abdrabbou, Mohamed M.",
+            "orcid": "0000-0003-2778-7483"
+        }, {
+            "affiliation": "Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany",
+            "name": "Babaki, Mehrnaz",
+            "orcid": "0000-0003-3099-618X"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Boissonnet, Tom",
+            "orcid": "0000-0002-3328-9467"
+        }, {
+            "affiliation": "Single-cell Open Lab, German Cancer Research Center (DKFZ), Heidelberg, Germany",
+            "name": "Bortolomeazzi, Michele",
+            "orcid": "0000-0001-5805-5774"
+        }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Dahms, Eik",
+            "orcid": "0000-0002-7452-1146"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Fuchs, Vanessa A. F.",
+            "orcid": "0000-0002-4101-6987"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
+            "name": "Hövels, Moritz"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
+            "name": "Kandpal, Niraj",
+            "orcid": "0009-0007-5101-4786"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Möhl, Christoph",
+            "orcid": "0000-0002-0829-5101"
+        }, {
+            "affiliation": "German BioImaging—Society for Microscopy and Image Analysis e.V., Constance, Germany",
+            "name": "Moore, Joshua A.",
+            "orcid": "0000-0003-4028-811X"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Schauss, Astrid",
+            "orcid": "0000-0002-6658-2192"
+        }, {
+            "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
+            "name": "Schneider, Kevin",
+            "orcid": "0000-0002-2198-5262"
+        }, {
+            "affiliation": "Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany",
+            "name": "Schrader, Andrea",
+            "orcid": "0000-0002-3879-7057"
+        }, {
+            "affiliation": "Leibniz Institute for Neurobiology (LIN), Magdeburg, Germany",
+            "name": "Stöter, Torsten",
+        }, {
+            "affiliation": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany",
+            "name": "Thönnißen, Julia",
+            "orcid": "0000-0002-5467-871X"
+        }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Valencia-Schneider, Mónica E.",
+            "orcid": "0000-0003-3430-2683"
+        }, {
+            "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
+            "name": "Weil, H. Lukas",
+            "orcid": "0000-0003-1945-6342"
+        }, {
+            "affiliation": "Muenster Imaging Network, University of Muenster, Muenster, Germany",
+            "name": "Wendt, Jens",
+            "orcid": "0009-0002-1826-7099"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Zentis, Peter",
+            "orcid": "0000-0002-6999-132X"
+        }
+    ],
+    "description": "This is the repository for documentation during the first NFDI4Bioimage - TA3-Hackathon - UoC-2023 (in short: Cologne Hackathon). Potential topics were identified in a preparatory meeting and covered with introductory talks. In a joint discussion and workflow as well as roadmap session, graphical workflows were created and tasks were defined. Eventually intensive work on the topics 'Interoperability', 'REMBI / Mapping', 'OMERO / zarr', '3D Slicer / Neuroglancer' was conducted in groups and final reports summarized the outcome of this initial hackathon which also bridged from NFDI4Bioimage to DataPLANT on the topic of OMERO-ARC interoperability. From the beginning, there was a focus on documentation and including use cases. The interoperability and REMBI topic served as preparatory work for a project at the 2nd de.NBI BioHackathon in Bielefeld: 'Towards OMERO and ARC interoperability for RDM-compliant bio-image data'. For the OMERO-ARC topic, we are thankful for the collaboration with DataPLANT (funded by the German Research Foundation (DFG) within the framework of the NFDI - project numbers: 442077441). We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a guest, also providing the introductory talk on ARC. Furthermore, we acknowledge Timo Mühlhaus in discussions during planning for the OMERO-ARC project and Kevin Schneider in preparatory meetings on the OMERO-ARC project (both: DataPLANT). Funding allowing this event including enabling for organization, participation and finalizing this repository including the Zenodo submission: NFDI4Bioimage, funded by the German Research Foundation (DFG) within the framework of the NFDI-project numbers: 501864659; CEPLAS, Cluster of Excellence on Plant Sciences, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy, EXC-2048/1'; CECAD, Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases, funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany's Excellence Strategy - EXC 2030 - 390661388; CRC TRR341, Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) - Project-ID 456082119.",
+    "doi": "",
+    "keywords": [
+        "OMERO",
+        "ARC",
+        "Neuroglancer",
+        "zarr",
+        "REMBI",
+        "metadata",
+        "use cases",
+        "multimodal data",
+        "hackathon",
+        "NFDI4Bioimage",
+        "DataPLANT",
+        "CECAD",
+        "CEPLAS",
+        "CRC-TRR341"
+    ],
+    "license": "CC-BY-4.0",
+    "notes": "If you use content of this repository, please cite it using these metadata. Please note, authors are in alphabetical order!",
+    "publication_date": "",
+    "references": [
+        
+        "Chris Allan, Jean-Marie Burel, Josh Moore, Colin Blackburn, Melissa Linkert, Scott Loynton, Donald MacDonald, William J Moore, Carlos Neves, Andrew Patterson, Michael Porter, Aleksandra Tarkowska, Brian Loranger, Jerome Avondo, Ingvar Lagerstedt, Luca Lianas, Simone Leo, Katherine Hands, Ron T Hay, Ardan Patwardhan, Christoph Best, Gerard J Kleywegt, Gianluigi Zanetti & Jason R Swedlow (2012) OMERO: flexible, model-driven data management for experimental biology. Nature Methods 9, 245–253. Published: 28 February 2012, doi: 10.1038/nmeth.1896 PMID: 22373911 PMCID: PMC3437820",
+        
+        "Baker, S. and tree contributors, 'tree v2.1.1' (2023) [Online]. Available: https://oldmanprogrammer.net/source.php?dir=projects/tree. Accessed 07. Dec. 2023",
+        
+        "DataPLANT community (2023). ARC Specification 1.2 Zenodo. [Online]. Available: https://doi.org/10.5281/zenodo.10091038",
+        "Dumschott, K. - ontology paper",
+        "Frey - Swate",
+        "Google Connectomics Team - Neuroglancer - https://github.com/google/neuroglancer/",
+        "Bioformats: Melissa Linkert, Curtis T. Rueden, Chris Allan, Jean-Marie Burel, Will Moore, Andrew Patterson, Brian Loranger, Josh Moore, Carlos Neves, Donald MacDonald, Aleksandra Tarkowska, Caitlin Sticco, Emma Hill, Mike Rossner, Kevin W. Eliceiri, and Jason R. Swedlow (2010) Metadata matters: access to image data in the real world. The Journal of Cell Biology 189(5), 777-782. doi: 10.1083/jcb.201004104",
+        "E. Martins Ratamero et al., ome/omero-cli-transfer: 0.8.0 - new `--simple` option in `pack` (0.8.0) (2023). [Online]. Available (all versions): DOI : https://doi.org/10.5281/zenodo.7573591",
+        "OMERO-ARC Plugin. (2023) C. Möhl [Online]. Available: https://github.com/cmohl2013/omero-arc",
+        "RDM4mic - I3D:bio's OMERO Training Videos 2023, https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU,",
+        "Sansone, S.-A. et al. (2016). ISA Model and Serialization Specifications 1.0 [Online]. Available: https://doi.org/10.5281/zenodo.163640",
+
+        "Sarkans, U., Chiu, W., Collinson, L., Darrow, M. C., Ellenberg, J., Grunwald, D., Hériché, J.-K., Iudin, A., Martins, G.G., Meehan, T., Narayan, K., Patwardhan, A., Russell, M. R. G., Saibil, H.R., Strambio-De-Castillia, C., Swedlow, J.R., Tischer, C., Uhlmann, V., Verkade, P., Barlow, M., Bayraktar, O., Birney, E., Catavitello, C., Cawthorne, C., Wagner-Conrad, S., Duke, E., Paul-Gilloteaux, P., Gustin, E., Harkiolaki, M., Kankaanpää, P., Lemberger, T., McEntyre, J., Moore, J. A., Nicholls, A. W., Onami, S., Parkinson, H., Parsons, M. Romanchikova, M., Sofroniew, N., Swoger, J., Utz, N., Voortman, L.M., Wong, F., Zhang, P., Kleywegt, G.j. & Brazma, A. (2021). REMBI: Recommended Metadata for Biological Images-enabling reuse of microscopy data in biology. Nature Methods 18. 1418-1422. https://doi.org/10.1038/s41592-021-01166-8",
+        
+        "Schmidt, C., Bortolomeazzi, M., Boissonnet, T., Fortmann-Grote, C., Dohle, J., Zentis, P., Kandpal, N., Kunis, S., Zobel, T., Weidtkamp-Peters, S., & Ferrando-May, E. (2023). I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training. Zenodo. https://doi.org/10.5281/zenodo.8323588",
+        "Schmidt C, Hanne J, Moore J et al., Research data management for bioimaging: the 2021 NFDI4BIOIMAGE community survey [version 2; peer review: 2 approved].",
+        
+        "Spaaks, J. H., Klaver, T., Verhoeven, S., Druskat, S., & Leoncio Netto, W. (2021). cffconvert (2.0.0). Zenodo. https://doi.org/10.5281/zenodo.5521767. Accessed 03. Jan. 2024",
+        
+        "The Open Microscopy Environment  - omero-web-zarr https://github.com/ome/omero-web-zarr, https://pypi.org/project/omero-web-zarr/",
+        "Weil - ARC Commander",
+        "Xiang Z, Mungall C, Ruttenberg A, He Y. (2011). Ontobee: A Linked Data Server and Browser for Ontology Terms. Proceedings of the 2nd International Conference on Biomedical Ontologies (ICBO), July 28-30, 2011, Buffalo, NY, USA. Pages 279-281. http://ceur-ws.org/Vol-833/paper48.pdf. Accessed 2023."
+    ],
+    "resource_type": "other",
+    "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)",
+    "upload_type": "other",
+    "version": "0.9.0"
+}
