@@ -226,6 +226,31 @@ references:
     version: v2.1.1
     year: 2023
   - authors:
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Moore
+        given-names: William J.
+    copyright: "(C) 2022-2023, The Open Microscopy Environment"        
+    license: AGPL-3.0
+    repository: "https://github.com/ome/omero-web-zarr"
+    scope: "omero-web-zarr v0.1.1 was used in the Neuroglancer topic including OMERO / zarr."
+    title: ome/omero-web-zarr 0.1.1 (GitHub repository)
+    type: software
+    version: v0.1.1
+    year: 2023
+  - authors:
+      - name: "Coderefinery contributors"
+    date-accessed: "2024-01-03"
+    license: CC-BY-4.0
+    repository: "https://github.com/coderefinery/github-without-command-line"
+    scope: "Cite this website if you want to reference the instructions on the doi-exercise followed. The authors provided are the contributors to this part of the respective repository."
+    title: github-without-command-line/doi
+    type: website
+    url: "https://coderefinery.github.io/github-without-command-line/doi/"
+    year: 2020
+  - authors:
       - name: "DataPLANT community"
     date-accessed: "2023-11-38"
     license: CC-BY-4.0
@@ -236,7 +261,6 @@ references:
     url: "https://doi.org/10.5281/zenodo.10091038"
     version: v1.2
     year: 2023
-
 
 "Dumschott, K., Dörpholz, H., Laporte, M.-A., Brilhaus, D., Schrader, A. Usadel, B., Neumann, S., Arnaud, E. & Kranz, A. (2023). Ontologies for increasing the FAIRness of plant research data. Frontiers in Plant Science 14:1279694. Published: 30 November 2023, https://doi.org/10.3389/fpls.2023.1279694"
   - authors:
