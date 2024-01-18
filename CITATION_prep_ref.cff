@@ -245,7 +245,7 @@ references:
     date-accessed: "2024-01-03"
     license: CC-BY-4.0
     repository: "https://github.com/coderefinery/github-without-command-line"
-    scope: "Cite this website if you want to reference the instructions on the doi-exercise followed. The authors provided are the contributors to this part of the respective repository."
+    scope: "The repository is submitted to Zenodo as described in these instructions."
     title: github-without-command-line/doi
     type: website
     url: "https://coderefinery.github.io/github-without-command-line/doi/"
@@ -289,7 +289,114 @@ references:
     type: article
     url: "https://www.frontiersin.org/articles/10.3389/fpls.2023.1279694"
     volume: 14
-
+  - authors:
+      - family-names: Frey
+        given-names: Kevin
+      - name: "Swate contributors"
+    license: 
+    repository: "https://github.com/nfdi4plants/Swate"
+    scope: "Used for annotating an imaging experiment with respective ontologies."
+    title: "Swate v0.6.2 (GitHub repository)"
+    type: software
+    version: v0.6.2
+    year: 2022
+  - authors:
+      - name: "Google Connectomics Team"
+    license: Apache-2.0
+    repository: "https://github.com/google/neuroglancer/"
+    scope: "Used in the neuroglancer topic."
+    title: "Neuroglancer v2.37 (GitHub repository))"
+    type: software
+    version: v2.37
+    year: 2023
+  - authors:
+      - family-names: Maitin-Shepard
+        given-names: Jeremy
+      - family-names: Baden
+        given-names: Alex
+      - family-names: Silversmith
+        given-names: William
+      - family-names: Perlman
+        given-names: Eric
+      - family-names: Collman
+        given-names: Forrest
+      - family-names: Blakely
+        given-names: Tim
+      - family-names: Funke
+        given-names: Jan
+      - family-names: Jordan
+        given-names: Chris
+      - family-names: Falk
+        given-names: Ben
+      - family-names: Kemnitz
+        given-names: Nico
+      - alias: tingzhao
+      - family-names: Roat
+        given-names: Chris
+      - family-names: Castro
+        given-names: Manuel
+      - family-names: Jagannathan
+        given-names: Sridhar
+      - alias: moenigin
+      - family-names: Clements
+        given-names: Jody
+      - family-names: Hoag
+        given-names: Austin
+      - family-names: Katz
+        given-names: Bill
+      - family-names: Parsons
+        given-names: Dave
+      - family-names: Wu
+        given-names: Jingpeng
+      - family-names: Kamentsky
+        given-names: Lee
+      - family-names: Chervakov
+        given-names: Pavel
+      - family-names: Hubbard
+        given-names: Philip 
+      - family-names: Berg
+        given-names: Stuart
+      - family-names: Hoffer
+        given-names: John
+      - family-names: Halageri
+        given-names: Akhilesh
+      - family-names: Machacek
+        given-names: Christian
+      - family-names: Mader
+        given-names: Kevin
+      - family-names: Roeder
+        given-names: Lutz
+      - family-names: Li
+        given-names: Peter H.
+    date-released: '2021-10-16'
+    doi: 10.5281/zenodo.5573294
+    license: Apache-2.0
+    publisher: Zenodo
+    repository: "https://github.com/google/neuroglancer/"
+    scope: "Zenodo publication of an earlier version of the neuroglancer as the one used in the neuroglancer topic."
+    title: "google/neuroglancer: (v2.23)"
+    type: software
+    url: https://doi.org/10.5281/zenodo.5573294
+    version: v2.23
+    year: 2021
+  - authors:
+      - family-names: Martins Ratamero
+        given-names: Erick
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Sobolewski
+        given-names: Peter
+      - family-names: Moore
+        given-names: William J.
+    doi: 10.5281/zenodo.8383499
+    license: GPL-2.0
+    repository: "https://github.com/ome/omero-cli-transfer"
+    scope: "omero-cli-transfer is used in OMERO_ARC interoperability which was mainly covered here in a conceptual way in the interoperability topic and also by the OMERO-ARC plugin of C. Möhl for the omero-cli-transfer."
+    title: "ome/omero-cli-transfer: 0.8.0 - new `--simple` option in `pack` (0.8.0)"
+    type: software
+    url: https://doi.org/10.5281/zenodo.8383499
+    version: v0.8.0
+    year: 2023
 
   - authors:
       - family-names: Sarkans
