@@ -261,12 +261,36 @@ references:
     url: "https://doi.org/10.5281/zenodo.10091038"
     version: v1.2
     year: 2023
-
-"Dumschott, K., Dörpholz, H., Laporte, M.-A., Brilhaus, D., Schrader, A. Usadel, B., Neumann, S., Arnaud, E. & Kranz, A. (2023). Ontologies for increasing the FAIRness of plant research data. Frontiers in Plant Science 14:1279694. Published: 30 November 2023, https://doi.org/10.3389/fpls.2023.1279694"
   - authors:
-      - family-name: Dumschott
-        given-names: Kathrin
-  
+      - family-names: Dumschott
+        given-names: Kathryn
+      - family-names: Dörpholz
+        given-names: Hannah
+      - family-names: Laporte
+        given-names: Marie-Angélique
+      - family-names: Brilhaus
+        given-names: Dominik
+      - family-names: Schrader
+        given-names: Andrea
+      - family-names: Usadel
+        given-names: Björn
+      - family-names: Neumann
+        given-names: Steffen
+      - family-names: Arnaud
+        given-names: Elizabeth
+      - family-names: Kranz
+        given-names: Angela
+    date-published: "2023-11-30"
+    doi: 10.3389/fpls.2023.1279694
+    issn: "1664-462X"
+    journal: Frontiers in Plant Science 
+    scope: "Ontologies suited for plant research data annotation as prepared in the used imaging ARC in the REMBI - Mapping topic."
+    title: "Ontologies for increasing the FAIRness of plant research data"
+    type: article
+    url: "https://www.frontiersin.org/articles/10.3389/fpls.2023.1279694"
+    volume: 14
+
+
   - authors:
       - family-names: Sarkans
         given-names: Ugis
