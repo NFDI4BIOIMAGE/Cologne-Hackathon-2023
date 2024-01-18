@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use content of this repository, please cite it using these metadata. Please note, authors are in alphabetical order!"
+message: "If you use content of this repository, please cite it using these metadata. Authors are in alphabetical order!"
 repository: "https://github.com/NFDI4BIOIMAGE/Cologne-Hackathon-2023"
 authors:
   - affiliation: Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany
@@ -153,6 +153,66 @@ title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, reposit
 version: 0.9.0
 references:
   - authors:
+      - family-names: Allen
+        given-names: Chris
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Blackburn
+        given-names: Colin
+      - family-names: Linkert
+        given-names: Melissa
+      - family-names: Loynton
+        given-names: Scott
+      - family-names: MacDonald
+        given-names: Donald
+      - family-names: Moore
+        given-names: William J.
+      - family-names: Neves
+        given-names: Carlos
+      - family-names: Patterson
+        given-names: Andrew
+      - family-names: Porter
+        given-names: Michael
+      - family-names: Tarkowska
+        given-names: Aleksandra
+      - family-names: Loranger
+        given-names: Brian
+      - family-names: Avondo
+        given-names: Jerome
+      - family-names: Lagerstedt
+        given-names: Ingvar
+      - family-names: Lianas
+        given-names: Luca
+      - family-names: Leo
+        given-names: Simone
+      - family-names: Hands
+        given-names: Katherine
+      - family-names: Hay
+        given-names: Ron T.
+      - family-names: Patwardhan
+        given-names: Ardan
+      - family-names: Best
+        given-names: Christoph
+      - family-names: Kleywegt
+        given-names: Gerard J.
+      - family-names: Zanetti
+        given-names: Gianluigi
+      - family-names: Swedlow
+        given-names: Jason R.
+    date-published: "2012-02-28"
+    doi: 10.1038/nmeth.1896
+    end: 253
+    issue: 3
+    journal: Nature Methods
+    scope: "A reference for OMERO - model-driven data management for experimental biology."
+    start: 245
+    title: "OMERO: flexible, model-driven data management for experimental biology"
+    type: article
+    url: "https://doi.org/10.1038/nmeth.1896"
+    volume: 9  
+  - authors:
       - family-names: Baker
         given-names: Steve
       - name: "tree contributors"
@@ -165,10 +225,24 @@ references:
     url: "https://oldmanprogrammer.net/source.php?dir=projects/tree"
     version: v2.1.1
     year: 2023
+  - authors:
+      - name: "DataPLANT community"
+    date-accessed: "2023-11-38"
+    license: CC-BY-4.0
+    repository: "https://github.com/nfdi4plants/ARC-specification"
+    scope: "The ARC specification underlying the conceptual discussions and setup towards OMERO-ARC interoperability."
+    title: nfdi4plants/ARC-specification: 1.2
+    type: software
+    url: "https://doi.org/10.5281/zenodo.10091038"
+    version: v1.2
+    year: 2023
 
+
+"Dumschott, K., Dörpholz, H., Laporte, M.-A., Brilhaus, D., Schrader, A. Usadel, B., Neumann, S., Arnaud, E. & Kranz, A. (2023). Ontologies for increasing the FAIRness of plant research data. Frontiers in Plant Science 14:1279694. Published: 30 November 2023, https://doi.org/10.3389/fpls.2023.1279694"
   - authors:
       - family-name: Dumschott
-
+        given-names: Kathrin
+  
   - authors:
       - family-names: Sarkans
         given-names: Ugis
