@@ -5,28 +5,39 @@
 This is the repository for documentation during the first **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**).  
 
 
+**TOC - In this README:**  
+[Context of proposed topics](#context-of-proposed-topics)  
+[Brief report about the event](#brief-report-about-the-event)  
+[Overview of the content in this repository](#overview-of-the-content-in-this-repository)  
+[Contributions](#contributions)  
+[Zenodo submission](#zenodo-submission)  
+[Organizers](#organizers)  
+[Acknowledgement](#acknowledgement)  
+[Funding - for this Hackathon](#funding---for-this-hackathon)  
+
+
 ## Context of proposed topics
 
 Open Microscopy Environment Remote Objects ([**OMERO**](https://doi.org/10.1038/nmeth.1896)) is a data management platform used in experimental biology and is in particular specialized for the needs of imaging data.  
 
-Imaging data can be very complex. An image acquisition usually comprises multiple files of different types covering the data, and respective metadata in one directory or condensed to one object in a vendor-specific file format. If not managed accordingly in an Research Data Management (RDM) compliant way, this can cause all kinds of problems for downstream analysis, linking it with data across disciplines and preventing tools from being interoperable. [**OME-Zarr**]() is one such format which tries to avoid such obstacles and minimize data loss upon conversion.  
+Imaging data can be very complex. An image acquisition usually comprises multiple files of different types covering the data, and respective metadata in one directory or condensed to one object in a vendor-specific file format. If not managed accordingly in an Research Data Management (RDM) compliant way, this can cause all kinds of problems for downstream analysis, linking it with data across disciplines and preventing tools from being interoperable. [**OME-Zarr**](https://doi.org/10.1007/s00418-023-02209-1) is one such format which tries to avoid such obstacles and minimize data loss upon conversion.  
 
-OMERO supports with handling this specific type of data. It extracts, maps and stores metadata in a relational database and enriches it with proprietary-file-format-specific metadata if required while converting the proprietary file formats using [Bio-Formats]().  
+OMERO supports with handling this specific type of data. It extracts, maps and stores metadata in a relational database and enriches it with proprietary-file-format-specific metadata if required while converting the proprietary file formats using [Bio-Formats](https://doi.org/10.1083/jcb.201004104).  
 
-Moreover, using OMERO, researchers can visualize, analyze and process their imaging data. One example is a volume viewer (VolViewer). However, other solutions for more specific 3D volume visualization accessible from OMERO are desired. Two options for this are [**3D-Slicer**]() and [**neuroglancer**](). While 3D-Slicer will be covered elsewhere, this hackathon explores neuroglancer as a possible extension to the current functionality accessible via OMERO.  
+Moreover, using OMERO, researchers can visualize, analyze and process their imaging data. One example is a volume viewer (VolViewer). However, other solutions for more specific 3D volume visualization accessible from OMERO are desired. Two options for this are [**3D-Slicer**](https://www.slicer.org/) and [**neuroglancer**](https://doi.org/10.5281/zenodo.5573294). While 3D-Slicer will be covered elsewhere, this hackathon explores neuroglancer as a possible extension to the current functionality accessible via OMERO.  
 
 On the one hand, there is OMERO which is central to data management of different types of microscopic data as e.g. outlined above. On the other hand, **ARCs** (Annotated Research Contexts), offer - as indicated by its name - an annotated research context for multi-modal research projects conducted using methods across disciplines. However, imaging data and its metadata has not been covered well, so far.  
 Here, we intend to bridge between OMERO and ARC and make use of the interoperability of both to enrich metadata and the research context on both sides.  
 
-ARCs can open the door to the world of FAIR digital objects ([FDOs]()). Essentially, an ARC has according to its [specification]() a defined directory structure, adheres to several standards, is based on the [ISA model](), can be versioned and enables workflows e.g. using Common Workflow Language ([CWL]()) and [RO-Crate]() conversion. ARCs and respective supportive tools are developed by [DataPLANT](nfdi4plants.org).  
+ARCs can open the door to the world of FAIR digital objects ([FDOs](https://zenodo.org/records/7782262)). Essentially, an ARC has according to its [specification](https://doi.org/10.5281/zenodo.10091038) a defined directory structure, adheres to several standards, is based on the [ISA model](https://doi.org/10.5281/zenodo.163640), can be versioned and enables workflows e.g. using Common Workflow Language ([CWL]()) and [RO-Crate]() conversion. ARCs and respective supportive tools are developed by [DataPLANT](nfdi4plants.org).  
 
-The Brain Imagin Data structure ([**BIDS**]()) provides some of the aspects mentioned above in order to handle complex and multi-modal neuroimaging and behavioural data. Key components are a formalized file and directory structure, use of controled vocabulary, required metadata and BIDS Extension Proposals ([BEPs]()).  
+The Brain Imagin Data structure ([**BIDS**](https://doi.org/10.1038/sdata.2016.44)) provides some of the aspects mentioned above in order to handle complex and multi-modal neuroimaging and behavioural data. Key components are a formalized file and directory structure, use of controled vocabulary, required metadata and BIDS Extension Proposals ([BEPs](https://bids-extensions.readthedocs.io/en/latest/guide/)).  
 
 In order to properly manage and use imaging data, the availability of appropriate metadata is of utmost importance.  
 
-While some metadata can be recorded by devices and automatically be extracted from the respective files or acquisition-specific file collections, other metadata need to be provided by the researcher to enable setting the imaging data in the appropriate research context. In particular, a well-defined set of metadata should be deposited when imaging data is submitted to a repository in order to preserve and to share it in a FAIR way. [**REMBI**]() (Recommended Metadata for Biological Images) is providing guidance on the content of such a well-defined set of metadata. Therefore, it is intended to explore REMBI with examples in the context of OMERO and ARC during this hackathon and to identify requirements obstacles for **mapping** metadata when transferring data between OMERO and ARC.  
+While some metadata can be recorded by devices and automatically be extracted from the respective files or acquisition-specific file collections, other metadata need to be provided by the researcher to enable setting the imaging data in the appropriate research context. In particular, a well-defined set of metadata should be deposited when imaging data is submitted to a repository in order to preserve and to share it in a FAIR way. [**REMBI**](https://doi.org/10.1038/s41592-021-01166-8) (Recommended Metadata for Biological Images) is providing guidance on the content of such a well-defined set of metadata. Therefore, it is intended to explore REMBI with examples in the context of OMERO and ARC during this hackathon and to identify requirements obstacles for **mapping** metadata when transferring data between OMERO and ARC.  
 
-The [NFDI4Bioimage Task Area 3](https://nfdi4bioimage.de/en/aims/task-areas/) (TA3) works on multimodal data linking and integration. It also prepares with this hackathon an upcoming [project on OMERO-ARC interoperability]() at the [2nd de.NBI BioHackathon](). (For more details on all contributors, please see the end of this file.)  
+The [NFDI4Bioimage Task Area 3](https://nfdi4bioimage.de/en/aims/task-areas/) (TA3) works on multimodal data linking and integration. It also prepares with this hackathon an upcoming [project on OMERO-ARC interoperability](https://www.denbi.de/de-nbi-events-archive/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data) at the [2nd de.NBI BioHackathon](https://www.denbi.de/de-nbi-events-archive/1547-biohackathon-germany-2). (For more details on all contributors, please see the end of this file.)  
 
 
 ## Brief report about the event
