@@ -150,7 +150,7 @@ The interoperability and REMBI topic served as preparatory work for a project at
     ├── Cologne_Hackathon_Schedule.pdf
     └── Cologne_Hackathon_Tasks.pdf
 ```
-16-01-2024 (created using tree v2.1.1 © 1996 - 2023 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro)
+16-01-2024 (created using [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree) v2.1.1 © 1996 - 2023 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro)
 
 <br/>
 
@@ -170,7 +170,7 @@ When contributing, participants were asked to consider that (parts of) this repo
 
 ## Contributors in alphabetical order
 
-🤝 Participants contributing to the **NFDI4Bioimage - TA3-Hackathon - UoC-2023** could provide their name, GitHub handle, ORCID iD and ROR right here in the README - if they liked. The full list of participants - some only contributing to conceptual work on site and not directly to this repo - is provided in the [CITATION.cff](./CITATION.cff) and [.zenodo.json](./\.zenodo.json) files.  
+🤝 Participants contributing to the **NFDI4Bioimage - TA3-Hackathon - UoC-2023** could provide their name, GitHub handle, ORCID iD and ROR right here in the README - if they liked.  
 
 |name|GitHub|ORCID|ROR|  
 |---|---|---|---|  
@@ -184,6 +184,15 @@ When contributing, participants were asked to consider that (parts of) this repo
 |Monica Valencia-Schneider|[@mvals](https://github.com/mvals)|[https://orcid.org/0000-0003-3430-2683](https://orcid.org/0000-0003-3430-2683)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
 |Heinrich Lukas Weil|[@HLWeil](https://github.com/HLWeil)|[https://orcid.org/0000-0003-1945-6342](https://orcid.org/0000-0003-1945-6342)|[https://ror.org/01qrts582](https://ror.org/01qrts582)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
+
+## Zenodo submission
+
+The full list of participants - some only contributing to conceptual work on site and not directly to this repo - is provided in the [CITATION.cff](./CITATION.cff) and [.zenodo.json](./\.zenodo.json) files.  
+
+CITATION.cff and .zenodo.json:
+- CITATION.cff is used as a citation being directly in the repository and being accessible via the GitHub sidebar. 
+- Citation.cff was tested with [cffconvert](https://github.com/citation-file-format/cffconvert) prior to adding the references to be valid.  
+- The repo is prepared to be submitted as described [here](https://github.com/andreaschrader/doi-exercise) or [here](https://coderefinery.github.io/github-without-command-line/doi/). .zenodo.json is used for transferring the contained metadata to Zenodo.  
 
 ## Organizers
 
