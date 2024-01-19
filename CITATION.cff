@@ -295,6 +295,7 @@ references:
       - family-names: Frey
         given-names: Kevin
       - name: "Swate contributors"
+    license: MIT
     repository: "https://github.com/nfdi4plants/Swate"
     scope: "Used for annotating an imaging experiment with respective ontologies."
     title: "Swate v0.6.2 (GitHub repository)"
