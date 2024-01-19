@@ -6,14 +6,32 @@ This is the repository for documentation during the first **NFDI4Bioimage - TA3-
 
 
 **TOC - In this README:**  
-[Context of proposed topics](#context-of-proposed-topics)  
-[Brief report about the event](#brief-report-about-the-event)  
-[Overview of the content in this repository](#overview-of-the-content-in-this-repository)  
-[Contributions](#contributions)  
-[Zenodo submission](#zenodo-submission)  
-[Organizers](#organizers)  
-[Acknowledgement](#acknowledgement)  
-[Funding - for this Hackathon](#funding---for-this-hackathon)  
+- [👋 Cologne-Hackathon-2023](#-cologne-hackathon-2023)
+  - [Context of proposed topics](#context-of-proposed-topics)
+  - [Brief report about the event](#brief-report-about-the-event)
+    - [Setting the Stage](#setting-the-stage)
+    - [Potential topics](#potential-topics)
+    - [Spot on the Topics](#spot-on-the-topics)
+    - [Let the show(s) begin](#let-the-shows-begin)
+      - [Workflow and roadmap session(s)](#workflow-and-roadmap-sessions)
+      - [Topic selection on-site](#topic-selection-on-site)
+    - [Hacking - Documentation](#hacking---documentation)
+    - [Use Cases](#use-cases)
+    - [Shine!](#shine)
+    - [42?](#42)
+    - [Closing the Hackathon](#closing-the-hackathon)
+  - [Overview of the content in this repository](#overview-of-the-content-in-this-repository)
+  - [Contributions](#contributions)
+    - [Contributors in alphabetical order](#contributors-in-alphabetical-order)
+  - [Zenodo submission](#zenodo-submission)
+  - [Organizers](#organizers)
+  - [Acknowledgement](#acknowledgement)
+  - [Funding - for this hackathon](#funding---for-this-hackathon)
+    - [NFDI4Bioimage](#nfdi4bioimage)
+    - [Other Organisations](#other-organisations)
+      - [CEPLAS](#ceplas)
+      - [CECAD](#cecad)
+      - [CRC TRR341](#crc-trr341)
 
 
 ## Context of proposed topics
@@ -35,7 +53,7 @@ The Brain Imagin Data structure ([**BIDS**](https://doi.org/10.1038/sdata.2016.4
 
 In order to properly manage and use imaging data, the availability of appropriate metadata is of utmost importance.  
 
-While some metadata can be recorded by devices and automatically be extracted from the respective files or acquisition-specific file collections, other metadata need to be provided by the researcher to enable setting the imaging data in the appropriate research context. In particular, a well-defined set of metadata should be deposited when imaging data is submitted to a repository in order to preserve and to share it in a FAIR way. [**REMBI**](https://doi.org/10.1038/s41592-021-01166-8) (Recommended Metadata for Biological Images) is providing guidance on the content of such a well-defined set of metadata. Therefore, it is intended to explore REMBI with examples in the context of OMERO and ARC during this hackathon and to identify requirements obstacles for **mapping** metadata when transferring data between OMERO and ARC.  
+While some metadata can be recorded by devices and automatically be extracted from the respective files or acquisition-specific file collections, other metadata need to be provided by the researcher to enable setting the imaging data in the appropriate research context. In particular, a well-defined set of metadata should be deposited when imaging data is submitted to a repository in order to preserve and to share it in a way following the principles of [FAIR](https://doi.org/10.1038/sdata.2016.18) (Findability, Accessibility, Interoperability, and Reusability). [**REMBI**](https://doi.org/10.1038/s41592-021-01166-8) (Recommended Metadata for Biological Images) is providing guidance on the content of such a well-defined set of metadata. Therefore, it is intended to explore REMBI with examples in the context of OMERO and ARC during this hackathon and to identify requirements obstacles for **mapping** metadata when transferring data between OMERO and ARC.  
 
 The [NFDI4Bioimage Task Area 3](https://nfdi4bioimage.de/en/aims/task-areas/) (TA3) works on multimodal data linking and integration. It also prepares with this hackathon an upcoming [project on OMERO-ARC interoperability](https://www.denbi.de/de-nbi-events-archive/1614-towards-omero-and-arc-interoperability-for-rdm-compliant-bio-image-data) at the [2nd de.NBI BioHackathon](https://www.denbi.de/de-nbi-events-archive/1547-biohackathon-germany-2). (For more details on all contributors, please see the end of this file.)  
 
@@ -246,7 +264,7 @@ We thank Heinrich Lukas Weil (DataPLANT) for participating and contributing as a
 
 Moreover, we thank the RRZK (Daniel Wickeroth) for presenting and explaining the [CAVE](https://rrzk.uni-koeln.de/en/hpc-projects/visualization/cave) to the hackathon participants!
 
-## Funding - for this Hackathon
+## Funding - for this hackathon
 (funding for the event and enabling for organization and participation)
 
 ### NFDI4Bioimage
