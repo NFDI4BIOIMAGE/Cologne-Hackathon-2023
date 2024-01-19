@@ -150,6 +150,7 @@ keywords:
   - CRC-TRR341
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
+type: generic
 version: 0.9.0
 references:
   - authors:
@@ -293,7 +294,7 @@ references:
         - family-names: Frey
           given-names: Kevin
         - name: "Swate contributors"
-    license: 
+    license: to be added
     repository: "https://github.com/nfdi4plants/Swate"
     scope: "Used for annotating an imaging experiment with respective ontologies."
     title: "Swate v0.6.2 (GitHub repository)"
@@ -374,13 +375,15 @@ references:
           given-names: Ben
         - family-names: Kemnitz
           given-names: Nico
-        - alias: tingzhao
+        - family-names: tingzhao
+          alias: tingzhao
         - family-names: Roat
           given-names: Chris
         - family-names: Castro
           given-names: Manuel
         - family-names: Jagannathan
           given-names: Sridhar
+        - family-names: moenigin
         - alias: moenigin
         - family-names: Clements
           given-names: Jody
@@ -645,10 +648,10 @@ references:
       - teaching-learning material
       - instructional material
       - teaching aid
-    license:
-      - CC-BY-4.0
+    license: CC-BY-4.0
     publisher: Zenodo
     title: 'I3D:bio''s OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training'
+    type: generic
     year: 2023
   - authors:
         - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
@@ -666,10 +669,10 @@ references:
       - citation
       - cff
       - .zenodo.json
-    license:
-      - CC-BY-4.0
+    license: CC-BY-4.0
     scope: "The repository is submitted to Zenodo as described in these instructions."
     title: andreaschrader/doi-exercise
+    type: generic
     version: 1.5.1
     year: 2024
   - authors:
@@ -703,8 +706,7 @@ references:
       - EndNote
       - RIS
       - Citation File Format
-    license:
-      - apache-2.0
+    license: Apache-2.0
     repository: "https://github.com/citation-file-format/cffconvert"
     scope: "cffconvert was used to test if the CITATION.cff file would be valid prior to adding the references. As the tool does currently not convert references, the .zenodo.json file of this repository was created without it."
     title: cffconvert
