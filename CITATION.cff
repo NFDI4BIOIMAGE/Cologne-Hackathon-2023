@@ -151,7 +151,7 @@ keywords:
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
 type: generic
-version: v0.9.0
+version: 0.9.0
 references:
   - authors:
       - family-names: Allen
@@ -415,7 +415,7 @@ references:
         given-names: Lutz
       - family-names: Li
         given-names: Peter H.
-    date-released: '2021-10-16'
+    date-released: "2021-10-16"
     doi: 10.5281/zenodo.5573294
     license: Apache-2.0
     publisher: Zenodo
@@ -476,7 +476,7 @@ references:
         family-names: Johnson
         given-names: David
       - name: ISA Community
-    date-released: '2016-10-28'
+    date-released: "2016-10-28"
     doi: 10.5281/zenodo.163640
     license: CC-BY-4.0
     publisher: Zenodo
@@ -484,7 +484,7 @@ references:
     scope: "ARC metadata is based on the isa model which also needs to be considered in OMERO-ARC interoperability."
     title: ISA Model and Serialization Specifications 1.0 
     type: technical note
-    version: v1.0
+    version: 1.0
     year: 2016
   - authors:
       - family-names: Sarkans
@@ -635,7 +635,7 @@ references:
         family-names: Ferrando-May
         given-names: Elisa
         orcid: 0000-0002-5567-8690
-    date-released: '2023-11-13'
+    date-released: "2023-11-13"
     doi: 10.5281/zenodo.8323588
     keywords:
       - OMERO
@@ -651,7 +651,7 @@ references:
       - teaching aid
     license: CC-BY-4.0
     publisher: Zenodo
-    title: 'I3D:bio''s OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training'
+    title: "I3D:bio's OMERO training material: Re-usable, adjustable, multi-purpose slides for local user training"
     type: generic
     year: 2023
   - authors:
@@ -659,7 +659,7 @@ references:
         family-names: Schrader
         given-names: Andrea
         orcid: 0000-0002-3879-7057
-    date-released: '2024-01-09'
+    date-released: "2024-01-09"
     doi: 10.5281/zenodo.10475430
     keywords:
       - doi
@@ -674,7 +674,7 @@ references:
     scope: "The repository is submitted to Zenodo as described in these instructions."
     title: andreaschrader/doi-exercise
     type: generic
-    version: v1.5.1
+    version: 1.5.1
     year: 2024
   - authors:
       - affiliation: Netherlands eScience Center
@@ -695,7 +695,7 @@ references:
       - affiliation: University of Oslo
         family-names: Leoncio Netto
         given-names: Waldir
-    date-released: '2021-09-22'
+    date-released: "2021-09-22"
     doi: 10.5281/zenodo.5521767
     keywords:
       - bibliography
@@ -712,7 +712,7 @@ references:
     scope: "cffconvert was used to test if the CITATION.cff file would be valid prior to adding the references. As the tool does currently not convert references, the .zenodo.json file of this repository was created without it."
     title: cffconvert
     type: software
-    version: v2.0.0
+    version: 2.0.0
     year: 2021
   - authors:
       - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
