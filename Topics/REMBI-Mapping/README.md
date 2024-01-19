@@ -31,8 +31,8 @@ First connections of REMBI with ARC and OMERO.
 
 - Try adhering to REMBI for the metadata.
   - Filling a REMBI template based on [CAi](https://www.cai.hhu.de/) experience (@VAFuchs, @Tom-TBT) for the [imaging ARC](https://git.nfdi4plants.org/natural-variation-and-evolution/microscopy_collection/map-by-seq_clsm-stacks) created by [CEPLAS](https://www.ceplas.eu) Data Science and Management (@andreaschrader).  
-  - Respective plant-specific metadata has been selected before for the plant science ARC from ontologies using the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool, the linked data server [Ontobee](https://ontobee.org/) as outlined [here](https://doi.org/10.3389/fpls.2023.1279694).  
-  - The CAi team at HHU Düsseldorf and the respective CAi procedure furthermore suggests the following ressources when selecting for REMBI metadata: [Selection rules for the right onotology](https://doi.org/10.1371/journal.pcbi.1004743), an [annotator tool](https://bioportal.bioontology.org/annotator) and the [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols4/index).
+  - Respective plant-specific metadata including the meta data used in ARC and following the [ISA model](https://github.com/ISA-tools/isa-specs), has been selected before for the plant science ARC from ontologies using the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool as well as the linked data server [Ontobee](https://ontobee.org/) as outlined [here](https://doi.org/10.3389/fpls.2023.1279694).  
+  - The CAi team at HHU Düsseldorf and the respective CAi procedure furthermore suggests the following resources when selecting for REMBI metadata: [Selection rules for the right onotology](https://doi.org/10.1371/journal.pcbi.1004743), an [annotator tool](https://bioportal.bioontology.org/annotator) and the [EMBL-EBI Ontology Lookup Service](https://www.ebi.ac.uk/ols4/index).
 
 - Which steps are necessary to achieve automatic import?
   - Outline strategies for mapping of microscopy related metadata (including REMBI aligned metadata) between ARC and OMERO.
