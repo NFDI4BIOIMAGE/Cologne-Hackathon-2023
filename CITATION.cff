@@ -257,7 +257,7 @@ references:
     license: CC-BY-4.0
     repository: "https://github.com/nfdi4plants/ARC-specification"
     scope: "The ARC specification underlying the conceptual discussions and setup towards OMERO-ARC interoperability."
-    title: nfdi4plants/ARC-specification: 1.2
+    title: "nfdi4plants/ARC-specification: 1.2"
     type: software
     url: "https://doi.org/10.5281/zenodo.10091038"
     version: v1.2
