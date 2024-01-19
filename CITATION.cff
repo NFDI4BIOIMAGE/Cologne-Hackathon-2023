@@ -150,58 +150,57 @@ keywords:
   - CRC-TRR341
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
-type: generic
 version: 0.9.0
 references:
   - authors:
-        - family-names: Allen
-          given-names: Chris
-        - family-names: Burel
-          given-names: Jean-Marie
-        - family-names: Moore
-          given-names: Joshua A.
-        - family-names: Blackburn
-          given-names: Colin
-        - family-names: Linkert
-          given-names: Melissa
-        - family-names: Loynton
-          given-names: Scott
-        - family-names: MacDonald
-          given-names: Donald
-        - family-names: Moore
-          given-names: William J.
-        - family-names: Neves
-          given-names: Carlos
-        - family-names: Patterson
-          given-names: Andrew
-        - family-names: Porter
-          given-names: Michael
-        - family-names: Tarkowska
-          given-names: Aleksandra
-        - family-names: Loranger
-          given-names: Brian
-        - family-names: Avondo
-          given-names: Jerome
-        - family-names: Lagerstedt
-          given-names: Ingvar
-        - family-names: Lianas
-          given-names: Luca
-        - family-names: Leo
-          given-names: Simone
-        - family-names: Hands
-          given-names: Katherine
-        - family-names: Hay
-          given-names: Ron T.
-        - family-names: Patwardhan
-          given-names: Ardan
-        - family-names: Best
-          given-names: Christoph
-        - family-names: Kleywegt
-          given-names: Gerard J.
-        - family-names: Zanetti
-          given-names: Gianluigi
-        - family-names: Swedlow
-          given-names: Jason R.
+      - family-names: Allen
+        given-names: Chris
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Blackburn
+        given-names: Colin
+      - family-names: Linkert
+        given-names: Melissa
+      - family-names: Loynton
+        given-names: Scott
+      - family-names: MacDonald
+        given-names: Donald
+      - family-names: Moore
+        given-names: William J.
+      - family-names: Neves
+        given-names: Carlos
+      - family-names: Patterson
+        given-names: Andrew
+      - family-names: Porter
+        given-names: Michael
+      - family-names: Tarkowska
+        given-names: Aleksandra
+      - family-names: Loranger
+        given-names: Brian
+      - family-names: Avondo
+        given-names: Jerome
+      - family-names: Lagerstedt
+        given-names: Ingvar
+      - family-names: Lianas
+        given-names: Luca
+      - family-names: Leo
+        given-names: Simone
+      - family-names: Hands
+        given-names: Katherine
+      - family-names: Hay
+        given-names: Ron T.
+      - family-names: Patwardhan
+        given-names: Ardan
+      - family-names: Best
+        given-names: Christoph
+      - family-names: Kleywegt
+        given-names: Gerard J.
+      - family-names: Zanetti
+        given-names: Gianluigi
+      - family-names: Swedlow
+        given-names: Jason R.
     date-published: "2012-02-28"
     doi: 10.1038/nmeth.1896
     end: 253
@@ -214,9 +213,9 @@ references:
     url: "https://doi.org/10.1038/nmeth.1896"
     volume: 9  
   - authors:
-        - family-names: Baker
-          given-names: Steve
-        - name: "tree contributors"
+      - family-names: Baker
+        given-names: Steve
+      - name: "tree contributors"
     date-accessed: "2023-12-07"
     license: GPL-2.0
     repository: "https://github.com/Old-Man-Programmer/tree"
@@ -227,12 +226,12 @@ references:
     version: v2.1.1
     year: 2023
   - authors:
-        - family-names: Burel
-          given-names: Jean-Marie
-        - family-names: Moore
-          given-names: Joshua A.
-        - family-names: Moore
-          given-names: William J.
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Moore
+        given-names: William J.
     copyright: "(C) 2022-2023, The Open Microscopy Environment"        
     license: AGPL-3.0
     repository: "https://github.com/ome/omero-web-zarr"
@@ -242,7 +241,7 @@ references:
     version: v0.1.1
     year: 2023
   - authors:
-        - name: "Coderefinery contributors"
+      - name: "Coderefinery contributors"
     date-accessed: "2024-01-03"
     license: CC-BY-4.0
     repository: "https://github.com/coderefinery/github-without-command-line"
@@ -252,7 +251,7 @@ references:
     url: "https://coderefinery.github.io/github-without-command-line/doi/"
     year: 2020
   - authors:
-        - name: "DataPLANT community"
+      - name: "DataPLANT community"
     date-accessed: "2023-11-38"
     license: CC-BY-4.0
     repository: "https://github.com/nfdi4plants/ARC-specification"
@@ -263,24 +262,24 @@ references:
     version: v1.2
     year: 2023
   - authors:
-        - family-names: Dumschott
-          given-names: Kathryn
-        - family-names: Dörpholz
-          given-names: Hannah
-        - family-names: Laporte
-          given-names: Marie-Angélique
-        - family-names: Brilhaus
-          given-names: Dominik
-        - family-names: Schrader
-          given-names: Andrea
-        - family-names: Usadel
-          given-names: Björn
-        - family-names: Neumann
-          given-names: Steffen
-        - family-names: Arnaud
-          given-names: Elizabeth
-        - family-names: Kranz
-          given-names: Angela
+      - family-names: Dumschott
+        given-names: Kathryn
+      - family-names: Dörpholz
+        given-names: Hannah
+      - family-names: Laporte
+        given-names: Marie-Angélique
+      - family-names: Brilhaus
+        given-names: Dominik
+      - family-names: Schrader
+        given-names: Andrea
+      - family-names: Usadel
+        given-names: Björn
+      - family-names: Neumann
+        given-names: Steffen
+      - family-names: Arnaud
+        given-names: Elizabeth
+      - family-names: Kranz
+        given-names: Angela
     date-published: "2023-11-30"
     doi: 10.3389/fpls.2023.1279694
     issn: "1664-462X"
@@ -290,10 +289,11 @@ references:
     type: article
     url: "https://www.frontiersin.org/articles/10.3389/fpls.2023.1279694"
     volume: 14
+    year: 2023
   - authors:
-        - family-names: Frey
-          given-names: Kevin
-        - name: "Swate contributors"
+      - family-names: Frey
+        given-names: Kevin
+      - name: "Swate contributors"
     license: to be added
     repository: "https://github.com/nfdi4plants/Swate"
     scope: "Used for annotating an imaging experiment with respective ontologies."
@@ -302,7 +302,7 @@ references:
     version: v0.6.2
     year: 2022
   - authors:
-        - name: "Google Connectomics Team"
+      - name: "Google Connectomics Team"
     license: Apache-2.0
     repository: "https://github.com/google/neuroglancer/"
     scope: "Used in the neuroglancer topic."
@@ -311,38 +311,38 @@ references:
     version: v2.37
     year: 2023
   - authors:
-        - family-names: Linkert
-          given-names: Melissa
-        - family-names: Rueden
-          given-names: Curtis T.
-        - family-names: Allen
-          given-names: Chris
-        - family-names: Burel
-          given-names: Jean-Marie
-        - family-names: Moore
-          given-names: William J.
-        - family-names: Patterson
-          given-names: Andrew
-        - family-names: Loranger
-          given-names: Brian
-        - family-names: Moore
-          given-names: Joshua A.
-        - family-names: Neves
-          given-names: Carlos
-        - family-names: MacDonald
-          given-names: Donald
-        - family-names: Tarkowska
-          given-names: Aleksandra
-        - family-names: Sticco
-          given-names: Caitlin
-        - family-names: Hill
-          given-names: Emma
-        - family-names: Rossner
-          given-names: Mike
-        - family-names: Eliceiri
-          given-names: Kevin W.
-        - family-names: Swedlow
-          given-names: Jason R.
+      - family-names: Linkert
+        given-names: Melissa
+      - family-names: Rueden
+        given-names: Curtis T.
+      - family-names: Allen
+        given-names: Chris
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Moore
+        given-names: William J.
+      - family-names: Patterson
+        given-names: Andrew
+      - family-names: Loranger
+        given-names: Brian
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Neves
+        given-names: Carlos
+      - family-names: MacDonald
+        given-names: Donald
+      - family-names: Tarkowska
+        given-names: Aleksandra
+      - family-names: Sticco
+        given-names: Caitlin
+      - family-names: Hill
+        given-names: Emma
+      - family-names: Rossner
+        given-names: Mike
+      - family-names: Eliceiri
+        given-names: Kevin W.
+      - family-names: Swedlow
+        given-names: Jason R.
     doi: 10.1083/jcb.201004104
     end: 782
     journal: The Journal of Cell Biology
@@ -355,66 +355,66 @@ references:
     volume: 189
     year: 2010
   - authors:
-        - family-names: Maitin-Shepard
-          given-names: Jeremy
-        - family-names: Baden
-          given-names: Alex
-        - family-names: Silversmith
-          given-names: William
-        - family-names: Perlman
-          given-names: Eric
-        - family-names: Collman
-          given-names: Forrest
-        - family-names: Blakely
-          given-names: Tim
-        - family-names: Funke
-          given-names: Jan
-        - family-names: Jordan
-          given-names: Chris
-        - family-names: Falk
-          given-names: Ben
-        - family-names: Kemnitz
-          given-names: Nico
-        - family-names: tingzhao
-          alias: tingzhao
-        - family-names: Roat
-          given-names: Chris
-        - family-names: Castro
-          given-names: Manuel
-        - family-names: Jagannathan
-          given-names: Sridhar
-        - family-names: moenigin
-        - alias: moenigin
-        - family-names: Clements
-          given-names: Jody
-        - family-names: Hoag
-          given-names: Austin
-        - family-names: Katz
-          given-names: Bill
-        - family-names: Parsons
-          given-names: Dave
-        - family-names: Wu
-          given-names: Jingpeng
-        - family-names: Kamentsky
-          given-names: Lee
-        - family-names: Chervakov
-          given-names: Pavel
-        - family-names: Hubbard
-          given-names: Philip 
-        - family-names: Berg
-          given-names: Stuart
-        - family-names: Hoffer
-          given-names: John
-        - family-names: Halageri
-          given-names: Akhilesh
-        - family-names: Machacek
-          given-names: Christian
-        - family-names: Mader
-          given-names: Kevin
-        - family-names: Roeder
-          given-names: Lutz
-        - family-names: Li
-          given-names: Peter H.
+      - family-names: Maitin-Shepard
+        given-names: Jeremy
+      - family-names: Baden
+        given-names: Alex
+      - family-names: Silversmith
+        given-names: William
+      - family-names: Perlman
+        given-names: Eric
+      - family-names: Collman
+        given-names: Forrest
+      - family-names: Blakely
+        given-names: Tim
+      - family-names: Funke
+        given-names: Jan
+      - family-names: Jordan
+        given-names: Chris
+      - family-names: Falk
+        given-names: Ben
+      - family-names: Kemnitz
+        given-names: Nico
+      - family-names: tingzhao
+        alias: tingzhao
+      - family-names: Roat
+        given-names: Chris
+      - family-names: Castro
+        given-names: Manuel
+      - family-names: Jagannathan
+        given-names: Sridhar
+      - family-names: moenigin
+      - alias: moenigin
+      - family-names: Clements
+        given-names: Jody
+      - family-names: Hoag
+        given-names: Austin
+      - family-names: Katz
+        given-names: Bill
+      - family-names: Parsons
+        given-names: Dave
+      - family-names: Wu
+        given-names: Jingpeng
+      - family-names: Kamentsky
+        given-names: Lee
+      - family-names: Chervakov
+        given-names: Pavel
+      - family-names: Hubbard
+        given-names: Philip 
+      - family-names: Berg
+        given-names: Stuart
+      - family-names: Hoffer
+        given-names: John
+      - family-names: Halageri
+        given-names: Akhilesh
+      - family-names: Machacek
+        given-names: Christian
+      - family-names: Mader
+        given-names: Kevin
+      - family-names: Roeder
+        given-names: Lutz
+      - family-names: Li
+        given-names: Peter H.
     date-released: '2021-10-16'
     doi: 10.5281/zenodo.5573294
     license: Apache-2.0
@@ -427,14 +427,14 @@ references:
     version: v2.23
     year: 2021
   - authors:
-        - family-names: Martins Ratamero
-          given-names: Erick
-        - family-names: Burel
-          given-names: Jean-Marie
-        - family-names: Sobolewski
-          given-names: Peter
-        - family-names: Moore
-          given-names: William J.
+      - family-names: Martins Ratamero
+        given-names: Erick
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Sobolewski
+        given-names: Peter
+      - family-names: Moore
+        given-names: William J.
     doi: 10.5281/zenodo.8383499
     license: GPL-2.0
     repository: "https://github.com/ome/omero-cli-transfer"
@@ -445,8 +445,8 @@ references:
     version: v0.8.0
     year: 2023
   - authors:
-        - family-names: Möhl
-          given-names: Christoph
+      - family-names: Möhl
+        given-names: Christoph
     license: GPL-3.0
     repository: "https://github.com/cmohl2013/omero-arc"
     scope: "Plugin for omero-cli-transfer for OMERO-ARC export."
@@ -455,7 +455,7 @@ references:
     version: v0.0.1
     year: 2023
   - authors:
-        - name: RDM4mic
+      - name: RDM4mic
     license: CC-BY-4.0
     scope: "Videos suggested as an introduction along the installation to quickly capture the ideas and procedures of OMERO from the ARC contributor's perspective."
     title: "I3D:bio's OMERO Training Videos 2023"
@@ -463,19 +463,19 @@ references:
     url: "https://www.youtube.com/playlist?list=PL2k-L-zWPoR7SHjG1HhDIwLZj0MB_stlU"
     year: 2023
   - authors:
-        - affiliation: Oxford e-Research Centre, University of Oxford, UK
-          family-names: Sansone
-          given-names: Susanna-Assunta
-        - affiliation: Oxford e-Research Centre, University of Oxford, UK
-          family-names: Rocca-Serra
-          given-names: Philippe
-        - affiliation: Oxford e-Research Centre, University of Oxford, UK
-          family-names: Gonzalez-Beltran
-          given-names: Alejandra
-        - affiliation: Oxford e-Research Centre, University of Oxford, UK
-          family-names: Johnson
-          given-names: David
-        - name: ISA Community
+      - affiliation: Oxford e-Research Centre, University of Oxford, UK
+        family-names: Sansone
+        given-names: Susanna-Assunta
+      - affiliation: Oxford e-Research Centre, University of Oxford, UK
+        family-names: Rocca-Serra
+        given-names: Philippe
+      - affiliation: Oxford e-Research Centre, University of Oxford, UK
+        family-names: Gonzalez-Beltran
+        given-names: Alejandra
+      - affiliation: Oxford e-Research Centre, University of Oxford, UK
+        family-names: Johnson
+        given-names: David
+      - name: ISA Community
     date-released: '2016-10-28'
     doi: 10.5281/zenodo.163640
     license: CC-BY-4.0
@@ -487,98 +487,98 @@ references:
     version: 1.0
     year: 2016
   - authors:
-        - family-names: Sarkans
-          given-names: Ugis
-        - family-names: Chiu
-          given-names: Wah
-        - family-names: Collinson
-          given-names: Lucy
-        - family-names: Darrow
-          given-names: Michele C.
-        - family-names: Ellenberg
-          given-names: Jan
-        - family-names: Grunwald
-          given-names: David
-        - family-names: Hériché
-          given-names: Jean-Karim
-        - family-names: Iudin
-          given-names: Andrii
-        - family-names: Martins
-          given-names: Gabriel G.
-        - family-names: Meehan
-          given-names: Terry
-        - family-names: Narayan
-          given-names: Kedar
-        - family-names: Patwardhan
-          given-names: Ardan
-        - family-names: Russell
-          given-names: Matthew Robert Geoffrey
-        - family-names: Saibil
-          given-names: Helen R.
-        - family-names: Strambio-De-Castillia
-          given-names: Caterina
-        - family-names: Swedlow
-          given-names: Jason R.
-        - family-names: Tischer
-          given-names: Christian
-        - family-names: Uhlmann
-          given-names: Virginie
-        - family-names: Verkade
-          given-names: Paul
-        - family-names: Barlow
-          given-names: Mary
-        - family-names: Bayraktar
-          given-names: Omer
-        - family-names: Birney
-          given-names: Ewan
-        - family-names: Catavitello
-          given-names: Cesare
-        - family-names: Cawthorne
-          given-names: Christopher
-        - family-names: Wagner-Conrad
-          given-names: Stephan
-        - family-names: Duke
-          given-names: Elizabeth
-        - family-names: Paul-Gilloteaux
-          given-names: Perrine
-        - family-names: Gustin
-          given-names: Emmanuel
-        - family-names: Harkiolaki
-          given-names: Maria
-        - family-names: Kankaanpää
-          given-names: Pasi
-        - family-names: Lemberger
-          given-names: Thomas
-        - family-names: McEntyre
-          given-names: Jo
-        - family-names: Moore
-          given-names: Josh
-        - family-names: Nicholls
-          given-names: Andrew W.
-        - family-names: Onami
-          given-names: Shuichi
-        - family-names: Parkinson
-          given-names: Helen
-        - family-names: Parsons
-          given-names: Maddy
-        - family-names: Romanchikova
-          given-names: Marina
-        - family-names: Sofroniew
-          given-names: Nicholas
-        - family-names: Swoger
-          given-names: Jim
-        - family-names: Utz
-          given-names: Nadine
-        - family-names: Voortman
-          given-names: Lenard M.
-        - family-names: Wong
-          given-names: Frances
-        - family-names: Zhang
-          given-names: Peijun
-        - family-names: Kleywegt
-          given-names: Gerard J.
-        - family-names: Brazma
-          given-names: Alvis
+      - family-names: Sarkans
+        given-names: Ugis
+      - family-names: Chiu
+        given-names: Wah
+      - family-names: Collinson
+        given-names: Lucy
+      - family-names: Darrow
+        given-names: Michele C.
+      - family-names: Ellenberg
+        given-names: Jan
+      - family-names: Grunwald
+        given-names: David
+      - family-names: Hériché
+        given-names: Jean-Karim
+      - family-names: Iudin
+        given-names: Andrii
+      - family-names: Martins
+        given-names: Gabriel G.
+      - family-names: Meehan
+        given-names: Terry
+      - family-names: Narayan
+        given-names: Kedar
+      - family-names: Patwardhan
+        given-names: Ardan
+      - family-names: Russell
+        given-names: Matthew Robert Geoffrey
+      - family-names: Saibil
+        given-names: Helen R.
+      - family-names: Strambio-De-Castillia
+        given-names: Caterina
+      - family-names: Swedlow
+        given-names: Jason R.
+      - family-names: Tischer
+        given-names: Christian
+      - family-names: Uhlmann
+        given-names: Virginie
+      - family-names: Verkade
+        given-names: Paul
+      - family-names: Barlow
+        given-names: Mary
+      - family-names: Bayraktar
+        given-names: Omer
+      - family-names: Birney
+        given-names: Ewan
+      - family-names: Catavitello
+        given-names: Cesare
+      - family-names: Cawthorne
+        given-names: Christopher
+      - family-names: Wagner-Conrad
+        given-names: Stephan
+      - family-names: Duke
+        given-names: Elizabeth
+      - family-names: Paul-Gilloteaux
+        given-names: Perrine
+      - family-names: Gustin
+        given-names: Emmanuel
+      - family-names: Harkiolaki
+        given-names: Maria
+      - family-names: Kankaanpää
+        given-names: Pasi
+      - family-names: Lemberger
+        given-names: Thomas
+      - family-names: McEntyre
+        given-names: Jo
+      - family-names: Moore
+        given-names: Josh
+      - family-names: Nicholls
+        given-names: Andrew W.
+      - family-names: Onami
+        given-names: Shuichi
+      - family-names: Parkinson
+        given-names: Helen
+      - family-names: Parsons
+        given-names: Maddy
+      - family-names: Romanchikova
+        given-names: Marina
+      - family-names: Sofroniew
+        given-names: Nicholas
+      - family-names: Swoger
+        given-names: Jim
+      - family-names: Utz
+        given-names: Nadine
+      - family-names: Voortman
+        given-names: Lenard M.
+      - family-names: Wong
+        given-names: Frances
+      - family-names: Zhang
+        given-names: Peijun
+      - family-names: Kleywegt
+        given-names: Gerard J.
+      - family-names: Brazma
+        given-names: Alvis
     date-published: "2021-05-21"
     doi: 10.1038/s41592
     end: 1422
@@ -590,50 +590,51 @@ references:
     type: article
     url: "https://doi.org/10.1038/s41592-021-01166-8"
     volume: 18
+    year: 2021
   - authors:
-        - affiliation: German Cancer Research Center
-          family-names: Schmidt
-          given-names: Christian
-          orcid: 0000-0001-9568-895X
-        - affiliation: German Cancer Research Center
-          family-names: Bortolomeazzi
-          given-names: Michele
-          orcid: 0000-0001-5805-5774
-        - affiliation: "Heinrich Heine University Düsseldorf"
-          family-names: Boissonnet
-          given-names: Tom
-          orcid: 0000-0002-3328-9467
-        - affiliation: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
-          family-names: Fortmann-Grote
-          given-names: Carsten
-          orcid: 0000-0002-2579-5546
-        - affiliation: "Osnabrück University"
-          family-names: Dohle
-          given-names: Julia
-        - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases
-          family-names: Zentis
-          given-names: Peter
-          orcid: 0000-0002-6999-132X
-        - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases
-          family-names: Kandpal
-          given-names: Niraj
-          orcid: 0009-0007-5101-4786
-        - affiliation: "Osnabrück University"
-          family-names: Kunis
-          given-names: Susanne
-          orcid: 0000-0001-6523-7496
-        - affiliation: "University of Münster"
-          family-names: Zobel
-          given-names: Thomas
-          orcid: 0000-0002-2101-8416
-        - affiliation: "Heinrich Heine University Düsseldorf"
-          family-names: Weidtkamp-Peters
-          given-names: Stefanie
-          orcid: 0000-0001-7734-3771
-        - affiliation: German Cancer Research Center
-          family-names: Ferrando-May
-          given-names: Elisa
-          orcid: 0000-0002-5567-8690
+      - affiliation: German Cancer Research Center
+        family-names: Schmidt
+        given-names: Christian
+        orcid: 0000-0001-9568-895X
+      - affiliation: German Cancer Research Center
+        family-names: Bortolomeazzi
+        given-names: Michele
+        orcid: 0000-0001-5805-5774
+      - affiliation: "Heinrich Heine University Düsseldorf"
+        family-names: Boissonnet
+        given-names: Tom
+        orcid: 0000-0002-3328-9467
+      - affiliation: "Max Planck Institute for Evolutionary Biology, Plön, Germany"
+        family-names: Fortmann-Grote
+        given-names: Carsten
+        orcid: 0000-0002-2579-5546
+      - affiliation: "Osnabrück University"
+        family-names: Dohle
+        given-names: Julia
+      - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases
+        family-names: Zentis
+        given-names: Peter
+        orcid: 0000-0002-6999-132X
+      - affiliation: Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases
+        family-names: Kandpal
+        given-names: Niraj
+        orcid: 0009-0007-5101-4786
+      - affiliation: "Osnabrück University"
+        family-names: Kunis
+        given-names: Susanne
+        orcid: 0000-0001-6523-7496
+      - affiliation: "University of Münster"
+        family-names: Zobel
+        given-names: Thomas
+        orcid: 0000-0002-2101-8416
+      - affiliation: "Heinrich Heine University Düsseldorf"
+        family-names: Weidtkamp-Peters
+        given-names: Stefanie
+        orcid: 0000-0001-7734-3771
+      - affiliation: German Cancer Research Center
+        family-names: Ferrando-May
+        given-names: Elisa
+        orcid: 0000-0002-5567-8690
     date-released: '2023-11-13'
     doi: 10.5281/zenodo.8323588
     keywords:
@@ -654,10 +655,10 @@ references:
     type: generic
     year: 2023
   - authors:
-        - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
-          family-names: Schrader
-          given-names: Andrea
-          orcid: 0000-0002-3879-7057
+      - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
+        family-names: Schrader
+        given-names: Andrea
+        orcid: 0000-0002-3879-7057
     date-released: '2024-01-09'
     doi: 10.5281/zenodo.10475430
     keywords:
@@ -676,24 +677,24 @@ references:
     version: 1.5.1
     year: 2024
   - authors:
-        - affiliation: Netherlands eScience Center
-          family-names: Spaaks
-          given-names: Jurriaan H.
-          orcid: 0000-0002-7064-4069
-        - affiliation: Netherlands eScience Center
-          family-names: Klaver
-          given-names: Tom
-        - affiliation: Netherlands eScience Center
-          family-names: Verhoeven
-          given-names: Stefan
-          orcid: 0000-0002-5821-2060
-        - affiliation: "Humboldt-Universit\xE4t zu Berlin"
-          family-names: Druskat
-          given-names: Stephan
-          orcid: 0000-0003-4925-7248
-        - affiliation: University of Oslo
-          family-names: Leoncio Netto
-          given-names: Waldir
+      - affiliation: Netherlands eScience Center
+        family-names: Spaaks
+        given-names: Jurriaan H.
+        orcid: 0000-0002-7064-4069
+      - affiliation: Netherlands eScience Center
+        family-names: Klaver
+        given-names: Tom
+      - affiliation: Netherlands eScience Center
+        family-names: Verhoeven
+        given-names: Stefan
+        orcid: 0000-0002-5821-2060
+      - affiliation: "Humboldt-Universit\xE4t zu Berlin"
+        family-names: Druskat
+        given-names: Stephan
+        orcid: 0000-0003-4925-7248
+      - affiliation: University of Oslo
+        family-names: Leoncio Netto
+        given-names: Waldir
     date-released: '2021-09-22'
     doi: 10.5281/zenodo.5521767
     keywords:
@@ -712,15 +713,16 @@ references:
     title: cffconvert
     type: software
     version: 2.0.0
+    year: 2021
   - authors:
-        - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
-          alias: HLWeil
-          city: Kaiserslautern 
-          country: DE
-          family-names: Weil
-          given-names: H. Lukas
-          orcid: "https://orcid.org/0000-0003-1945-6342"
-        - name: "ARC Commander contributors"
+      - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
+        alias: HLWeil
+        city: Kaiserslautern 
+        country: DE
+        family-names: Weil
+        given-names: H. Lukas
+        orcid: "https://orcid.org/0000-0003-1945-6342"
+      - name: "ARC Commander contributors"
     license: MIT
     repository: "https://github.com/nfdi4plants/arcCommander"
     scope: "Used for creating ARCs by the OMERO-ARC export plugin and exemplary ARCs created prior to this and subsequent OMERO-ARC interoperability work."
@@ -729,18 +731,18 @@ references:
     version: v0.5.0
     year: 2023
   - authors:
-        - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
-          family-names: Xiang
-          given-names: Zuoshuang
-        - affiliation: Lawrence Berkeley National Laboratory, Berkeley, CA, USA
-          family-names: Mungall
-          given-names: Chris
-        - affiliation: Science Commons, Vambridge, MA, USA
-          family-names: Ruttenberg
-          given-names: Alan
-        - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
-          family-names: He
-          given-names: Yongqun
+      - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
+        family-names: Xiang
+        given-names: Zuoshuang
+      - affiliation: Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+        family-names: Mungall
+        given-names: Chris
+      - affiliation: Science Commons, Vambridge, MA, USA
+        family-names: Ruttenberg
+        given-names: Alan
+      - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
+        family-names: He
+        given-names: Yongqun
     collection-title: "Proceedings of the 2nd International Conference on Biomedical Ontologies (ICBO)"
     collection-type: proceedings
     conference:
