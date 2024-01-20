@@ -214,6 +214,51 @@ references:
     url: "https://doi.org/10.1038/nmeth.1896"
     volume: 9  
   - authors:
+      - family-names: Anders
+        given-names: Ivonne
+      - family-names: Bianchi
+        given-names: Christophe
+      - family-names: Broder
+        given-names: Daan
+      - family-names: Hellström
+        given-names: Maggie
+      - family-names: Islam
+        given-names: Sharif
+      - family-names: Jejkal
+        given-names: Thomas
+      - family-names: Lannom
+        given-names: Larry
+      - family-names: Peters-von Gehlen
+        given-names: Karsten
+      - family-names: Quick
+        given-names: Robert
+      - family-names: Schlemmer
+        given-names: Alexander
+      - family-names: Schwardmann
+        given-names: Ulrich
+      - family-names: Soiland-Reyes
+        given-names: Stian
+      - family-names: Strawn
+        given-names: George
+      - family-names: van Uytvanck
+        given-names: Dieter
+      - family-names: Weiland
+        given-names: Claus
+      - family-names: Wittenburg
+        given-names: Peter
+      - family-names: Zwölf
+        given-names: Carlo
+    date-released: "2023-01-12"
+    doi: 10.5281/zenodo.7782262
+    license: CC-BY-4.0
+    publisher: Zenodo
+    scope: "Reference for FAIR digital objects as mentioned in the introduction when giving the context for this hackathon with respect to ARCs."
+    title: "FDO Forum FDO Requirement Specifications"
+    type: article
+    url: "https://doi.org/10.5281/zenodo.7782262"
+    version: "3.0"
+    year: 2023
+  - authors:
       - family-names: Baker
         given-names: Steve
       - name: "tree contributors"
@@ -251,6 +296,42 @@ references:
     type: website
     url: "https://coderefinery.github.io/github-without-command-line/doi/"
     year: 2020
+  - authors:
+      - family-names: Crusoe
+        given-names: Michael R
+      - family-names: Abeln
+        given-names: Sanne
+      - family-names: Iosup
+        given-names: Alexandru
+      - family-names: Amstutz
+        given-names: Peter
+      - family-names: Chilton
+        given-names: John
+      - family-names: Tijanić
+        given-names: Nebojša
+      - family-names: Ménager
+        given-names: Hervé
+      - family-names: Soiland-Reyes
+        given-names: Stian
+      - family-names: Gavrilović
+        given-names: Bogdan
+      - family-names: Goble
+        given-names: Carole
+      - name: The CWL Community
+    doi: 10.1145/3486897
+    end: 63
+    issn: "1557-7317"
+    journal: Communications of the ACM
+    license: CC-BY-4.0
+    number: 6
+    publisher: Association for Computing Machinery (ACM)
+    scope: "Reference for Common Workflow Language as mentioned in the introduction when giving the context for this hackathon with respect to ARCs."
+    start: 54
+    title: "Methods included: standardizing computational reuse and portability with the Common Workflow Language"
+    type: article
+    url: "http://dx.doi.org/10.1145/3486897"
+    volume: 65
+    year: 2022
   - authors:
       - name: "DataPLANT community"
     date-accessed: "2023-11-38"
@@ -292,6 +373,48 @@ references:
     volume: 14
     year: 2023
   - authors:
+    - family-names: Fedorov
+      given-names: Andriy
+    - family-names: Beichel
+      given-names: Reinhard 
+    - family-names: Kalpathy-Cramer,
+      given-names: Jayashree
+    - family-names: Finet
+      given-names: Julien
+    - family-names: Fillion-Robin
+      given-names: Jean-Christophe 
+    - family-names: Pujol
+      given-names: Sonia
+    - family-names: Bauer
+      given-names: Christian
+    - family-names: Jennings
+      given-names: Dominiqu
+    - family-names: Fennessy
+      given-names: Fiona
+    - family-names: Sonka
+      given-names: Milan
+    - family-names: Buatti
+      given-names: John
+    - family-names: Aylward
+      given-names: Stephen 
+    - family-names: Miller
+      given-names: James V.
+    - family-names: Pieper
+      given-names: Steve
+    - family-names: Kikinis
+      given-names: Ron
+    doi: 10.1016/j.mri.2012.05.001
+    end: 1341
+    issue: 9
+    journal: Magnetic Resonance Imaging
+    scope: "3D Slicer was mentioned in the introduction when giving context for this hackathon although it was not worked on in the finally chosen topics."
+    start: 1323
+    title: "3D Slicer as an Image Computing Platform for the Quantitative Imaging Network"
+    type: article
+    url: "https://www.slicer.org/"
+    volume: 30
+    year: 2012
+  - authors:
       - family-names: Frey
         given-names: Kevin
       - name: "Swate contributors"
@@ -311,6 +434,73 @@ references:
     type: software
     version: v2.37
     year: 2023
+  - authors:    
+      - family-names: Gorgolewski
+        given-names: Krzysztof J.
+      - family-names: Auer
+        given-names: Tibor
+      - family-names: Calhoun
+        given-names: Vince D.
+      - family-names: Craddock
+        given-names: R. Cameron
+      - family-names: Das
+        given-names: Samir
+      - family-names: Duff
+        given-names: Eugene P.
+      - family-names: Flandin
+        given-names: Guillaume
+      - family-names: Ghosh
+        given-names: Satrajit S.
+      - family-names: Glatard
+        given-names: Tristan
+      - family-names: Halchenko
+        given-names: Yaroslav O.
+      - family-names: Handwerker
+        given-names: Daniel A.
+      - family-names: Hanke
+        given-names: Michael
+      - family-names: Keator
+        given-names: David
+      - family-names: Li
+        given-names: Xiangrui
+      - family-names: Michael
+        given-names: Zachary
+      - family-names: Maumet
+        given-names: Camille
+      - family-names: Nichols
+        given-names: B. Nolan
+      - family-names: Nichols
+        given-names: Thomas E.
+      - family-names: Pellman
+        given-names: John
+      - family-names: Poline
+        given-names: Jean-Baptiste
+      - family-names: Rokem
+        given-names: Ariel
+      - family-names: Schaefer
+        given-names: Gunnar
+      - family-names: Sochat
+        given-names: Vanessa
+      - family-names: Triplett
+        given-names: William
+      - family-names: Turner
+        given-names: Jessica A.
+      - family-names: Varoquaux
+        given-names: Gaël
+      - family-names: Poldrack
+        given-names: Russell A.
+    date-published: "2016-06-21"
+    doi: 10.1038/sdata.2016.44
+    end: 4463
+    journal: Scientific Data
+    issue: 1
+    scope: "BIDS was covered in the introduction when giving context to this hackathon and by an introductory talk. ARC-BIDS interoperability has been considered before for work at the CoRDI2023 by NFDI4Bioimage TA3 members."
+    start: 2052
+    title: "The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments"
+    type: article
+    url: "https://doi.org/10.1038/sdata.2016.44"
+    volume: 3
+    year: 2016
   - authors:
       - family-names: Linkert
         given-names: Melissa
@@ -348,7 +538,7 @@ references:
     end: 782
     journal: The Journal of Cell Biology
     number: 5
-    scope: "Bioformats citation. Enables OMERO and other applications to read from and write to various file formats."
+    scope: "Bio Formats citation. Enables OMERO and other applications to read from and write to various file formats."
     start: 777
     title: "Metadata matters: access to image data in the real world"
     type: article
@@ -454,6 +644,157 @@ references:
     title: "OMERO-ARC Plugin (GitHub repository)"
     type: software
     version: v0.0.1
+    year: 2023
+  - authors:
+      - family-names: Moore
+        given-names: Joshua A.
+      - family-names: Basurto-Lozada
+        given-names: Daniela
+      - family-names: Besson
+        given-names: Sébastien
+      - family-names: Bogovic
+        given-names: John
+      - family-names: Bragantini
+        given-names: Jordão
+      - family-names: Brown
+        given-names: Eva M.
+      - family-names: Burel
+        given-names: Jean-Marie
+      - family-names: Casas Moreno
+        given-names: Xavier
+      - family-names: de Medeiros
+        given-names: Gustavo
+      - family-names: Diel
+        given-names: Erin E.
+      - family-names: Gault
+        given-names: David
+      - family-names: Ghosh
+        given-names: Satrajit S.
+      - family-names: Gold
+        given-names: Ilan
+      - family-names: Halchenko
+        given-names: Yaroslav O.
+      - family-names: Hartley
+        given-names: Matthew
+      - family-names: Horsfall
+        given-names: Dave
+      - family-names: Keller
+        given-names: Mark S.
+      - family-names: Kittisopikul
+        given-names: Mark
+      - family-names: Kovacs
+        given-names: Gabor
+      - family-names: Küpcü Yoldaş
+        given-names: Aybüke
+      - family-names: Kyoda
+        given-names: Koji
+      - family-names: le Tournoulx de la Villegeorges
+        given-names: Albane
+      - family-names: Li
+        given-names: Tong
+      - family-names: Liberali
+        given-names: Prisca
+      - family-names: Lindner
+        given-names: Dominik
+      - family-names: Linkert
+        given-names: Melissa
+      - family-names: Lüthi
+        given-names: Joel
+      - family-names: Maitin-Shepard
+        given-names: Jeremy
+      - family-names: Manz
+        given-names: Trevor
+      - family-names: Marconato
+        given-names: Luca
+      - family-names: McCormick
+        given-names: Matthew
+      - family-names: Lange
+        given-names: Merlin
+      - family-names: Mohamed
+        given-names: Khaled
+      - family-names: Moore
+        given-names: William
+      - family-names: Norlin
+        given-names: Nils
+      - family-names: Ouyang
+        given-names: Wei
+      - family-names: Özdemir
+        given-names: Bugra
+      - family-names: Palla
+        given-names: Giovanni
+      - family-names: Pape
+        given-names: Constantin
+      - family-names: Pelkmans
+        given-names: Lucas
+      - family-names: Pietzsch
+        given-names: Tobias
+      - family-names: Preibisch
+        given-names: Stephan
+      - family-names: Prete
+        given-names: Martin
+      - family-names: Rzepka
+        given-names: Norman
+      - family-names: Samee
+        given-names: Sameeul
+      - family-names: Schaub
+        given-names: Nicholas
+      - family-names: Sidky
+        given-names: Hythem
+      - family-names: Solak
+        given-names: Ahmet Can
+      - family-names: Stirling
+        given-names: David R.
+      - family-names: Striebel
+        given-names: Jonathan
+      - family-names: Tischer
+        given-names: Christian
+      - family-names: Toloudis
+        given-names: Daniel
+      - family-names: Virshup
+        given-names: Isaac
+      - family-names: Walczysko
+        given-names: Petr
+      - family-names: Watson
+        given-names: Alan M.
+      - family-names: Weisbart
+        given-names: Erin
+      - family-names: Wong
+        given-names: Frances
+      - family-names: Yamauchi
+        given-names: Kevin A.
+      - family-names: Bayraktar
+        given-names: Omer
+      - family-names: Cimini
+        given-names: Beth A.
+      - family-names: Gehlenborg
+        given-names: Nils
+      - family-names: Haniffa
+        given-names: Muzlifah
+      - family-names: Hotaling
+        given-names: Nathan
+      - family-names: Onami
+        given-names: Shuichi
+      - family-names: Royer
+        given-names: Loic A.
+      - family-names: Saalfeld
+        given-names: Stephan
+      - family-names: Stegle
+        given-names: Oliver
+      - family-names: Theis
+        given-names: Fabian J.
+      - family-names: Swedlow
+        given-names: Jason R.
+    date-released: "2023-09-01"
+    doi: 10.1007/s00418-023-02209-1
+    end: 251
+    issue: 3 
+    journal: Histochemistry and Cell Biology
+    scope: "OME-Zarr reference, a fle format intending to solve image specific file format problems and used in the neuroglancer part of this hackathon."
+    start: 223
+    title: "OME-Zarr: a cloud-optimized bioimaging file format with international community support"
+    type: article
+    url: "https://doi.org/10.1007/s00418-023-02209-1"
+    volume: 160
     year: 2023
   - authors:
       - name: RDM4mic
@@ -678,6 +1019,195 @@ references:
     version: 1.5.1
     year: 2024
   - authors:
+      - family-names: Sefton
+        given-names: Peter
+        orcid: 0000-0002-3545-944X
+      - family-names: "Ó Carragáin"
+        given-names: Eoghan
+        orcid: 0000-0001-8131-2150
+      - family-names: Soiland-Reyes
+        given-names: Stian
+        orcid: 0000-0001-9842-9718
+      - family-names: Corcho
+        given-names: Oscar
+        orcid: 0000-0002-9260-0753
+      - family-names: Garijo
+        given-names: Daniel
+        orcid: 0000-0003-0454-7145
+      - family-names: Palma
+        given-names: Raul
+        orcid: 0000-0003-4289-4922
+      - family-names: Coppens
+        given-names: Frederik
+        orcid: 0000-0001-6565-5145
+      - family-names: Goble
+        given-names: Carole
+        orcid: 0000-0003-1219-2137
+      - family-names: "Fernández"
+        given-names: "José M."
+        orcid: 0000-0002-4806-5140
+      - family-names: Chard
+        given-names: Kyle
+        orcid: 0000-0002-7370-4805
+      - family-names: Gomez-Perez
+        given-names: Jose Manuel
+        orcid: 0000-0002-5491-6431
+      - family-names: Crusoe
+        given-names: Michael R.
+        orcid: 0000-0002-2961-9670
+      - family-names: Eguinoa
+        given-names: Ignacio
+        orcid: 0000-0002-6190-122X
+      - family-names: Juty
+        given-names: Nick
+        orcid: 0000-0002-2036-8350
+      - family-names: Holmes
+        given-names: Kristi
+        orcid: 0000-0001-8420-5254
+      - family-names: Clark
+        given-names: Jason A.
+        orcid: 0000-0002-3588-6257
+      - family-names: Capella-Gutierrez
+        given-names: Salvador
+        orcid: 0000-0002-0309-604X
+      - family-names: Gray
+        given-names: Alasdair J. G.
+        orcid: 0000-0002-5711-4872
+      - family-names: Owen
+        given-names: Stuart
+        orcid: 0000-0003-2130-0865
+      - family-names: Williams
+        given-names: Alan R.
+        orcid: 0000-0003-3156-2105
+      - family-names: Tartari
+        given-names: Giacomo
+        orcid: 0000-0003-1130-2154
+      - family-names: Bacall
+        given-names: Finn
+        orcid: 0000-0002-0048-3300
+      - family-names: Thelen
+        given-names: Thomas
+        orcid: 0000-0002-1756-2128
+      - family-names: "Ménager"
+        given-names: "Hervé"
+        orcid: 0000-0002-7552-1009
+      - family-names: "Rodríguez-Navas"
+        given-names: Laura
+        orcid: 0000-0003-4929-1219
+      - family-names: Walk
+        given-names: Paul
+        orcid: 0000-0003-1541-5631
+      - family-names: Whitehead
+        given-names: Brandon
+        orcid: 0000-0002-0337-8610
+      - family-names: Wilkinson
+        given-names: Mark
+        orcid: 0000-0001-6960-357X
+      - family-names: Groth
+        given-names: Paul
+        orcid: 0000-0003-0183-6910
+      - family-names: Bremer
+        given-names: Erich
+        orcid: 0000-0003-0223-1059
+      - family-names: Castro
+        given-names: Leyla Jael
+        orcid: 0000-0003-3986-0510
+      - family-names: Sebby
+        given-names: Karl
+        orcid: 0000-0001-6022-9825
+      - family-names: Kanitz
+        given-names: Alexander
+        orcid: 0000-0002-3468-0652
+      - family-names: Trisovic
+        given-names: Ana
+        orcid: 0000-0003-1991-0533
+      - family-names: Kennedy
+        given-names: Gavin
+        orcid: 0000-0003-3910-0474
+      - family-names: Graves
+        given-names: Mark
+        orcid: 0000-0003-3486-8193
+      - family-names: Koehorst
+        given-names: Jasper
+        orcid: 0000-0001-8172-8981
+      - family-names: Leo
+        given-names: Simone
+        orcid: 0000-0001-8271-5429
+      - family-names: Portier
+        given-names: Marc
+        orcid: 0000-0002-9648-6484
+      - family-names: Brack
+        given-names: Paul
+        orcid: 0000-0002-5432-2748
+      - family-names: "Ojsteršek"
+        given-names: Milan
+        orcid: 0000-0003-1743-8300
+      - family-names: Droesbeke
+        given-names: Bert
+        orcid: 0000-0003-0522-5674
+      - family-names: Niu
+        given-names: Chenxu
+        orcid: 0000-0002-2142-1731
+      - family-names: Tanabe
+        given-names: Kosuke
+        orcid: 0000-0002-9986-7223
+      - family-names: Miksa
+        given-names: Tomasz
+        orcid: 0000-0002-4929-7875
+      - family-names: La Rosa
+        given-names: Marco
+        orcid: 0000-0001-5383-6993
+      - family-names: Decruw
+        given-names: Cedric
+        orcid: 0000-0001-6387-5988
+      - family-names: Czerniak
+        given-names: Andreas
+        orcid: 0000-0003-3883-4169
+      - family-names: Jay
+        given-names: Jeremy
+        orcid: 0000-0002-5761-7533
+      - family-names: Serra
+        given-names: Sergio
+        orcid: 0000-0002-0792-8157
+      - family-names: Siebes
+        given-names: Ronald
+        orcid: 0000-0001-8772-7904
+      - family-names: de Witt
+        given-names: Shaun
+        orcid: 0000-0003-4196-3658
+      - family-names: El Damaty
+        given-names: Shady
+        orcid: 0000-0002-2318-4477
+      - family-names: Lowe
+        given-names: Douglas
+        orcid: 0000-0002-1248-3594
+      - family-names: Li
+        given-names: Xuanqi
+        orcid: 0000-0003-1498-6205
+      - family-names: Gundersen
+        given-names: Sveinung
+        orcid: 0000-0001-9888-7954
+      - family-names: Radifar
+        given-names: Muhammad
+        orcid: 0000-0001-9156-9478
+    date-released: "2023-04-26"
+    doi: 10.5281/zenodo.7867028
+    keywords:
+      - research object
+      - data packaging
+      - metadata
+      - schema.org
+      - JSON-LD
+      - linked data
+    license: Apache-2.0
+    publisher: Zenodo
+    scope: "Reference for RO-Crate as mentioned in the introduction when giving the context for this hackathon with respect to ARCs."
+    title: "RO-Crate Metadata Specification 1.1.3"
+    type: technical note
+    url: "https://doi.org/10.5281/zenodo.7867028"
+    version: 1.1.3
+    year: 2023
+  - authors:
       - affiliation: Netherlands eScience Center
         family-names: Spaaks
         given-names: Jurriaan H.
@@ -689,7 +1219,7 @@ references:
         family-names: Verhoeven
         given-names: Stefan
         orcid: 0000-0002-5821-2060
-      - affiliation: "Humboldt-Universit\xE4t zu Berlin"
+      - affiliation: "Humboldt-Universität zu Berlin"
         family-names: Druskat
         given-names: Stephan
         orcid: 0000-0003-4925-7248
@@ -731,6 +1261,124 @@ references:
     type: software
     version: v0.5.0
     year: 2023
+  - authors:
+      - family-names: Wilkinson
+        given-names: Mark D.
+      - family-names: Dumontier
+        given-names: Michel
+      - family-names: Aalbersberg
+        given-names: Ijsbrand Jan
+      - family-names: Appleton
+        given-names: Gabrielle
+      - family-names: Axton
+        given-names: Myles
+      - family-names: Baak
+        given-names: Arie
+      - family-names: Blomberg
+        given-names: Niklas
+      - family-names: Boiten
+        given-names: Jan-Willem
+      - family-names: da Silva Santos
+        given-names: Luiz Bonino
+      - family-names: Bourne
+        given-names: Philip E.
+      - family-names: Bouwman
+        given-names: Jildau
+      - family-names: Brookes
+        given-names: Anthony J.
+      - family-names: Clark
+        given-names: Tim
+      - family-names: Crosas
+        given-names: Mercè
+      - family-names: Dillo
+        given-names: Ingrid
+      - family-names: Dumon
+        given-names: Olivier
+      - family-names: Edmunds
+        given-names: Scott
+      - family-names: Evelo
+        given-names: Chris T.
+      - family-names: Finkers
+        given-names: Richard
+      - family-names: Gonzalez-Beltran
+        given-names: Alejandra
+      - family-names: Gray
+        given-names: Alasdair J.G.
+      - family-names: Groth
+        given-names: Paul
+      - family-names: Goble
+        given-names: Carole
+      - family-names: Grethe
+        given-names: Jeffrey S.
+      - family-names: Heringa
+        given-names: Jaap
+      - family-names: "'t Hoen"
+        given-names: Peter A.C
+      - family-names: Hooft
+        given-names: Rob
+      - family-names: Kuhn
+        given-names: Tobias
+      - family-names: Kok
+        given-names: Ruben
+      - family-names: Kok
+        given-names: Joost
+      - family-names: Lusher
+        given-names: Scott J.
+      - family-names: Martone
+        given-names: Maryann E.
+      - family-names: Mons
+        given-names: Albert
+      - family-names: Packer
+        given-names: Abel L.
+      - family-names: Persson
+        given-names: Bengt
+      - family-names: Rocca-Serra
+        given-names: Philippe
+      - family-names: Roos
+        given-names: Marco
+      - family-names: van Schaik
+        given-names: Rene
+      - family-names: Sansone
+        given-names: Susanna-Assunta
+      - family-names: Schultes
+        given-names: Erik
+      - family-names: Sengstag
+        given-names: Thierry
+      - family-names: Slater
+        given-names: Ted
+      - family-names: Strawn
+        given-names: George
+      - family-names: Swertz
+        given-names: Morris A.
+      - family-names: Thompson
+        given-names: Mark
+      - family-names: van der Lei
+        given-names: Johan 
+      - family-names: van Mulligen
+        given-names: Erik
+      - family-names: Velterop
+        given-names: Jan
+      - family-names: Waagmeester
+        given-names: Andra
+      - family-names: Wittenburg
+        given-names: Peter
+      - family-names: Wolstencroft
+        given-names: Katherine
+      - family-names: Zhao
+        given-names: Jun
+      - family-names: Mons
+        given-names: Barend
+    date-published: "2016-03-15"
+    doi: 10.1038/sdata.2016.18
+    issue: 1
+    journal: Scientific Data
+    number: 160018
+    scope: "Reference for the FAIR principles serving as the guiding principles for the interoperability work."
+    title: "The FAIR Guiding Principles for scientific data management and stewardship"
+    type: article
+    url: "https://doi.org/10.1038/sdata.2016.18"
+    volume: 3
+    year: 2016
   - authors:
       - affiliation: University of Michigan Medical School, Ann Arbor, MI, USA
         family-names: Xiang
