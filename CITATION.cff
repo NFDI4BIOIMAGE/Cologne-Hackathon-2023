@@ -77,13 +77,6 @@ authors:
     family-names: Schauss
     given-names: Astrid
     orcid: "https://orcid.org/0000-0002-6658-2192"
-  - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
-    alias: kMutagene 
-    city: Kaiserslautern 
-    country: DE
-    family-names: Schneider
-    given-names: Kevin
-    orcid: "https://orcid.org/0000-0002-2198-5262" 
   - affiliation: Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany
     alias: andreaschrader
     city: Cologne
