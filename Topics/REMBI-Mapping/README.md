@@ -8,57 +8,59 @@ The CAi REMBI template is adapted from the REMBI table in the supplementary info
 
 **TOC - In this README:**  
 - [REMBI - Mapping](#rembi---mapping)
-  - [Brief introduction for non-specialists](#brief-introduction-for-non-specialists)
+  - [Introduction for non-specialists](#introduction-for-non-specialists)
   - [Workflow session](#workflow-session)
   - [Results](#results)
-    - [Following the suggested tasks file](#following-the-suggested-tasks-file)
+    - [When following the suggested tasks file](#when-following-the-suggested-tasks-file)
     - [**Questions**](#questions)
     - [Progress](#progress)
   - [Report](#report)
   - [Outlook](#outlook)
 
-## Brief introduction for non-specialists 
+## Introduction for non-specialists 
 **+ Context of the "REMBI-Mapping" topic**
 
 Metadata is data about data. Metadata can set biological images into context.  
 
-*To give an idea about the possible diversity of metadata achieving to create a respective annotated research context for biological images:*  
+*Possible diversity of metadata creating a respective annotated research context for biological images:*  
 
-There are different types of metadata. For example data about persons like the person acquiring the image, analyzing the image or the respective PI who has applied for and is supervising a project in which the biological image is part of an experiment conducted to answer a respective research question. Other metadata is collecting information about the respective project, experiment, method, sample preparation, species or specific genotype from which the sample was derived, possible sample treatments and image acquisition information. 
-Some metadata can be automatically extracted from the acquired image data. This can provide information about the image acquisition settings of the respective used device. Also, metadata about the file format can be extracted either being the raw data of the biological image or a derived file from image processing. Eventually, metadata about the image processing including used scripts or file format conversions can be collected.  
-Another but also important type of metadata informs the user (human or machine) about access rights, how the data can be used and what can be done with processed data derived e.g. from biological raw images.  
+There are different types of metadata. For example data about persons like the person acquiring the image, analyzing the image, supervising or the person who has applied for the project. The biological image is part of an experiment conducted to answer a research question. Metadata beyond the image itself collects information about the project, experiment, method, sample preparation, species or specific genotype from which a sample was derived, the sample treatment and its preparation for image acquisition.  
+Some metadata can be automatically extracted from the acquired image data. This can provide information about the image acquisition settings of the used device. Also, metadata about the file format can be extracted either being the raw data of the biological image or a derived file from image processing. Eventually, metadata about the image processing including scripts or file format conversions can be collected.  
+Another important type of metadata informs the user (human or machine) about access rights, how the data can be used and what can be done with processed data derived e.g. from biological raw images.  
 
-Obviously, the granularity of provided or required metadata might be very different.  
+Obviously, the granularity and diversity of provided or required metadata might be very different.  
 
 *How to determine what is required and required for what? Metadata in different contexts.*
 
+First of all, there might be community or lab standards or rules to which the researcher wants or has to adhere.
+
 Being a result within a research project, the [FAIR](https://doi.org/10.1038/sdata.2016.18) principles are a good guidance for this.
-The data and its metadata should adhere to the principles of and enable for:  
+The data and its metadata should adhere to or enable for:  
 
 - Findability
 - Accessibility
 - Interoperability
 - Reusability
 
-Research results should be reported about, ideally published in an article and/or submitted to an appropriate repository. These often already inform the researcher about the minimal requirements with respect to the data submitted and its respective metadata.
+Research results should be reported, published and submitted to an appropriate repository. These often inform the researcher about the minimal requirements with respect to the data submitted and the expected metadata.
 Several repositories for image data have stated to plan or already adhere to the guidance provided by the **RE**commended **M**etadata for **B**iological **I**mages.  
 
 According to the REMBI publication, these are:  
 
-- [BioImage Archive]()
-- [EMPIAR]()
-- [Cell-IDR]()
-- [Tissue-IDR]()
+- [BioImage Archive](https://www.ebi.ac.uk/bioimage-archive/)
+- [EMPIAR](https://www.ebi.ac.uk/empiar/)
+- [Cell-IDR](https://idr.openmicroscopy.org/cell/)
+- [Tissue-IDR](https://idr.openmicroscopy.org/tissue/)
 
-As imaging data is often only one type of data acquired in a research project and required to answer a respective research question, it needs to be set into a broader context and linked to the other types of specific data which also has its respective discipline- or method-specific standards or minimal requirements for submissions and proper data handling and acquisition.
-ARCs, the Annotate Research Context developed by DataPLANT intent to link all of these types of data with the respective metadata included into the ARC. When intending to transfer data into or from an ARC e.g. into OMERO, it is important to identify the imaging-specific metadata. The same holds true if imaging data is intended to be submitted to an imaging repository extracting metadata from the comprehensive metadata deposited inside the ARC. Also, it needs to be ensured, that the respective required metadata for such steps is present into an ARC and/or exported from OMERO into the ARC.
+As imaging data is often only one type of data acquired in a research project and required to answer a respective research question, it needs to be set into a broader context and linked to the other types of specific data which also have their respective discipline- or method-specific standards or minimal requirements for submissions and proper data handling and acquisition.  
+ARCs, the Annotate Research Context developed by DataPLANT intent to link all of these types of data with the respective metadata included into the ARC. When intending to transfer data into or from an ARC e.g. into OMERO, it is important to identify the imaging-specific metadata. The same holds true if imaging data is intended to be submitted to an imaging repository extracting metadata from the comprehensive metadata deposited inside the ARC. Also, it needs to be ensured, that the respective required metadata for such steps is present in an ARC and/or exported from OMERO into the ARC.
 
 Therefore, a conceptual brainstorming about such mapping issues is indispensable to enable an efficient, successful and maintainable implementation of OMERO-ARC interoperability tools. Also, the extend of requested metadata based on the recommendations from REMBI and aligning to the repository's requirements needs to be accessed and examples need to be created both, to understand about the requirements for tool development and for supporting users eventually using such tools in the future.
 
 Here, we are starting this process for the OMERO-ARC interoperability!
 
 *Why using Ontologies?*  
-Only on a second glance, users might grasp the importance of clear controlled vocabulary for this process. Often, there are terms which have a different meaning in different disciplines or even in different groups of people. If users start selecting their terminology used for the provided metadata from ontologies, this can balance tremendously for such unwanted effects and ensure that work invested by the user to describe the data is not lost and unambiguously usable for other users (humans or machines). Below sime suggestions for selecting appropriate terms from ontologies are provided. In ARCS the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool can significantly support with this task by providing access to a broad set of ontologies from which users can select similar as e.g. [Ontobee](https://ontobee.org/) or the [annotator tool](https://bioportal.bioontology.org/annotator) as suggested below.
+Only on a second glance, users might grasp the importance of clear controlled vocabulary for this process. Often, there are terms which have a different meaning in different disciplines or even in different groups of people. If users start selecting their terminology used for the provided metadata from ontologies, this can balance tremendously for such unwanted effects and ensure that work invested by the user to describe the data is not lost and unambiguously usable for other users (humans or machines). Below, some suggestions for selecting appropriate terms from ontologies are provided. In ARCS the DataPLANT [Swate](https://github.com/nfdi4plants/Swate) tool can significantly support with this task by providing access to a broad set of ontologies from which users can select similar as e.g. [Ontobee](https://ontobee.org/) or the [annotator tool](https://bioportal.bioontology.org/annotator) as suggested below.
 
 
 ## Workflow session
@@ -72,7 +74,7 @@ First connections of REMBI with ARC and OMERO.
 
 ## Results
 
-### Following the [suggested tasks file](../Cologne_Hackathon_Tasks.md)  
+### When following the [suggested tasks file](../Cologne_Hackathon_Tasks.md)  
 
 - Get OMERO running on the institutional instance.
 
@@ -94,11 +96,11 @@ First connections of REMBI with ARC and OMERO.
 - Should REMBI go into an ARC?
 - Can we map ARC metadata to a REMBI template?
 - Can we cherrypick the metadata of the ARC to extract the REMBI aligned metadata?
-- Try to find out which metadata is required when submitting to an imaging repository that expect users to use REMBI?
+- Find out which metadata is required when submitting to an imaging repository that expect users to use REMBI?
 
 ### Progress
 
-- Everyone got much more acquainted with the concepts and tools
+- Everyone got more acquainted with the concepts and tools
   - guidance for OMERO, learned about REMBI template used @CAi, navigated in an ARC, explored possibilities in Swate and discussed about the use of templates and appropriate ontology.  
   - Still some installations are required.
 
@@ -113,7 +115,7 @@ Started bringing a dataset from the [example ARC](https://git.nfdi4plants.org/na
 
 ## [Report](./Report/)
 
-The final report at the last day of the hackathon for the Interoperability topic can be found [here](./Report/FinalReport_REMBI_Mapping.pdf).
+The final report at the last day of the hackathon for the REMBI-Mapping topic can be found [here](./Report/FinalReport_REMBI_Mapping.pdf).
 
 ## Outlook
 
