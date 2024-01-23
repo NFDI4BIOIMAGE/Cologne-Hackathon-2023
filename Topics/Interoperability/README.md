@@ -33,7 +33,7 @@ Temporary link to the ARC-OMERO-IDR mapping table: https://docs.google.com/sprea
 
 ### Helpful links
 
-* [Generating test images](https://bio-formats.readthedocs.io/en/stable/developers/generating-test-images.html ) (Bio-Formats)
+* [Generating test images](https://bio-formats.readthedocs.io/en/stable/developers/generating-test-images.html ) ([Bio-Formats](https://doi.org/10.1083/jcb.201004104))
 
 ## Final report
 

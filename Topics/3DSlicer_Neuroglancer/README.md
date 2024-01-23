@@ -74,7 +74,7 @@ CONFIG_omero_web_cors__origin__allow__all: true
 
 ## Installing Neuroglancer
 
-* The quickest way to install Neuroglancer seems to be as pre-built Python package from https://pypi.org/project/neuroglancer/
+* The quickest way to install [Neuroglancer](https://doi.org/10.5281/zenodo.5573294) seems to be as pre-built Python package from https://pypi.org/project/neuroglancer/ (see [here](https://github.com/google/neuroglancer/) for the respective GitHub repository)
 
 ```bash
 # install
