@@ -145,7 +145,7 @@ keywords:
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
 type: generic
-version: 0.9.0
+version: v0.9.1
 references:
   - authors:
       - family-names: Allen
