@@ -98,7 +98,7 @@
         "CRC-TRR341"
     ],
     "license": "CC-BY-4.0",
-    "notes": "If you use content of this repository, please cite it using the metadata from the CITATION.cff file located in the repository. Authors are in alphabetical order! Here, currently some tests are done with the author list to find the reason for a submission failure.",
+    "notes": "If you use content of this repository, please cite it using these metadata. Authors are in alphabetical order!",
     "publication_date": "2024-01-31",
     "references": [
         "Allan, C., Burel, J.-M., Moore, J. A., Blackburn, C., Linkert, M., Loynton, S., MacDonald, D., Moore, W. J., Neves, C., Patterson, A., Porter, M., Tarkowska, A., Loranger, B., Avondo, J., Lagerstedt, I., Lianas, L., Leo, S., Hands, K., Hay, R. T., Patwardhan, A., Best, C., Kleywegt, G. J., Zanetti, G. & Swedlow, J. R. (2012). OMERO: flexible, model-driven data management for experimental biology. Nature Methods 9, 245-253. Published: 28 February 2012, https://doi.org/10.1038/nmeth.1896",
@@ -132,5 +132,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.17"
+    "version": "v0.9.18"
 }
