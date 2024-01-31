@@ -34,11 +34,11 @@
             "affiliation": "Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany",
             "name": "Hoevels, Moritz"
         }, {
-            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
             "name": "Kandpal, Niraj",
             "orcid": "0009-0007-5101-4786"
         }, {
-            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
             "name": "Möhl, Christoph",
             "orcid": "0000-0002-0829-5101"
         }, {
@@ -46,7 +46,7 @@
             "name": "Moore, Joshua A.",
             "orcid": "0000-0003-4028-811X"
         }, {
-            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
             "name": "Schauss, Astrid",
             "orcid": "0000-0002-6658-2192"
         }, {
@@ -73,7 +73,7 @@
             "name": "Wendt, Jens",
             "orcid": "0009-0002-1826-7099"
         }, {
-            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
             "name": "Zentis, Peter",
             "orcid": "0000-0002-6999-132X"
         }
@@ -130,5 +130,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.21"
+    "version": "v0.9.22"
 }
