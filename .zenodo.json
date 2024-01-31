@@ -7,9 +7,57 @@
     ],
     "creators": [
         {
+            "affiliation": "Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany",
             "affiliation": "Several affiliations like CEPALS, CECAD, RRZK etc.",
+            "name": "Abdrabbou, Mohamed M.",
             "name": "Hackathon Participants, Cologne",
+            "orcid": "0000-0003-2778-7483"
+        }, {
+            "affiliation": "Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany",
+            "name": "Babaki, Mehrnaz",
+            "orcid": "0000-0003-3099-618X"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Boissonnet, Tom",
+            "orcid": "0000-0002-3328-9467"
+        }, {
+            "affiliation": "Single-cell Open Lab, German Cancer Research Center (DKFZ), Heidelberg, Germany",
+            "name": "Bortolomeazzi, Michele",
+            "orcid": "0000-0001-5805-5774"
+        }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Dahms, Eik",
+            "orcid": "0000-0002-7452-1146"
+        }, {
+            "affiliation": "Center for Advanced Imaging, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany",
+            "name": "Fuchs, Vanessa A. F.",
+            "orcid": "0000-0002-4101-6987"
+        }, {
+            "affiliation": "Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany",
+            "name": "Hoevels, Moritz"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), University of Cologne, Cologne, Germany",
+            "name": "Kandpal, Niraj",
+            "orcid": "0009-0007-5101-4786"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Möhl, Christoph",
+            "orcid": "0000-0002-0829-5101"
+        }, {
+            "affiliation": "German BioImaging—Society for Microscopy and Image Analysis e.V., Constance, Germany",
+            "name": "Moore, Joshua A.",
+            "orcid": "0000-0003-4028-811X"
+        }, {
+            "affiliation": "Cologne Excellence Cluster on Cellular Stress Responses in Aging-Associated Diseases (CECAD), Cologne, Germany",
+            "name": "Schauss, Astrid",
+            "orcid": "0000-0002-6658-2192"
+        }, {
+            "affiliation": "Data Science and Management & Cluster of Excellence on Plant Sciences (CEPLAS), University of Cologne, Cologne, Germany",
+            "name": "Schrader, Andrea",
             "orcid": "0000-0002-3879-7057"
+        }, {
+            "affiliation": "Leibniz Institute for Neurobiology (LIN), Magdeburg, Germany",
+            "name": "Stöter, Torsten"
         }, {
             "affiliation": "Institute of Neuroscience and Medicine (INM-1), Forschungszentrum Jülich, Germany",
             "name": "Thönnißen, Julia",
@@ -84,5 +132,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.16"
+    "version": "v0.9.17"
 }
