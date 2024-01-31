@@ -24,6 +24,7 @@ This is the repository for documentation during the first **NFDI4Bioimage - TA3-
   - [Contributions](#contributions)
     - [Contributors in alphabetical order](#contributors-in-alphabetical-order)
   - [Zenodo submission](#zenodo-submission)
+    - [Zenodo sandbox test submission](#zenodo-sandbox-test-submission)
   - [Organizers](#organizers)
   - [Acknowledgement](#acknowledgement)
   - [Funding - for this hackathon](#funding---for-this-hackathon)
@@ -249,6 +250,10 @@ CITATION.cff and .zenodo.json:
 - CITATION.cff is used as a citation being directly in the repository and being accessible via the GitHub sidebar. 
 - Citation.cff was tested with [cffconvert](https://github.com/citation-file-format/cffconvert) prior to adding the references to be valid.  
 - The repo is prepared to be submitted as described [here](https://github.com/andreaschrader/doi-exercise) or [here](https://coderefinery.github.io/github-without-command-line/doi/). .zenodo.json is used for transferring the contained metadata to Zenodo.  
+
+### Zenodo sandbox test submission  
+
+[![DOI](https://sandbox.zenodo.org/badge/718969228.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.24903)
 
 ## Organizers
 
