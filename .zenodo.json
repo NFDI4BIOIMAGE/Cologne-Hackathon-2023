@@ -23,7 +23,7 @@
             "name": "Bortolomeazzi, Michele",
             "orcid": "0000-0001-5805-5774"
         }, {
-            "affiliation": "Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany",
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
             "name": "Dahms, Eik",
             "orcid": "0000-0002-7452-1146"
         }, {
@@ -61,7 +61,7 @@
             "name": "Thönnißen, Julia",
             "orcid": "0000-0002-5467-871X"
         }, {
-            "affiliation": "Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany",
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
             "name": "Valencia-Schneider, Mónica E.",
             "orcid": "0000-0003-3430-2683"
         }, {
@@ -130,5 +130,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.22"
+    "version": "v0.9.23"
 }
