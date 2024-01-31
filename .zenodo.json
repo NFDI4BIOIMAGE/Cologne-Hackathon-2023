@@ -8,9 +8,7 @@
     "creators": [
         {
             "affiliation": "Department of Biology/Chemistry and Center for Cellular Nanoanalytics, University Osnabrück, Germany",
-            "affiliation": "Several affiliations like CEPALS, CECAD, RRZK etc.",
             "name": "Abdrabbou, Mohamed M.",
-            "name": "Hackathon Participants, Cologne",
             "orcid": "0000-0003-2778-7483"
         }, {
             "affiliation": "Center for Molecular Medicine Cologne and CECAD Research Center, University of Cologne, Cologne, Germany",
@@ -132,5 +130,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.18"
+    "version": "v0.9.19"
 }
