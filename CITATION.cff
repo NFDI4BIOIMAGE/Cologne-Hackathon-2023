@@ -30,7 +30,7 @@ authors:
     family-names: Bortolomeazzi
     given-names: Michele
     orcid: "https://orcid.org/0000-0001-5805-5774"
-  - affiliation: Regional Computer Center (RRZK), University of Cologne, Cologne, Germany
+  - affiliation: Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany
     alias: eik-dahms
     city: Cologne
     country: DE
@@ -98,7 +98,7 @@ authors:
     family-names: Thönnißen
     given-names: Julia
     orcid: "https://orcid.org/0000-0002-5467-871X"
-  - affiliation: Regional Computer Center (RRZK), University of Cologne, Cologne, Germany
+  - affiliation: Regional Computing Centre (RRZK/ITCC), University of Cologne, Cologne, Germany
     alias: mvals
     city: Cologne
     country: DE
@@ -144,7 +144,7 @@ keywords:
   - CRC-TRR341
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
-version: 0.9.19
+version: 0.9.20
 references:
   - authors:
       - family-names: Allen
