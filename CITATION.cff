@@ -144,8 +144,7 @@ keywords:
   - CRC-TRR341
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
-type: generic
-version: v0.9.2
+version: 0.9.4
 references:
   - authors:
       - family-names: Allen
