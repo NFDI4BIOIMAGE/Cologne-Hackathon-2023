@@ -11,6 +11,10 @@
             "name": "Hackathon Participants, Cologne",
             "orcid": "0000-0002-3879-7057"
         }, {
+            "affiliation": "Regional Computer Center (RRZK), University of Cologne, Cologne, Germany",
+            "name": "Valencia-Schneider, Mónica E.",
+            "orcid": "0000-0003-3430-2683"
+        }, {
             "affiliation": "Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany",
             "name": "Weil, H. Lukas",
             "orcid": "0000-0003-1945-6342"
@@ -76,5 +80,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.14"
+    "version": "v0.9.15"
 }
