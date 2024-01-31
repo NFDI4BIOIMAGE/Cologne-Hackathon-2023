@@ -1,0 +1,14 @@
+{
+    "access_right": "open",
+    "creators": [
+        {
+            "affiliation": "Several affiliations like CEPALS, CECAD, RRZK etc.",
+            "name": "Hackathon Participants, Cologne",
+            "orcid": "0000-0002-3879-7057"
+        }
+    ],
+    "description": "Test description.",
+    "license": "CC-BY-4.0",
+    "publication_date": "2024-01-31",
+    "title": "NFDI4BIOIMAGE/Cologne-Hackathon-2023"
+}
