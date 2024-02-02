@@ -97,7 +97,7 @@
     ],
     "license": "CC-BY-4.0",
     "notes": "If you use content of this repository, please cite it using these metadata. Authors are in alphabetical order!",
-    "publication_date": "2024-01-31",
+    "publication_date": "2024-02-02",
     "references": [
         "Allan, C., Burel, J.-M., Moore, J. A., Blackburn, C., Linkert, M., Loynton, S., MacDonald, D., Moore, W. J., Neves, C., Patterson, A., Porter, M., Tarkowska, A., Loranger, B., Avondo, J., Lagerstedt, I., Lianas, L., Leo, S., Hands, K., Hay, R. T., Patwardhan, A., Best, C., Kleywegt, G. J., Zanetti, G. & Swedlow, J. R. (2012). OMERO: flexible, model-driven data management for experimental biology. Nature Methods 9, 245-253. Published: 28 February 2012, https://doi.org/10.1038/nmeth.1896",
         "Anders, I., Bianchi, C., Broder, D., Hellström, M., Islam, S., Jejkal, T., Lannom, L., Peters-von Gehlen, K., Quick, R., Schlemmer, A., Schwardmann, U., Soiland-Reyes, S., Strawn, G., van Uytvanck, D., Weiland, C., Wittenburg, P. & Zwölf, C. (2023). FDO Forum FDO Requirement Specifications. Zenodo. https://doi.org/10.5281/zenodo.7782262",
@@ -130,5 +130,5 @@
     "resource_type": "other",
     "title": "NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, GitHub repository)",
     "upload_type": "other",
-    "version": "v0.9.23"
+    "version": "v1.0.0"
 }
