@@ -1,7 +1,6 @@
 # 👋 Cologne-Hackathon-2023
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://sandbox.zenodo.org/badge/718969228.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.24903)  
-doi is the Zenodo sandbox doi used as a placeholder for the initial submission to Zenodo and will be replaced with the final doi thereafter.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/718969228.svg)](https://zenodo.org/doi/10.5281/zenodo.10609770)  
 
 This is the repository for documentation during the first **NFDI4Bioimage - TA3-Hackathon - UoC-2023** (in short: **Cologne Hackathon**).  
 
