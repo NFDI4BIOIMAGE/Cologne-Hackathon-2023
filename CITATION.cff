@@ -102,7 +102,7 @@ authors:
     alias: mvals
     city: Cologne
     country: DE
-    family-names: Valencia-S. 
+    family-names: Valencia-S.
     given-names:  Monica
     orcid: "https://orcid.org/0000-0003-3430-2683"
   - affiliation: Computational Systems Biology, University of Kaiserslautern-Landau, Kaiserslautern, Germany
@@ -144,7 +144,7 @@ keywords:
   - CRC-TRR341
 license: CC-BY-4.0
 title: NFDI4Bioimage - TA3-Hackathon - UoC-2023 (Cologne-Hackathon-2023, repository)
-version: 1.0.0
+version: 1.0.1
 references:
   - authors:
       - family-names: Allen
