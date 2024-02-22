@@ -231,6 +231,7 @@ When contributing, participants were asked to consider that (parts of) this repo
 
 |name|GitHub|ORCID|ROR|  
 |---|---|---|---|  
+|Eik Dahms| [@eik-dahms](https://github.com/eik-dahms)|[https://orcid.org/0000-0002-7452-1146](https://orcid.org/0000-0002-7452-1146)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
 |Niraj Kandpal|[@Nirkan](https://github.com/Nirkan)|https://orcid.org/0009-0007-5101-4786|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63)|
 |Christoph Möhl|[@cmohl2013](https://github.com/cmohl2013)|https://orcid.org/0000-0002-0829-5101||
 |Josh Moore|[@joshmoore](https://github.com/joshmoore)|https://orcid.org/0000-0003-4028-811X|[https://ror.org/05tpnw772](https://ror.org/05tpnw772)|
@@ -241,7 +242,7 @@ When contributing, participants were asked to consider that (parts of) this repo
 |Mónica E. Valencia-Schneider|[@mvals](https://github.com/mvals)|[https://orcid.org/0000-0003-3430-2683](https://orcid.org/0000-0003-3430-2683)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
 |Heinrich Lukas Weil|[@HLWeil](https://github.com/HLWeil)|[https://orcid.org/0000-0003-1945-6342](https://orcid.org/0000-0003-1945-6342)|[https://ror.org/01qrts582](https://ror.org/01qrts582)|
 |Peter Zentis|[@pzentis](https://github.com/pzentis)|[https://orcid.org/0000-0002-6999-132X](https://orcid.org/0000-0002-6999-132X)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774) <br>[https://ror.org/04c4bwh63](https://ror.org/04c4bwh63) |
-|Eik Dahms| [@eik-dahms](https://github.com/eik-dahms)|[https://orcid.org/0000-0002-7452-1146](https://orcid.org/0000-0002-7452-1146)|[https://ror.org/00rcxh774](https://ror.org/00rcxh774)|
+
 ## Zenodo submission
 
 The full list of participants - some only contributing to conceptual work on site and not directly to this repo - is provided in the [CITATION.cff](./CITATION.cff) and [.zenodo.json](./\.zenodo.json) files.  
